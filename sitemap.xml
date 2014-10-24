@@ -78,17 +78,17 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/post/hello/</loc>
-    <lastmod>2014-06-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://sookjin.com/post/lets-go-europe/</loc>
     <lastmod>2014-06-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://sookjin.com/post/evernote-folder/</loc>
+    <lastmod>2014-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sookjin.com/post/hello/</loc>
     <lastmod>2014-06-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -248,11 +248,6 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/family/nz-130109-03/</loc>
-    <lastmod>2013-01-10T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://sookjin.com/family/nz-130109-02/</loc>
     <lastmod>2013-01-10T12:00:00+00:00</lastmod>
   </url>
@@ -268,63 +263,73 @@
   </url>
   
   <url>
+    <loc>http://sookjin.com/family/guam-day0/</loc>
+    <lastmod>2012-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sookjin.com/family/guam-overview/</loc>
     <lastmod>2012-04-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://sookjin.com/post/i-love-melbourne/</loc>
-    <lastmod>2012-02-02T08:00:00+00:00</lastmod>
+    <lastmod>2012-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/family/jenu-day3-3/</loc>
+    <loc>http://sookjin.com/family/jeju-day3-3/</loc>
     <lastmod>2012-01-05T17:00:00+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/family/jenu-day3-2/</loc>
+    <loc>http://sookjin.com/family/jeju-day3-2/</loc>
     <lastmod>2012-01-05T14:00:00+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/family/jenu-day3-1/</loc>
+    <loc>http://sookjin.com/family/jeju-day3-1/</loc>
     <lastmod>2012-01-05T09:00:00+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/family/jenu-day2-3/</loc>
+    <loc>http://sookjin.com/family/jeju-day2-3/</loc>
     <lastmod>2012-01-04T12:00:00+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/family/jenu-day2-2/</loc>
+    <loc>http://sookjin.com/family/jeju-day2-2/</loc>
     <lastmod>2012-01-04T10:00:00+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/family/jenu-day2-1/</loc>
+    <loc>http://sookjin.com/family/jeju-day2-1/</loc>
     <lastmod>2012-01-04T09:00:00+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/family/jenu-day1-4/</loc>
+    <loc>http://sookjin.com/family/jeju-day1-4/</loc>
     <lastmod>2012-01-03T16:00:00+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/family/jenu-day1-3/</loc>
+    <loc>http://sookjin.com/family/jeju-day1-3/</loc>
     <lastmod>2012-01-03T12:00:00+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/family/jenu-day1-2/</loc>
+    <loc>http://sookjin.com/family/jeju-day1-2/</loc>
     <lastmod>2012-01-03T11:00:00+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/family/jenu-day1-1/</loc>
+    <loc>http://sookjin.com/family/jeju-day1-1/</loc>
     <lastmod>2012-01-03T09:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sookjin.com/family/nz-130109-03/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
