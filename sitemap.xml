@@ -3,8 +3,18 @@
   
   <url>
     <loc>http://sookjin.com/</loc>
-    <lastmod>2014-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2014-10-22T17:43:38+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sookjin.com/outdoor/around-the-bay-02/</loc>
+    <lastmod>2014-10-22T17:43:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sookjin.com/outdoor/around-the-bay-01/</loc>
+    <lastmod>2014-10-22T07:43:38+00:00</lastmod>
   </url>
   
   <url>
@@ -68,12 +78,12 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/outdoor/around-the-bay-in-2-days-summary/</loc>
+    <loc>http://sookjin.com/family/family-newletter-03/</loc>
     <lastmod>2014-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/family/family-newletter-03/</loc>
+    <loc>http://sookjin.com/outdoor/around-the-bay-in-2-days-summary/</loc>
     <lastmod>2014-07-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -603,13 +613,33 @@
   </url>
   
   <url>
+    <loc>http://sookjin.com/family/nz-north-day2-taupo-huka%20%281%29/</loc>
+    <lastmod>2013-01-11T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sookjin.com/family/nz-north-day1-ruakuri-night-tracking%20%281%29/</loc>
+    <lastmod>2013-01-10T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sookjin.com/family/nz-north-day1-ruakuri-night-tracking/</loc>
     <lastmod>2013-01-10T19:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://sookjin.com/family/nz-north-day1-waitomo-night%20%281%29/</loc>
+    <lastmod>2013-01-10T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sookjin.com/family/nz-north-day1-waitomo-night/</loc>
     <lastmod>2013-01-10T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sookjin.com/family/nz-north-day1-waitomo-glowworm-tour%20%281%29/</loc>
+    <lastmod>2013-01-10T16:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -623,8 +653,23 @@
   </url>
   
   <url>
+    <loc>http://sookjin.com/family/nz-north-day1-waitomo-top10%20%281%29/</loc>
+    <lastmod>2013-01-10T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sookjin.com/family/nz-north-day1-flight-to-nz/</loc>
     <lastmod>2013-01-10T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sookjin.com/family/nz-north-day1-flight-to-nz%20%281%29/</loc>
+    <lastmod>2013-01-10T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sookjin.com/family/go-to-nz/</loc>
+    <lastmod>2013-01-09T08:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -723,12 +768,12 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/family/jeju-day5-2/</loc>
+    <loc>http://sookjin.com/family/jeju-day5-3/</loc>
     <lastmod>2012-01-09T08:00:00+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/family/jeju-day5-3/</loc>
+    <loc>http://sookjin.com/family/jeju-day5-2/</loc>
     <lastmod>2012-01-09T08:00:00+10:00</lastmod>
   </url>
   
