@@ -3,7 +3,7 @@
   <channel>
       <title>T3mps on sookjin </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/t3mp/index.xml</link>
+    <link>http://sookjin.com/t3mp/index.xml</link>
     <language>en-us</language>
     <author>Sookjin Hyun</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Google Script 인보이스 전송</title>
-      <link>http://localhost:1313/t3mp/invoice-automation/</link>
+      <link>http://sookjin.com/t3mp/invoice-automation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://localhost:1313/t3mp/invoice-automation/</guid>
+      <guid>http://sookjin.com/t3mp/invoice-automation/</guid>
       <description>&lt;p&gt;Google Script&lt;/p&gt;
 </description>
     </item>
