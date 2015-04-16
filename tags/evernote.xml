@@ -3,7 +3,7 @@
   <channel>
       <title>Evernote on sookjin </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/tags/evernote/index.xml</link>
+    <link>http://sookjin.com/tags/evernote/index.xml</link>
     <language>en-us</language>
     <author>Sookjin Hyun</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>가족신문 만들기</title>
-      <link>http://localhost:1313/2014/10/how-to-issue-family-newsletter/</link>
+      <link>http://sookjin.com/2014/10/how-to-issue-family-newsletter/</link>
       <pubDate>Sat, 11 Oct 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://localhost:1313/2014/10/how-to-issue-family-newsletter/</guid>
+      <guid>http://sookjin.com/2014/10/how-to-issue-family-newsletter/</guid>
       <description>&lt;p&gt;어느새 1월, 4월, 7월, 10월. 네번째 가족신문을 발행하고 나니 나름의 절차와 요령이 생겼다. 아직은 혼자 기획, 편집, 디자인, 발행을 다 하고 있는 나홀로 출판이지만 모두가 손꼽아 기다리는 가족신문을 진두지휘하는 즐거움이 크다. 회가 거듭될수록 뿌듯함과 보람도 같이 쌓여가는데 혼자 대장 노릇을 하기가 아깝다. 송자매가 얼른 커서 가족의 역사를 기록하는 이 거룩한 프로젝트에 동참했으면 좋겠다.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;기사 수집&lt;/strong&gt;
@@ -35,10 +35,10 @@
     
     <item>
       <title>에버노트로 할 일 관리? 한 일 관리?</title>
-      <link>http://localhost:1313/2014/09/evernote-manage-todo/</link>
+      <link>http://sookjin.com/2014/09/evernote-manage-todo/</link>
       <pubDate>Wed, 17 Sep 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://localhost:1313/2014/09/evernote-manage-todo/</guid>
+      <guid>http://sookjin.com/2014/09/evernote-manage-todo/</guid>
       <description>&lt;p&gt;오거나이즈병(?) 중증 환자로써 에버노트를 활용한 GTD를 많이 고민했었다. 외국의 여러 사례를 참고해서 에버노트로 GTD 시스템을 꾸려보려 했다. 노트북을 생성하고, 태그를 만들고, 할 일마다 한 줄 짜리 노트를 만들고, 태그로 컨텍스트 관리하고..  그런데 왠지 억지스럽고 too much란 느낌이 들었다. 할 일이 관리되는 느낌이 아니라 오히려 더 정신없고 clutter 된다고 할까. 내가 서툴어서 그랬는지 모르겠지만, 이건 시간을 잘 활용하려고 하는 시스템인데 오히려 시간이 &amp;ldquo;낭비&amp;rdquo;되고 있다는 느낌을 버릴 수 없었다.&lt;/p&gt;
 
 &lt;p&gt;고민이 시작되었다. 나의 할 일 관리 시스템 과연 이대로 좋은가.&lt;/p&gt;
@@ -61,10 +61,10 @@
     
     <item>
       <title>에버노트 라이프</title>
-      <link>http://localhost:1313/2014/05/my-evernote-life/</link>
+      <link>http://sookjin.com/2014/05/my-evernote-life/</link>
       <pubDate>Wed, 07 May 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://localhost:1313/2014/05/my-evernote-life/</guid>
+      <guid>http://sookjin.com/2014/05/my-evernote-life/</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;Evernote의 목적&lt;/h2&gt;
