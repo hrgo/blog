@@ -3,7 +3,7 @@
   <channel>
       <title>Family on sookjin </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://sookjin.com/tags/family/index.xml</link>
+    <link>http://localhost:1313/tags/family/index.xml</link>
     <language>en-us</language>
     <author>Sookjin Hyun</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>우리집 가족 신문</title>
-      <link>http://sookjin.com/2014/04/family-newsletter/</link>
+      <link>http://localhost:1313/2014/04/family-newsletter/</link>
       <pubDate>Fri, 11 Apr 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2014/04/family-newsletter/</guid>
+      <guid>http://localhost:1313/2014/04/family-newsletter/</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;현자매&lt;/h2&gt;
