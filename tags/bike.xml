@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Bike on sookjin </title>
+      <title>Bike on sookjin.com </title>
       <generator uri="https://gohugo.io">Hugo</generator>
     <link>http://sookjin.com/tags/bike/index.xml</link>
     <language>en-us</language>
     <author>Sookjin Hyun</author>
     
-    <updated>Wed, 22 Oct 2014 17:43:38 UTC</updated>
+    <updated>Sun, 23 Nov 2014 07:43:38 UTC</updated>
+    
+    <item>
+      <title>나의 첫번째 자전거 여행</title>
+      <link>http://sookjin.com/2014/11/201411-kinglake/</link>
+      <pubDate>Sun, 23 Nov 2014 07:43:38 UTC</pubDate>
+      <author>Sookjin Hyun</author>
+      <guid>http://sookjin.com/2014/11/201411-kinglake/</guid>
+      <description>&lt;p&gt;올해 4월에 자전거 여행에 꽂혀 오랜기간 준비했지만 이런저런 이유로 미뤄졌던 나의 자전거 여행. 여기서 내가 말하는 자전거 여행이란 자전거와 캠핑이 합쳐진 형태의 여행을 말한다.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2014 Bupa Around the Bay | 대회 당일</title>

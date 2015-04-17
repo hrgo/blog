@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Smart on sookjin </title>
+      <title>Smart on sookjin.com </title>
       <generator uri="https://gohugo.io">Hugo</generator>
     <link>http://sookjin.com/tags/smart/index.xml</link>
     <language>en-us</language>
@@ -10,11 +10,11 @@
     <updated>Sat, 20 Dec 2014 00:00:00 UTC</updated>
     
     <item>
-      <title>맥이 윈도우보다 나은 5가지 이유</title>
-      <link>http://sookjin.com/2014/12/5-reasons-mac-wins/</link>
+      <title>맥 vs 윈도우</title>
+      <link>http://sookjin.com/post/5-reasons-mac-wins/</link>
       <pubDate>Sat, 20 Dec 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2014/12/5-reasons-mac-wins/</guid>
+      <guid>http://sookjin.com/post/5-reasons-mac-wins/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.pcadvisor.co.uk/opinion/apple/115151/5-reasons-why-a-mac-is-better-than-a-pc/?gdRef=a-rDmJN&#34;&gt;맥이 윈도보다 나은 5가지 이유&lt;/a&gt; 라고 기사 제목은 써 있는데 &amp;ldquo;맥이 윈도우보다 나은 점 5가지&amp;rdquo;가 맞을 것 같다.&lt;/p&gt;
 
 &lt;ol&gt;
