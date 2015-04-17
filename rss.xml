@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Recent Content on sookjin.com </title>
+      <title>Recent Content on sookjin </title>
       <generator uri="https://gohugo.io">Hugo</generator>
     <link>http://sookjin.com/index.xml</link>
     <language>en-us</language>
@@ -63,16 +63,6 @@
 &lt;p&gt;나는 어느 편도 아니고 윈도우 독점 시장에서 맥이 이처럼 고군분투(?) 하면서 성장하고 있는 것은 분명히 응원할 일이라고 생각하는 한 사람일 뿐이다. 양대 PC 운영체제 마켓도 Mobile운영 체제인 Android 대 iOS 처럼 비등한 마켓 쉐어를 가지는 날이 와야 할 것이다. (아직 PC 운영체제로써의 맥은 10%의 점유율도 가지지 못하고 있음.) 둘은 같이 가면서 경쟁하고 성장해야 할 다른 운영체제일 뿐이다.&lt;/p&gt;
 
 &lt;p&gt;한가지 작은 바램은 적어도 키보드 레이아웃이랑 단축키는 통일을 했음 하는건데.. 20년간 몸에 익혀온 키보드 단축키 근육을 사용 못하게 되니 심플함이고 나발이고 답답함과 불편함이 앞서기 때문이다.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>나의 첫번째 자전거 여행</title>
-      <link>http://sookjin.com/2014/11/201411-kinglake/</link>
-      <pubDate>Sun, 23 Nov 2014 07:43:38 UTC</pubDate>
-      <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2014/11/201411-kinglake/</guid>
-      <description>&lt;p&gt;올해 4월에 자전거 여행에 꽂혀 오랜기간 준비했지만 이런저런 이유로 미뤄졌던 나의 자전거 여행. 여기서 내가 말하는 자전거 여행이란 자전거와 캠핑이 합쳐진 형태의 여행을 말한다.&lt;/p&gt;
 </description>
     </item>
     
@@ -699,6 +689,39 @@
 &lt;p&gt;난 청개구리 마인드가 있어서 남들이 다 한다고 하면 한 번 더 고민을 하는 편인데, Google+는 여러가지 기능을 견주어보고 내가 필요로 하는 기능을 모두 제공했기에 사용하기 시작했다. 개인적으로 블로그를 포함한 SNS는 어디까지나 개인 역사라고 생각하기에 사실 사용자가 얼마이고 회사가 어딘지는 나에게 별로 중요하지 않다. 물론 구글에 대한 믿음도 큰 몫을 했지만 Google+가 지금 현재 내가 원하는 것을 충족시켜 주기 때문에 사용하는 것 뿐이다. 지금이야 만족스럽게 사용중이지만 구글이 앞으로 어떠한 가치를 줄 수 있는지는 두고 봐야 하겠다.&lt;/p&gt;
 
 &lt;p&gt;트랜드는 계속 변한다. 기술은 날마다 진화되고 Facebook도 Google+도 영원할 거라 생각하지 않는다. 마음이야 지금 내가 쓰고 있는 Google+를 더 많은 사람들이 알아주고 함께 썼으면 좋겠지만, 또 시간이 지나고 새로운 서비스가 나오게 된다면 나는 분명히 더 좋은것을 찾아 떠날테니까. 끝.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>지도계의 이단아 Open Street Map</title>
+      <link>http://sookjin.com/2014/07/google-map-cant-beat-osm/</link>
+      <pubDate>Sat, 26 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Sookjin Hyun</author>
+      <guid>http://sookjin.com/2014/07/google-map-cant-beat-osm/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Google Map can&amp;rsquo;t beat OSM!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;구글맵이 최고인줄 알고 살았는데 최근에 자전거 코스를 연구(?)하면서 OSM이 훨씬 뛰어나다는 것을 알게 되었다. &lt;a href=&#34;http://www.openstreetmap.org/&#34;&gt;OSM&lt;/a&gt;은 Wiki 스타일로 전세계 사용자의 자발적인 참여로 만들어진 지도인데 다른건 모르겠지만 지도가 훨씬 디테일하고 자전거 도로나 하이킹 코스 등은 단연 압권이다. 말 대신 스크린샷으로 비교.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh5.googleusercontent.com/-LQJ-n5GolbU/U83iD54xH2I/AAAAAAAAS3k/uWLic2A_HXA/w331-h551-no/Screenshot_2014-07-22-13-52-14.png&#34; alt=&#34;&#34; /&gt;
+&lt;em&gt;Google Map&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-zJ3JtEKK3sk/U83iKhvf94I/AAAAAAAAS3w/yIcnEFZzD0M/w331-h551-no/Screenshot_2014-07-22-13-52-59.png&#34; alt=&#34;&#34; /&gt;
+&lt;em&gt;OSM&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;주차장은 물론 놀이터, 공원, 화장실등  저 디테일한 기차길과 바닷가의 walking trail 이 보이는가?산으로 가면 그 차이가 하늘과 땅 차이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-5HCAFbyvZD0/U83iQlSLxrI/AAAAAAAAS4I/ld-JTuq9McE/w331-h551-no/Screenshot_2014-07-22-13-58-02.png&#34; alt=&#34;Google Map&#34; title=&#34;Google Map&#34; /&gt;
+
+&lt;em&gt;Google&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-LHJnzTi7N74/U83iNmNDNwI/AAAAAAAAS38/49J3tmwgnwA/w331-h551-no/Screenshot_2014-07-22-13-57-55.png&#34; alt=&#34;OSM&#34; title=&#34;OSM&#34; /&gt;
+
+&lt;em&gt;OSM&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;구글은 대부분의 산이 녹색으로 표시되는 반면, OSM은 세세한 walking track까지 다 나와 있다. 이게 다가 아니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-tSawn-g7y1A/U9ZBXboSS8I/AAAAAAAAaAw/ttn9QGFj04U/w362-h440-no/Image.png&#34; alt=&#34;&#34; /&gt;
+CycleMap을 선택하면 등고선까지 나온다.  난 이 등고선 지도를 보고 정말 감격스러웠다. 왠만한 TopoMap 저리가라다. Walking course를 계획하는데 크게 도움이 될 듯.&lt;/p&gt;
 </description>
     </item>
     
