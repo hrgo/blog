@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>http://sookjin.com/2014/11/5-changes-since-i-ride-bike/</loc>
+    <lastmod>2014-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sookjin.com/2014/10/around-the-bay-02/</loc>
     <lastmod>2014-10-22T17:43:38+00:00</lastmod>
   </url>
@@ -25,11 +30,6 @@
   <url>
     <loc>http://sookjin.com/2014/10/around-the-bay-03/</loc>
     <lastmod>2014-10-22T07:43:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://sookjin.com/2014/10/5-changes-since-i-ride-bike/</loc>
-    <lastmod>2014-10-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -93,22 +93,22 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2014/07/around-the-bay-in-2-days-summary/</loc>
-    <lastmod>2014-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://sookjin.com/2014/07/family-newletter-03/</loc>
     <lastmod>2014-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/2014/06/evernote-folder/</loc>
-    <lastmod>2014-06-26T00:00:00+00:00</lastmod>
+    <loc>http://sookjin.com/2014/07/around-the-bay-in-2-days-summary/</loc>
+    <lastmod>2014-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://sookjin.com/2014/06/ding-dong-dang/</loc>
+    <lastmod>2014-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sookjin.com/2014/06/evernote-folder/</loc>
     <lastmod>2014-06-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -153,6 +153,16 @@
   </url>
   
   <url>
+    <loc>http://sookjin.com/2014/04/father-australia-2/</loc>
+    <lastmod>2014-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sookjin.com/2014/04/father-australia-1/</loc>
+    <lastmod>2014-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sookjin.com/2014/04/family-newletter-02/</loc>
     <lastmod>2014-04-15T00:00:00+00:00</lastmod>
   </url>
@@ -160,11 +170,6 @@
   <url>
     <loc>http://sookjin.com/2014/04/family-newsletter/</loc>
     <lastmod>2014-04-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://sookjin.com/2014/03/move-to-australia-1/</loc>
-    <lastmod>2014-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -243,12 +248,22 @@
   </url>
   
   <url>
+    <loc>http://sookjin.com/contact/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sookjin.com/about/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://sookjin.com/2014/01/overland-day8/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sookjin.com/toc/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1465,6 +1480,21 @@
   <url>
     <loc>http://sookjin.com/1999/01/australia-sydney/</loc>
     <lastmod>1999-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sookjin.com/2014/03/move-to-australia-1/</loc>
+    <lastmod>2014-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sookjin.com/2014/03/move-to-australia-2/</loc>
+    <lastmod>2014-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sookjin.com/2014/03/move-to-australia-3/</loc>
+    <lastmod>2014-03-25T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
