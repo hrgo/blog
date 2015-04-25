@@ -3,7 +3,7 @@
   <channel>
       <title>Outdoor Life on Sookjin.com </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://sookjin.com/tags/outdoor-life/index.xml</link>
+    <link>http://localhost:1313/tags/outdoor-life/index.xml</link>
     <language>en-us</language>
     <author>Sookjin Hyun</author>
     
@@ -11,55 +11,24 @@
     
     <item>
       <title>Outdoor Lifestyle</title>
-      <link>http://sookjin.com/outdoor-lifestyle/</link>
+      <link>http://localhost:1313/outdoor-lifestyle/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor-lifestyle/</guid>
+      <guid>http://localhost:1313/outdoor-lifestyle/</guid>
       <description>
 
-&lt;h3 id=&#34;toc_0&#34;&gt;Around the Bay 2014&lt;/h3&gt;
+&lt;h3 id=&#34;toc_0&#34;&gt;Personal Project&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/2014/10/around-the-bay-01/&#34;&gt;Bupa Around the Bay | 훈련&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2014/10/around-the-bay-03/&#34;&gt;Bupa Around the Bay | 준비물&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2014/10/around-the-bay-02/&#34;&gt;Bupa Around the Bay | 대회 당일&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/around-the-bay-2014&#34;&gt;Bupa Around the Bay 2014&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tasmania Road Trip 2014&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/overland-track&#34;&gt;Overland Track&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/great-ocean-walk&#34;&gt;Great Ocean Walk 2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/snowy-river-np&#34;&gt;Snowy River National Park 2013&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wilsons Prom Pack Carry 2013&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;toc_1&#34;&gt;Tasmania Road Trip 2014&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/2014/01/tasmania-road-trip-day1/&#34;&gt;Tasmania | Hobart - Coles Bay&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2014/01/tasmania-road-trip-day2-1/&#34;&gt;Tasmania | Wineglass Bay&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2014/01/tasmania-road-trip-day2-2/&#34;&gt;Tasmania | The Gardens&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2014/01/tasmania-road-trip-day3/&#34;&gt;Tasmania | Launceston&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;toc_2&#34;&gt;OverLand Track 2013&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/2014/01/overland-track-summary&#34;&gt;Overland Track Overview&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2013/12/overland-day1/&#34;&gt;Day1 | Cradle Mt. - Waterfall Velly Hut&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2013/12/overland-day2/&#34;&gt;Day2 | Waterfall Velly Hut - Windermere Hut&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2013/12/overland-day3/&#34;&gt;Day3 | Windermere - Pelion Hutt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2013/12/overland-day4/&#34;&gt;Day4 | Pelion Hut - Kia Ora Hut&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2013/12/overland-day5/&#34;&gt;Day6 | Bert Nichols Hut - Pine Valley Hut&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2013/12/overland-day6/&#34;&gt;Day5 | Kia Ora Hut - Bert Nichols Hut&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2013/12/overland-day7/&#34;&gt;Day7 | Pine Valley Hut - Narcissus Hut&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2014/01/overland-day8/&#34;&gt;Day8 | Narcissus Hut - Lake St Clair&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;toc_3&#34;&gt;Snowy River National Park Pack Carry 2013&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/2013/04/snowy-river-national-park-overview/&#34;&gt;Snowy River National Park Overview&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2013/04/snowy-river-national-park-day-0/&#34;&gt;Day0 | Drive to NP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2013/04/snowy-river-national-park-day-1/&#34;&gt;Day1 | Rodger River Track - River Camp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2013/04/snowy-river-national-park-day-2/&#34;&gt;Day2 | Moonkan Track - River Camp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2013/04/snowy-river-national-park-day-3/&#34;&gt;Day3 | Gorge Walk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2013/04/snowy-river-national-park-day-4/&#34;&gt;Day4 | Rodger River Track back to car&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;toc_4&#34;&gt;Wilsons Prom Pack Carry 2013&lt;/h3&gt;
+&lt;h3 id=&#34;toc_1&#34;&gt;Wilsons Prom Pack Carry 2013&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/2013/03/wilsons-prom-overnight-hiking-overview/&#34;&gt;Wilsons Prom Overnight Hiking | Overview&lt;/a&gt;&lt;/li&gt;
@@ -69,22 +38,7 @@
 &lt;li&gt;&lt;a href=&#34;/2013/03/wilsons-prom-overnight-hiking-3/&#34;&gt;Wilsons Prom Overnight Hiking | Day4&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;toc_5&#34;&gt;Greate Ocean Walk 2012&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/2013/02/gow-day-0-overview/&#34;&gt;Great Ocean Walk Overview&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2012/11/gow-day-1-apollo-bay-visitor-centre-eliot-ridge-campsite/&#34;&gt;Apollo Bay Visitor Centre - Eliot Ridge Campsite&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2012/11/gow-day-2-eliot-ridge-campsite-blanket-bay-campsite/&#34;&gt;Eliot Ridge Campsite - Blanket Bay Campsite&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2012/11/gow-day-3-blanket-bay-campsite-cape-otway-lightstaion/&#34;&gt;Blanket Bay Campsite - Cape Otway Lightstaion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2012/11/gow-day-4-cape-otway-lightstation-aire-river-campground/&#34;&gt;Cape Otway Lightstation - Aire River Campground&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2012/11/gow-day-5-aire-river-campground-johanna-beach/&#34;&gt;Aire River Campground - Johanna Beach&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2012/12/gow-day-6-johanna-beach-ryans-den-campsite/&#34;&gt;Johanna Beach - Ryan&amp;rsquo;s Den campsite&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2012/12/gow-day-7-ryans-den-campsite-the-gables-car-park/&#34;&gt;Ryan&amp;rsquo;s Den campsite - The Gables Car Park&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2012/12/gow-day-8-gables-car-park-princetown/&#34;&gt;Gables Car Park - Princetown&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/2012/12/gow-day-9-princetown-gibson-steps/&#34;&gt;Princetown - Gibson Steps&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;toc_6&#34;&gt;Others&lt;/h3&gt;
+&lt;h3 id=&#34;toc_2&#34;&gt;Others&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/2014/05/grampians-bike-riding-halls-gap-stawell/&#34;&gt;[Bike] Grampians Riding - 그램피언스 나홀로 라이딩&lt;/a&gt;&lt;/li&gt;
