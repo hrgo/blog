@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Family Newsletter 2 on Sookjin.com </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://sookjin.com/topics/family-newsletter-2/index.xml</link>
+    <language>en-us</language>
+    <author>Sookjin Hyun</author>
+    
+    <updated>Tue, 15 Apr 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>[가족신문] 가족신문 2호 - 2014년 4월 발행</title>
+      <link>http://sookjin.com/2014/04/family-newletter-02/</link>
+      <pubDate>Tue, 15 Apr 2014 00:00:00 UTC</pubDate>
+      <author>Sookjin Hyun</author>
+      <guid>http://sookjin.com/2014/04/family-newletter-02/</guid>
+      <description>&lt;p&gt;가족신문 2호.
+&lt;a href=&#34;https://drive.google.com/open?id=0B8Nhtohq8bdbcm9Cb3ZCWTItdEU&amp;amp;authuser=0&#34; title=&#34;View&#34;&gt;원본 보기&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&#34;http://docs.google.com/gview?url=https://github.com/hrgo/newsletter/blob/master/Family-Newsletter-201404.pdf?raw=true&amp;embedded=true&#34; width=&#34;100%&#34; height=&#34;780&#34; style=&#34;border: none;&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
