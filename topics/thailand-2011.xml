@@ -3,7 +3,7 @@
   <channel>
       <title>Thailand 2011 on Sookjin.com </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://sookjin.com/topics/thailand-2011/index.xml</link>
+    <link>http://localhost:1313/topics/thailand-2011/index.xml</link>
     <language>en-us</language>
     <author>Sookjin Hyun</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Thailand | Day1 | 태국 상봉</title>
-      <link>http://sookjin.com/2011/04/thailand-day1/</link>
+      <link>http://localhost:1313/2011/04/thailand-day1/</link>
       <pubDate>Fri, 22 Apr 2011 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2011/04/thailand-day1/</guid>
+      <guid>http://localhost:1313/2011/04/thailand-day1/</guid>
       <description>&lt;p&gt;현자매 수완나품 공항에서 3개월 만에 상봉하는 날이다.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-XM-649zwM20/TpPuAZxfupI/AAAAAAAABm0/fXfhz_Y0Fw8/s500/2011-04-22%25252013.02.27.jpg&#34; alt=&#34;&#34; /&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>Thailand | Overview</title>
-      <link>http://sookjin.com/2011/04/thailand-overview/</link>
+      <link>http://localhost:1313/2011/04/thailand-overview/</link>
       <pubDate>Thu, 21 Apr 2011 07:48:52 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2011/04/thailand-overview/</guid>
+      <guid>http://localhost:1313/2011/04/thailand-overview/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Overview&lt;/h3&gt;
@@ -136,10 +136,10 @@
     
     <item>
       <title>Thailand | Day2 | 파타야로 이동</title>
-      <link>http://sookjin.com/2011/04/thailand-day2/</link>
+      <link>http://localhost:1313/2011/04/thailand-day2/</link>
       <pubDate>Sat, 23 Apr 2011 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2011/04/thailand-day2/</guid>
+      <guid>http://localhost:1313/2011/04/thailand-day2/</guid>
       <description>
 
 &lt;p&gt;오늘은 파타야로 이동하는 날이다.&lt;/p&gt;
@@ -287,10 +287,10 @@ Bell Travel Bus 티켓. 온라인으로 예약하고 갔는데 서비스 완전 
     
     <item>
       <title>Thailand | Day3 | 산호섬</title>
-      <link>http://sookjin.com/2011/04/thailand-day3/</link>
+      <link>http://localhost:1313/2011/04/thailand-day3/</link>
       <pubDate>Sun, 24 Apr 2011 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2011/04/thailand-day3/</guid>
+      <guid>http://localhost:1313/2011/04/thailand-day3/</guid>
       <description>&lt;p&gt;오늘은 산호섬에 가는 날.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7167/6388665359_7351602334_z.jpg&#34; alt=&#34;&#34; /&gt;
@@ -422,10 +422,10 @@ Bell Travel Bus 티켓. 온라인으로 예약하고 갔는데 서비스 완전 
     
     <item>
       <title>Thailand | Day4 | 방콕으로 이동</title>
-      <link>http://sookjin.com/2011/04/thailand-day4/</link>
+      <link>http://localhost:1313/2011/04/thailand-day4/</link>
       <pubDate>Mon, 25 Apr 2011 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2011/04/thailand-day4/</guid>
+      <guid>http://localhost:1313/2011/04/thailand-day4/</guid>
       <description>&lt;p&gt;오늘은 방콕으로 이동하고 형부는 집에 가는 날이에요.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7148/6393276919_7cf5404b60_z.jpg&#34; alt=&#34;&#34; /&gt;
@@ -554,10 +554,10 @@ Bell Travel Bus 티켓. 온라인으로 예약하고 갔는데 서비스 완전 
     
     <item>
       <title>Thailand | Day5 | 먹고 놀고</title>
-      <link>http://sookjin.com/2011/04/thailand-day5/</link>
+      <link>http://localhost:1313/2011/04/thailand-day5/</link>
       <pubDate>Tue, 26 Apr 2011 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2011/04/thailand-day5/</guid>
+      <guid>http://localhost:1313/2011/04/thailand-day5/</guid>
       <description>&lt;p&gt;여전히 수영하고 먹고의 연속인 날들.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7007/6399093519_ebbd0e7da0_z.jpg&#34; alt=&#34;&#34; /&gt;
@@ -668,10 +668,10 @@ Bell Travel Bus 티켓. 온라인으로 예약하고 갔는데 서비스 완전 
     
     <item>
       <title>Thailand | Day6 | 먹고 놀고 쇼핑하고</title>
-      <link>http://sookjin.com/2011/04/thailand-day6/</link>
+      <link>http://localhost:1313/2011/04/thailand-day6/</link>
       <pubDate>Wed, 27 Apr 2011 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2011/04/thailand-day6/</guid>
+      <guid>http://localhost:1313/2011/04/thailand-day6/</guid>
       <description>&lt;p&gt;오늘은 Pullman으로 호텔 이동 후 하루종일 쇼핑하고 먹고 놀계획이에요.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7032/6489703739_d69e39e8ce_z.jpg&#34; alt=&#34;&#34; /&gt;
@@ -773,10 +773,10 @@ BTS를 타고 숙소로&lt;/p&gt;
     
     <item>
       <title>Thailand | Day7 | 왕궁, 카오산</title>
-      <link>http://sookjin.com/2011/04/thailand-day7/</link>
+      <link>http://localhost:1313/2011/04/thailand-day7/</link>
       <pubDate>Thu, 28 Apr 2011 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2011/04/thailand-day7/</guid>
+      <guid>http://localhost:1313/2011/04/thailand-day7/</guid>
       <description>&lt;p&gt;오늘은 왕궁데이에요. 우리의 유일한 관광일정 이에요.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7166/6445269391_46397ba73d_z.jpg&#34; alt=&#34;&#34; /&gt;
@@ -1023,10 +1023,10 @@ BTS를 타고 숙소로&lt;/p&gt;
     
     <item>
       <title>Thailand | Day8 | 하루종일 놀고 해산</title>
-      <link>http://sookjin.com/2011/04/thailand-day8/</link>
+      <link>http://localhost:1313/2011/04/thailand-day8/</link>
       <pubDate>Fri, 29 Apr 2011 20:56:54 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2011/04/thailand-day8/</guid>
+      <guid>http://localhost:1313/2011/04/thailand-day8/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Day8 29Apr2011&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;마지막 날. 아침먹고 산책하고 게으름.

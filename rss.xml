@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on Sookjin.com </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://sookjin.com/index.xml</link>
+    <link>http://localhost:1313/index.xml</link>
     <language>en-us</language>
     <author>Sookjin Hyun</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>내가 SNS를 하지 않는 이유</title>
-      <link>http://sookjin.com/2015/04/why-i-dont-do-sns/</link>
+      <link>http://localhost:1313/2015/04/why-i-dont-do-sns/</link>
       <pubDate>Mon, 20 Apr 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2015/04/why-i-dont-do-sns/</guid>
+      <guid>http://localhost:1313/2015/04/why-i-dont-do-sns/</guid>
       <description>
 
 &lt;p&gt;SNS의 시대다. 나도 물론 호기심에 때로는 어쩔 수 없이 Facebook, Twitter, Instagram, 카카오 스토리 등을 서비스 초기에 잠깐 사용해 봤지만 지금은 모두 정리하고 아무것도 하지 않는다. &lt;a href=&#34;/2014/07/my-only-sns-google-plus/&#34;&gt;Google+를 사용중&lt;/a&gt;이긴 하나 사진 백업과 공유를 위한 목적일뿐, 난 언제나 그랬듯 블로그 하나면 족하다.&lt;/p&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>내가 원하는 자유</title>
-      <link>http://sookjin.com/2015/04/i-want-free/</link>
+      <link>http://localhost:1313/2015/04/i-want-free/</link>
       <pubDate>Wed, 15 Apr 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2015/04/i-want-free/</guid>
+      <guid>http://localhost:1313/2015/04/i-want-free/</guid>
       <description>&lt;p&gt;작년 말 시작된 나의 고민은 자유였다. 내가 원하는 자유는 무엇인가. 이 질문은 어느날 갑자기 자전거 세계여행을 가고싶다는 엉뚱한 욕망에서 시작되었다. 나는 떠나고 싶었다. 하루 빨리 떠나야 할 것 같아서 하루하루가 안절부절이었다. 진심으로 떠날 생각에 계획도 다 세웠다.&lt;/p&gt;
 
 &lt;p&gt;하지만. 계획을 세우고 정리를 하다 보니 그 해야할 일에 눌려 여행을 떠나고 싶다는 욕망이 사그러들고 있었다. 자전거 여행을 한 번 가기 위해 생각할게 너무 많았다. 짐을 정리하고, 차를 팔고, 집을 내놓고, 퇴사를 하고.. 정말이지 우습게도 가진게 많아서 자유롭지 못하는 상황을 맞은 것이다. 이렇게 다 정리하고 갔다고 치자. 그러면 다시 돌아와서는 또 어떡하지..? 늘 원하는 것을 하면서 살았지만 이번엔 아니었다. 철학없이 운영해 온 삶은 갑자기 어느 순간 out of control이었다.&lt;/p&gt;
@@ -74,253 +74,11 @@
     </item>
     
     <item>
-      <title>경주 가족 여행 #10 탁월했던 점심 식사 도솔마을</title>
-      <link>http://sookjin.com/2015/02/kyungju-10/</link>
-      <pubDate>Thu, 26 Feb 2015 00:00:00 UTC</pubDate>
-      <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2015/02/kyungju-10/</guid>
-      <description>&lt;p&gt;포석정에서 아무 생각없이 놀다보니 어느새 점심 시간이 되었다. 아무래도 오늘 안동을 가기는 글른 것 같다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-qIulOVYHExE/VO81zfEidvI/AAAAAAABCD8/j9VfQwrxPZA/w718-h404-no/IMG_20150226_135502.jpg&#34; alt=&#34;&#34; /&gt;
-
-우리는 점심을 먹기로 하고 언니가 고른 식당에 도착을 했다. 도솔마을.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-MSRy33WtiaM/VO81zT_5y1I/AAAAAAABCD8/1SirBka1z4Q/w718-h404-no/IMG_20150226_135512.jpg&#34; alt=&#34;&#34; /&gt;
-
-대릉원 바로 뒤쪽에 있는 한정식 식당인데 한옥집을 개조해서 그 분위기가 아주 좋다고 한다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-ChfKLPyFjw8/VO81zUp-VkI/AAAAAAABCD8/HPXT_kL1q9M/w718-h404-no/IMG_20150226_135613.jpg&#34; alt=&#34;&#34; /&gt;
-
-안에 들어와 보니 한옥 분위기의 식당이 아니라 정말 한옥을 그대로 사용하는 식당이었다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-T-WizbACZSY/VO81zdGGNTI/AAAAAAABCD8/bQpnvUFpifA/w718-h404-no/IMG_20150226_140120.jpg&#34; alt=&#34;&#34; /&gt;
-
-꾸밈이 없이 그냥 소박한 일반 한옥. 오래된 시골집을 생각나게 하는 전통 한옥이다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-WMKKzBPGmvE/VO81zYwcZsI/AAAAAAABCD8/D2kIBdN5sJA/w718-h404-no/IMG_20150226_140144.jpg&#34; alt=&#34;&#34; /&gt;
-
-엄마랑 손씻고 와서 마당에서 구경 중인 솔이. 신기하지 솔아?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-jozq-8YWAg8/VO81zdFhvyI/AAAAAAABCD8/px13HuzmrBg/w718-h404-no/IMG_20150226_140152.jpg&#34; alt=&#34;&#34; /&gt;
-
-처마에 매달린 메주. 대충 패서 쌓아놓은 장작. 아무렇게나 놓여진 엉성한 나무 의자들.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-K3JpR025-4A/VO81zbENnII/AAAAAAABCD8/QFxbUpjD3MQ/w429-h762-no/IMG_20150226_140206.jpg&#34; alt=&#34;&#34; /&gt;
-
-솔이는 마당 한켠의 연못에 있는 붕어들에게 먼저 시선이 간다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-E8BE721Pd2M/VO81zYPCkWI/AAAAAAABCD8/FEiyvOF8w_w/w718-h404-no/IMG_20150226_140353.jpg&#34; alt=&#34;&#34; /&gt;
-
-우리는 방 한칸을 잡고 앉았다. 창호지를 댄 문과 도배지를 바른 허름하고 울퉁불퉁한 벽을 보니 정말 시골집에 온 것 같았다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-CPWyP0PnAdU/VO81zRDPqEI/AAAAAAABCD8/vlsNYjCRudk/w718-h404-no/IMG_20150226_140505.jpg&#34; alt=&#34;&#34; /&gt;
-
-양은 그릇의 숭늉도 정겹다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-o6WK4dtu3l8/VO81zSAqtQI/AAAAAAABCD8/nZVFb2SZDFI/w718-h404-no/IMG_20150226_140500.jpg&#34; alt=&#34;&#34; /&gt;
-
-훌륭한 상차림을 앞에 두고 행복한 나.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-BlxV_-0qSgA/VO81zYtx-TI/AAAAAAABCD8/IDcBIGaDd18/w429-h762-no/IMG_20150226_140639.jpg&#34; alt=&#34;&#34; /&gt;
-
-솔이랑 막둥이도.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-6mXeHDGtn0w/VO81zeNCvXI/AAAAAAABCD8/nIKrqOgC7Xs/w429-h762-no/IMG_20150226_140642.jpg&#34; alt=&#34;&#34; /&gt;
-
-아부지도.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-cH2LKFFp1qQ/VO81zRpzLhI/AAAAAAABCD8/3kKai9KZlTY/w429-h762-no/IMG_20150226_140648.jpg&#34; alt=&#34;&#34; /&gt;
-
-언니도.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-S_moqdfG46M/VO81zVDgx3I/AAAAAAABCD8/0g0-Q6X4QVs/w429-h762-no/IMG_20150226_140703.jpg&#34; alt=&#34;&#34; /&gt;
-
-딸기도.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-57CfI84Wa4c/VO81zWwwf_I/AAAAAAABCD8/W8CvQ3mgdqQ/w718-h404-no/IMG_20150226_142049.jpg&#34; alt=&#34;&#34; /&gt;
-
-모두가 맛있게 냠냠냠.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-ouSsO0aJjd4/VO81zU_O8lI/AAAAAAABCD8/VVrmB7W4dXk/w718-h404-no/IMG_20150226_144309.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-5AmOofqosBY/VO81zVc4mqI/AAAAAAABCD8/ZkTR0UcHmFE/w429-h762-no/IMG_20150226_144332.jpg&#34; alt=&#34;&#34; /&gt;
-
-식사를 마치고 나온 솔이와 할아버지.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-iUrP-ahDQMU/VO81zVrry3I/AAAAAAABCD8/O5iH-4W8x2w/w718-h404-no/IMG_20150226_144820.jpg&#34; alt=&#34;&#34; /&gt;
-
-역시나 살아 있는 것에 먼저 관심을 보이는 예자매들.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-aBiDR3wUdrs/VO81zcOcVQI/AAAAAAABCD8/sXqM_hCv8Vs/w718-h404-no/IMG_20150226_144845.jpg&#34; alt=&#34;&#34; /&gt;
-
-마당에 쏟아지는 오후 햇살을 받아 반짝 반짝 빛나는 우리 예자매.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-MUqvW_mVQsg/VO81zW1hsaI/AAAAAAABCD8/qhUYtjUIsV8/w718-h404-no/IMG_20150226_144904.jpg&#34; alt=&#34;&#34; /&gt;
-
-구경하느라 또 시간 가는 줄을 모른다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-LjDgfRPlSlo/VO81za7OqSI/AAAAAAABCD8/FmwVAGj95F4/w718-h404-no/IMG_20150226_144625.jpg&#34; alt=&#34;&#34; /&gt;
-
-부엌 입구의 커다란 솥단지. 아줌마가 열어봐도 된다고 해서 신나서 솥단지도 열어봤다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-kTlv3nyesxs/VO81zaahs_I/AAAAAAABCD8/HEVZBqlrp9A/w718-h404-no/IMG_20150226_144554.jpg&#34; alt=&#34;&#34; /&gt;
-
-경주의 마지막 점심. 탁월했던 언니의 선택이었다. 즐겁고 맛있게 잘먹었습니다~!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>경주 가족 여행 #11 대릉원을 마지막으로 서울로</title>
-      <link>http://sookjin.com/2015/02/kyungju-11/</link>
-      <pubDate>Thu, 26 Feb 2015 00:00:00 UTC</pubDate>
-      <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2015/02/kyungju-11/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-9RzHMoqhWk4/VO81zWmP9yI/AAAAAAABCD8/qXTD41LyE7U/w718-h404-no/IMG_20150226_145117.jpg&#34; alt=&#34;&#34; /&gt;
-
-대릉원 바로 뒤에서 점심을 먹은 우리는 여기까지 왔으니 천마총을 보고 가기로 했다. 안동은 이미 포기했다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-6ZbjCtmP07c/VO82FqEwoHI/AAAAAAABCEo/3Hl0YBxwsSI/w429-h762-no/IMG_20150226_145943.jpg&#34; alt=&#34;&#34; /&gt;
-
-배 부르게 점심도 먹었겠다. 다같이 걸어서 가는 중. 멀리서보니 꽤 대가족이군. ㅎㅎ&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-p8t6zWIfTvs/VO82Fu9O1EI/AAAAAAABCEo/TC1G1Z2sXqk/w718-h404-no/IMG_20150226_150314.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/--U_4M9G8024/VO82FsezBVI/AAAAAAABCEo/X3OoWIYKc2Q/w718-h404-no/IMG_20150226_150407.jpg&#34; alt=&#34;&#34; /&gt;
-
-이번 경주 여행의 마지막 코스 대릉원. 느긋한 마음으로 걷는다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-vHSBkmwfJpI/VO82Fjgvx8I/AAAAAAABCEo/cIDLefUOsUA/w718-h404-no/IMG_20150226_150503.jpg&#34; alt=&#34;&#34; /&gt;
-
-이마가 닮은 모녀.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-uqKofUByFZc/VO82FkZq77I/AAAAAAABCEo/kmHLlJYq4Ls/w718-h404-no/IMG_20150226_150508.jpg&#34; alt=&#34;&#34; /&gt;
-
-우리는 공원을 둘러볼 생각도 없이 그냥 바로 천마총으로 직진한다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-PxUzAEj8YBQ/VO82FoKfuvI/AAAAAAABCEo/XyvFHa7Lk4A/w718-h404-no/IMG_20150226_150555.jpg&#34; alt=&#34;&#34; /&gt;
-
-스탬프를 찍으러 문화 관광해설사의 집을 찾았다. 이미 포석정에서 문화해설사의 맛을 본 우리. 문을 두드리자 들어가서 기다리란다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/--NihfODP590/VO82FnSZ-nI/AAAAAAABCEo/lnzHRqSMCwI/w718-h404-no/IMG_20150226_152502.jpg&#34; alt=&#34;&#34; /&gt;
-
-처음엔 우리 가족만 모여서 설명을 듣고 있었는데 한두명씩 모여들기 시작해서 아주 큰 무리가 되었다. 솔이는 뭘 알아듣는건지 맨 앞에서 얌전히 설명을 듣고 있다.&lt;/p&gt;
-
-&lt;p&gt;그냥 우리끼리 봤다면 무덤인가보다 하고 쓱 둘러보고 나왔을텐데 해설사의 설명을 들으니 몰랐던 사실도 더 많이 알게 되고 배경까지 알게되니 문화재를 보는 눈이 달라진다.&lt;/p&gt;
-
-&lt;p&gt;들을 땐 고개를 끄덕거리면서 엄청 재밌게 들었는데 역시나 시간이 지나니 다 까먹었다. 지금은 하나도 생각이 나지 않는 천마총 이야기. 역시 기록이 기억을 지배한다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-5VEgW6na2VE/VO82FoqYSwI/AAAAAAABCEo/MuVBXu2IPTQ/w718-h404-no/IMG_20150226_153109.jpg&#34; alt=&#34;&#34; /&gt;
-
-먼저 나와서 막둥이를 기다리고 있는 아빠랑 언니. 이번 여행에 막둥이는 역사의 재미를 알게 되었는지 유난히 진지한 자세로 감상을 해서 우리를 당황케 했다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-dziz5tusGjk/VO82FnjfOqI/AAAAAAABCEo/LOxDGTcI4LA/w429-h762-no/IMG_20150226_153121.jpg&#34; alt=&#34;&#34; /&gt;
-
-솔이도 맨앞에서 귀를 쫑끗 세우고 해설사 선생님의 말씀을 아주 잘 들었다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-d44tBChqdC8/VO82FtCOYSI/AAAAAAABCEo/bF9R9A7Zet4/w718-h404-no/IMG_20150226_153343.jpg&#34; alt=&#34;&#34; /&gt;
-
-자 이제 집으로 갈 시간.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-7Sc1bIE3rAA/VO82Fix2GUI/AAAAAAABCEo/GdvzLDfeB4Q/w718-h404-no/IMG_20150226_153438.jpg&#34; alt=&#34;&#34; /&gt;
-
-다시 출구로 직진.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-KxsTbKBd3KE/VO82FtsUfRI/AAAAAAABCEo/rF_tmH0XvZQ/w718-h404-no/IMG_20150226_153534.jpg&#34; alt=&#34;&#34; /&gt;
-
-이 아름다운 공원을 우린 왜 둘러볼 생각을 하지 않았을까.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-3KktbrURQD8/VO82FljPlDI/AAAAAAABCEo/j4vKBCemXTc/w718-h404-no/IMG_20150226_153717.jpg&#34; alt=&#34;&#34; /&gt;
-
-천마총만 달랑 보고 대릉원을 나온다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-LFloLyizWt8/VO82FtaLvwI/AAAAAAABCEo/DraihdBDvXI/w718-h404-no/IMG_20150226_153732.jpg&#34; alt=&#34;&#34; /&gt;
-
-이제 경주의 모든 일정이 끝났다. 서울로 돌아갈 시간이다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-oKBFabgLwPE/VO82qibjhZI/AAAAAAABCFQ/xtJqUklB2kQ/w718/IMG_20150226_155856.jpg&#34; alt=&#34;&#34; /&gt;
-
-우리는 경주 박물관에 세워 둔 차를 다시 나눠 타고&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-gJcSbgBK7yk/VO82qhtKooI/AAAAAAABCFQ/4KW_Fo9bs0k/w718-h404-no/IMG_20150226_155814.jpg&#34; alt=&#34;&#34; /&gt;
-
-마지막으로 동궁과 월지에 들러 주령구를 사먹으러 왔다. 어제밤 그냥 지나쳤던 그곳.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-EN1Iav1QR94/VO82qqbJXHI/AAAAAAABCFQ/iU7LhWSzML4/w429-h762-no/IMG_20150226_155834.jpg&#34; alt=&#34;&#34; /&gt;
-
-언제나 먹는일에는 선두에 서는 막둥이와 그를 따르는 두 제자 송자매.  주령구 모양의 가판대가 아주 귀엽다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-j3ex077GE5w/VO82qqvQ5BI/AAAAAAABCFQ/aHCK_WTXAck/w718-h404-no/IMG_20150226_155942.jpg&#34; alt=&#34;&#34; /&gt;
-
-주령구 빵 배식 중.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-0dV8xFQNs1g/VO82qvWycNI/AAAAAAABCFQ/lQh6eaXf6xk/w718-h404-no/IMG_20150226_160128.jpg&#34; alt=&#34;&#34; /&gt;
-
-모양도 이쁘고 맛도 훌륭했다. 경주빵보다 백 배 낫다. 마케팅만 좀 잘하면 대박 날 것 같은데 아쉽다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-sYLqLbuy_J4/VO82qtB6K4I/AAAAAAABCFQ/F23vVJoAud4/w718-h404-no/IMG_20150226_172315.jpg&#34; alt=&#34;&#34; /&gt;
-
-집에 가는 길. 두대의 차가 나란히 달린다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-ujB2sOH1n8M/VO82qkeXNOI/AAAAAAABCFQ/ZtcB17EqbQk/w718-h404-no/IMG_20150226_170915.jpg&#34; alt=&#34;&#34; /&gt;
-
-솔이도 잠이 들고.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-cgk7SFg3_eY/VO82qu5sIbI/AAAAAAABCFQ/PUAj36bM9GQ/w429-h762-no/IMG_20150226_163029.jpg&#34; alt=&#34;&#34; /&gt;
-
-겨울이도 잠이 들었다. ㅋㅋ&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-SgzL9RJALp0/VO82qhHD8mI/AAAAAAABCFQ/OwNXq1nPs14/w718-h404-no/IMG_20150226_171129.jpg&#34; alt=&#34;&#34; /&gt;
-
-올 때는 휴게소만 세 번을 들렀다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-v6pD77T5Cz8/VO82qrRcGII/AAAAAAABCFQ/q-s8lo1a4qU/w718-h404-no/IMG_20150226_172437.jpg&#34; alt=&#34;&#34; /&gt;
-
-내가 좋아하는 엿도 사먹고.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-W0sDW9m7rwI/VO82qsdFUZI/AAAAAAABCFQ/nSgPC0QMU_4/w718-h404-no/IMG_20150226_172035.jpg&#34; alt=&#34;&#34; /&gt;
-
-아빠랑 나랑은 정말 쉴새 없이 떠들었다. 아빠의 옛날 이야기를 들으며 재밌게 왔다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-Ar5TgW6VVVQ/VO82qnq7YbI/AAAAAAABCFQ/QQFvP6AwMIA/w718-h404-no/IMG_20150226_175252.jpg&#34; alt=&#34;&#34; /&gt;
-
-아빠의 건강이 이렇게 장거리 운전을 할 정도로 회복이 되었으니 정말 감사하고 다행이다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-icqCOL4a8hk/VO82qnaH3-I/AAAAAAABCFQ/nQc1qWgDxbE/w429-h762-no/IMG_20150226_184341.jpg&#34; alt=&#34;&#34; /&gt;
-
-추억의 오락기 앞에서 잠시 멈춤. 자다 일어나서 두더쥐잡고 있는 솔이.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-09pY1_yGz84/VO82qg4SJ0I/AAAAAAABCFQ/btPvy82DqxA/w429-h762-no/IMG_20150226_184355.jpg&#34; alt=&#34;&#34; /&gt;
-
-어릴때 돼지 갈비를 먹으러 가면 꼭 했던 이 두더지. 옆에는 항상 펀치 기계도 있었는데.. ㅋㅋ&lt;/p&gt;
-
-&lt;p&gt;지금 사진을 보니 우리 딸기가 옆에서 지켜보는 모습이 짠하다. 늘 솔이에게 쏠린 가족의 시선. 엄청 하고 싶었을텐데 솔이에게 양보하고 옆에서 지켜보는 의젓한 우리 딸기. 막내지만 솔이 때문에 둘째가 되어버린 우리 딸기. 하루하루 저절로 강해지는 둘째다. 딸기 화이팅!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-0IQ-iWtneNQ/VO82qtFSM9I/AAAAAAABCFQ/_N-urMnZ3_o/w429-h762-no/IMG_20150226_185034.jpg&#34; alt=&#34;&#34; /&gt;
-
-화장실 앞에서도 들거운 중2 송겨울.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-kUcygTW9NV4/VO82qnz8-OI/AAAAAAABCFQ/65DX3yD32rg/w718-h404-no/IMG_20150226_202105.jpg&#34; alt=&#34;&#34; /&gt;
-
-해산을 앞두고 죽전 휴게소에서 저녁을 먹는다. 자율배식대. 반찬은 송자매가 알아서 담았다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-v0-bQ5Wl2hc/VO82qtHg59I/AAAAAAABCFQ/tbxq355SKm4/w718-h404-no/IMG_20150226_202750.jpg&#34; alt=&#34;&#34; /&gt;
-
-떠나던 날의 점심도 휴게소였는데 마지막 날의 저녁도 휴게소다. ㅋ 밥을 다 먹고 다시 차를 상계동 팀과 신영동 팀으로 나눠서 타고 빠이빠이.집에 오니 10시. 딱 적당한 시간에 잘 도착했다.&lt;/p&gt;
-
-&lt;p&gt;짧아서 아쉬웠지만 너무나 즐거웠던 우리 가족 경주 여행. 서방들은 없어서 아쉬웠지만 우리 아부지와 현자매, 예자매의 기억에 오래오래 남았음 좋겠다. 다음엔 꼭 다같이 부여로 떠나자.&lt;/p&gt;
-
-&lt;p&gt;별 계획도 없었던 여행인데 그마저 나중에 쓰려니 잘 생각도 안나서 힘들었다. 여행기는 역시 바로바로 써야한다는 교훈.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>경주 가족 여행 #09 셋째날 오전 연날리기고 포석정에서 놀기</title>
-      <link>http://sookjin.com/2015/02/kyungju-09/</link>
+      <link>http://localhost:1313/2015/02/kyungju-09/</link>
       <pubDate>Thu, 26 Feb 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2015/02/kyungju-09/</guid>
+      <guid>http://localhost:1313/2015/02/kyungju-09/</guid>
       <description>
 
 &lt;p&gt;셋째날. 집에 가는 날이다. 가는데 하루 오는데 하루. 역시 2박3일은 뭔가 아쉽다.&lt;/p&gt;
@@ -482,11 +240,253 @@
     </item>
     
     <item>
+      <title>경주 가족 여행 #10 탁월했던 점심 식사 도솔마을</title>
+      <link>http://localhost:1313/2015/02/kyungju-10/</link>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 UTC</pubDate>
+      <author>Sookjin Hyun</author>
+      <guid>http://localhost:1313/2015/02/kyungju-10/</guid>
+      <description>&lt;p&gt;포석정에서 아무 생각없이 놀다보니 어느새 점심 시간이 되었다. 아무래도 오늘 안동을 가기는 글른 것 같다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-qIulOVYHExE/VO81zfEidvI/AAAAAAABCD8/j9VfQwrxPZA/w718-h404-no/IMG_20150226_135502.jpg&#34; alt=&#34;&#34; /&gt;
+
+우리는 점심을 먹기로 하고 언니가 고른 식당에 도착을 했다. 도솔마을.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-MSRy33WtiaM/VO81zT_5y1I/AAAAAAABCD8/1SirBka1z4Q/w718-h404-no/IMG_20150226_135512.jpg&#34; alt=&#34;&#34; /&gt;
+
+대릉원 바로 뒤쪽에 있는 한정식 식당인데 한옥집을 개조해서 그 분위기가 아주 좋다고 한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-ChfKLPyFjw8/VO81zUp-VkI/AAAAAAABCD8/HPXT_kL1q9M/w718-h404-no/IMG_20150226_135613.jpg&#34; alt=&#34;&#34; /&gt;
+
+안에 들어와 보니 한옥 분위기의 식당이 아니라 정말 한옥을 그대로 사용하는 식당이었다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-T-WizbACZSY/VO81zdGGNTI/AAAAAAABCD8/bQpnvUFpifA/w718-h404-no/IMG_20150226_140120.jpg&#34; alt=&#34;&#34; /&gt;
+
+꾸밈이 없이 그냥 소박한 일반 한옥. 오래된 시골집을 생각나게 하는 전통 한옥이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-WMKKzBPGmvE/VO81zYwcZsI/AAAAAAABCD8/D2kIBdN5sJA/w718-h404-no/IMG_20150226_140144.jpg&#34; alt=&#34;&#34; /&gt;
+
+엄마랑 손씻고 와서 마당에서 구경 중인 솔이. 신기하지 솔아?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-jozq-8YWAg8/VO81zdFhvyI/AAAAAAABCD8/px13HuzmrBg/w718-h404-no/IMG_20150226_140152.jpg&#34; alt=&#34;&#34; /&gt;
+
+처마에 매달린 메주. 대충 패서 쌓아놓은 장작. 아무렇게나 놓여진 엉성한 나무 의자들.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-K3JpR025-4A/VO81zbENnII/AAAAAAABCD8/QFxbUpjD3MQ/w429-h762-no/IMG_20150226_140206.jpg&#34; alt=&#34;&#34; /&gt;
+
+솔이는 마당 한켠의 연못에 있는 붕어들에게 먼저 시선이 간다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-E8BE721Pd2M/VO81zYPCkWI/AAAAAAABCD8/FEiyvOF8w_w/w718-h404-no/IMG_20150226_140353.jpg&#34; alt=&#34;&#34; /&gt;
+
+우리는 방 한칸을 잡고 앉았다. 창호지를 댄 문과 도배지를 바른 허름하고 울퉁불퉁한 벽을 보니 정말 시골집에 온 것 같았다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-CPWyP0PnAdU/VO81zRDPqEI/AAAAAAABCD8/vlsNYjCRudk/w718-h404-no/IMG_20150226_140505.jpg&#34; alt=&#34;&#34; /&gt;
+
+양은 그릇의 숭늉도 정겹다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-o6WK4dtu3l8/VO81zSAqtQI/AAAAAAABCD8/nZVFb2SZDFI/w718-h404-no/IMG_20150226_140500.jpg&#34; alt=&#34;&#34; /&gt;
+
+훌륭한 상차림을 앞에 두고 행복한 나.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-BlxV_-0qSgA/VO81zYtx-TI/AAAAAAABCD8/IDcBIGaDd18/w429-h762-no/IMG_20150226_140639.jpg&#34; alt=&#34;&#34; /&gt;
+
+솔이랑 막둥이도.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-6mXeHDGtn0w/VO81zeNCvXI/AAAAAAABCD8/nIKrqOgC7Xs/w429-h762-no/IMG_20150226_140642.jpg&#34; alt=&#34;&#34; /&gt;
+
+아부지도.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-cH2LKFFp1qQ/VO81zRpzLhI/AAAAAAABCD8/3kKai9KZlTY/w429-h762-no/IMG_20150226_140648.jpg&#34; alt=&#34;&#34; /&gt;
+
+언니도.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-S_moqdfG46M/VO81zVDgx3I/AAAAAAABCD8/0g0-Q6X4QVs/w429-h762-no/IMG_20150226_140703.jpg&#34; alt=&#34;&#34; /&gt;
+
+딸기도.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-57CfI84Wa4c/VO81zWwwf_I/AAAAAAABCD8/W8CvQ3mgdqQ/w718-h404-no/IMG_20150226_142049.jpg&#34; alt=&#34;&#34; /&gt;
+
+모두가 맛있게 냠냠냠.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-ouSsO0aJjd4/VO81zU_O8lI/AAAAAAABCD8/VVrmB7W4dXk/w718-h404-no/IMG_20150226_144309.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-5AmOofqosBY/VO81zVc4mqI/AAAAAAABCD8/ZkTR0UcHmFE/w429-h762-no/IMG_20150226_144332.jpg&#34; alt=&#34;&#34; /&gt;
+
+식사를 마치고 나온 솔이와 할아버지.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-iUrP-ahDQMU/VO81zVrry3I/AAAAAAABCD8/O5iH-4W8x2w/w718-h404-no/IMG_20150226_144820.jpg&#34; alt=&#34;&#34; /&gt;
+
+역시나 살아 있는 것에 먼저 관심을 보이는 예자매들.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-aBiDR3wUdrs/VO81zcOcVQI/AAAAAAABCD8/sXqM_hCv8Vs/w718-h404-no/IMG_20150226_144845.jpg&#34; alt=&#34;&#34; /&gt;
+
+마당에 쏟아지는 오후 햇살을 받아 반짝 반짝 빛나는 우리 예자매.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-MUqvW_mVQsg/VO81zW1hsaI/AAAAAAABCD8/qhUYtjUIsV8/w718-h404-no/IMG_20150226_144904.jpg&#34; alt=&#34;&#34; /&gt;
+
+구경하느라 또 시간 가는 줄을 모른다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-LjDgfRPlSlo/VO81za7OqSI/AAAAAAABCD8/FmwVAGj95F4/w718-h404-no/IMG_20150226_144625.jpg&#34; alt=&#34;&#34; /&gt;
+
+부엌 입구의 커다란 솥단지. 아줌마가 열어봐도 된다고 해서 신나서 솥단지도 열어봤다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-kTlv3nyesxs/VO81zaahs_I/AAAAAAABCD8/HEVZBqlrp9A/w718-h404-no/IMG_20150226_144554.jpg&#34; alt=&#34;&#34; /&gt;
+
+경주의 마지막 점심. 탁월했던 언니의 선택이었다. 즐겁고 맛있게 잘먹었습니다~!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>경주 가족 여행 #11 대릉원을 마지막으로 서울로</title>
+      <link>http://localhost:1313/2015/02/kyungju-11/</link>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 UTC</pubDate>
+      <author>Sookjin Hyun</author>
+      <guid>http://localhost:1313/2015/02/kyungju-11/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-9RzHMoqhWk4/VO81zWmP9yI/AAAAAAABCD8/qXTD41LyE7U/w718-h404-no/IMG_20150226_145117.jpg&#34; alt=&#34;&#34; /&gt;
+
+대릉원 바로 뒤에서 점심을 먹은 우리는 여기까지 왔으니 천마총을 보고 가기로 했다. 안동은 이미 포기했다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-6ZbjCtmP07c/VO82FqEwoHI/AAAAAAABCEo/3Hl0YBxwsSI/w429-h762-no/IMG_20150226_145943.jpg&#34; alt=&#34;&#34; /&gt;
+
+배 부르게 점심도 먹었겠다. 다같이 걸어서 가는 중. 멀리서보니 꽤 대가족이군. ㅎㅎ&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-p8t6zWIfTvs/VO82Fu9O1EI/AAAAAAABCEo/TC1G1Z2sXqk/w718-h404-no/IMG_20150226_150314.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/--U_4M9G8024/VO82FsezBVI/AAAAAAABCEo/X3OoWIYKc2Q/w718-h404-no/IMG_20150226_150407.jpg&#34; alt=&#34;&#34; /&gt;
+
+이번 경주 여행의 마지막 코스 대릉원. 느긋한 마음으로 걷는다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-vHSBkmwfJpI/VO82Fjgvx8I/AAAAAAABCEo/cIDLefUOsUA/w718-h404-no/IMG_20150226_150503.jpg&#34; alt=&#34;&#34; /&gt;
+
+이마가 닮은 모녀.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-uqKofUByFZc/VO82FkZq77I/AAAAAAABCEo/kmHLlJYq4Ls/w718-h404-no/IMG_20150226_150508.jpg&#34; alt=&#34;&#34; /&gt;
+
+우리는 공원을 둘러볼 생각도 없이 그냥 바로 천마총으로 직진한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-PxUzAEj8YBQ/VO82FoKfuvI/AAAAAAABCEo/XyvFHa7Lk4A/w718-h404-no/IMG_20150226_150555.jpg&#34; alt=&#34;&#34; /&gt;
+
+스탬프를 찍으러 문화 관광해설사의 집을 찾았다. 이미 포석정에서 문화해설사의 맛을 본 우리. 문을 두드리자 들어가서 기다리란다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/--NihfODP590/VO82FnSZ-nI/AAAAAAABCEo/lnzHRqSMCwI/w718-h404-no/IMG_20150226_152502.jpg&#34; alt=&#34;&#34; /&gt;
+
+처음엔 우리 가족만 모여서 설명을 듣고 있었는데 한두명씩 모여들기 시작해서 아주 큰 무리가 되었다. 솔이는 뭘 알아듣는건지 맨 앞에서 얌전히 설명을 듣고 있다.&lt;/p&gt;
+
+&lt;p&gt;그냥 우리끼리 봤다면 무덤인가보다 하고 쓱 둘러보고 나왔을텐데 해설사의 설명을 들으니 몰랐던 사실도 더 많이 알게 되고 배경까지 알게되니 문화재를 보는 눈이 달라진다.&lt;/p&gt;
+
+&lt;p&gt;들을 땐 고개를 끄덕거리면서 엄청 재밌게 들었는데 역시나 시간이 지나니 다 까먹었다. 지금은 하나도 생각이 나지 않는 천마총 이야기. 역시 기록이 기억을 지배한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-5VEgW6na2VE/VO82FoqYSwI/AAAAAAABCEo/MuVBXu2IPTQ/w718-h404-no/IMG_20150226_153109.jpg&#34; alt=&#34;&#34; /&gt;
+
+먼저 나와서 막둥이를 기다리고 있는 아빠랑 언니. 이번 여행에 막둥이는 역사의 재미를 알게 되었는지 유난히 진지한 자세로 감상을 해서 우리를 당황케 했다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-dziz5tusGjk/VO82FnjfOqI/AAAAAAABCEo/LOxDGTcI4LA/w429-h762-no/IMG_20150226_153121.jpg&#34; alt=&#34;&#34; /&gt;
+
+솔이도 맨앞에서 귀를 쫑끗 세우고 해설사 선생님의 말씀을 아주 잘 들었다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-d44tBChqdC8/VO82FtCOYSI/AAAAAAABCEo/bF9R9A7Zet4/w718-h404-no/IMG_20150226_153343.jpg&#34; alt=&#34;&#34; /&gt;
+
+자 이제 집으로 갈 시간.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-7Sc1bIE3rAA/VO82Fix2GUI/AAAAAAABCEo/GdvzLDfeB4Q/w718-h404-no/IMG_20150226_153438.jpg&#34; alt=&#34;&#34; /&gt;
+
+다시 출구로 직진.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-KxsTbKBd3KE/VO82FtsUfRI/AAAAAAABCEo/rF_tmH0XvZQ/w718-h404-no/IMG_20150226_153534.jpg&#34; alt=&#34;&#34; /&gt;
+
+이 아름다운 공원을 우린 왜 둘러볼 생각을 하지 않았을까.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-3KktbrURQD8/VO82FljPlDI/AAAAAAABCEo/j4vKBCemXTc/w718-h404-no/IMG_20150226_153717.jpg&#34; alt=&#34;&#34; /&gt;
+
+천마총만 달랑 보고 대릉원을 나온다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-LFloLyizWt8/VO82FtaLvwI/AAAAAAABCEo/DraihdBDvXI/w718-h404-no/IMG_20150226_153732.jpg&#34; alt=&#34;&#34; /&gt;
+
+이제 경주의 모든 일정이 끝났다. 서울로 돌아갈 시간이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-oKBFabgLwPE/VO82qibjhZI/AAAAAAABCFQ/xtJqUklB2kQ/w718/IMG_20150226_155856.jpg&#34; alt=&#34;&#34; /&gt;
+
+우리는 경주 박물관에 세워 둔 차를 다시 나눠 타고&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-gJcSbgBK7yk/VO82qhtKooI/AAAAAAABCFQ/4KW_Fo9bs0k/w718-h404-no/IMG_20150226_155814.jpg&#34; alt=&#34;&#34; /&gt;
+
+마지막으로 동궁과 월지에 들러 주령구를 사먹으러 왔다. 어제밤 그냥 지나쳤던 그곳.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-EN1Iav1QR94/VO82qqbJXHI/AAAAAAABCFQ/iU7LhWSzML4/w429-h762-no/IMG_20150226_155834.jpg&#34; alt=&#34;&#34; /&gt;
+
+언제나 먹는일에는 선두에 서는 막둥이와 그를 따르는 두 제자 송자매.  주령구 모양의 가판대가 아주 귀엽다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-j3ex077GE5w/VO82qqvQ5BI/AAAAAAABCFQ/aHCK_WTXAck/w718-h404-no/IMG_20150226_155942.jpg&#34; alt=&#34;&#34; /&gt;
+
+주령구 빵 배식 중.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-0dV8xFQNs1g/VO82qvWycNI/AAAAAAABCFQ/lQh6eaXf6xk/w718-h404-no/IMG_20150226_160128.jpg&#34; alt=&#34;&#34; /&gt;
+
+모양도 이쁘고 맛도 훌륭했다. 경주빵보다 백 배 낫다. 마케팅만 좀 잘하면 대박 날 것 같은데 아쉽다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-sYLqLbuy_J4/VO82qtB6K4I/AAAAAAABCFQ/F23vVJoAud4/w718-h404-no/IMG_20150226_172315.jpg&#34; alt=&#34;&#34; /&gt;
+
+집에 가는 길. 두대의 차가 나란히 달린다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-ujB2sOH1n8M/VO82qkeXNOI/AAAAAAABCFQ/ZtcB17EqbQk/w718-h404-no/IMG_20150226_170915.jpg&#34; alt=&#34;&#34; /&gt;
+
+솔이도 잠이 들고.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-cgk7SFg3_eY/VO82qu5sIbI/AAAAAAABCFQ/PUAj36bM9GQ/w429-h762-no/IMG_20150226_163029.jpg&#34; alt=&#34;&#34; /&gt;
+
+겨울이도 잠이 들었다. ㅋㅋ&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-SgzL9RJALp0/VO82qhHD8mI/AAAAAAABCFQ/OwNXq1nPs14/w718-h404-no/IMG_20150226_171129.jpg&#34; alt=&#34;&#34; /&gt;
+
+올 때는 휴게소만 세 번을 들렀다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-v6pD77T5Cz8/VO82qrRcGII/AAAAAAABCFQ/q-s8lo1a4qU/w718-h404-no/IMG_20150226_172437.jpg&#34; alt=&#34;&#34; /&gt;
+
+내가 좋아하는 엿도 사먹고.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-W0sDW9m7rwI/VO82qsdFUZI/AAAAAAABCFQ/nSgPC0QMU_4/w718-h404-no/IMG_20150226_172035.jpg&#34; alt=&#34;&#34; /&gt;
+
+아빠랑 나랑은 정말 쉴새 없이 떠들었다. 아빠의 옛날 이야기를 들으며 재밌게 왔다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-Ar5TgW6VVVQ/VO82qnq7YbI/AAAAAAABCFQ/QQFvP6AwMIA/w718-h404-no/IMG_20150226_175252.jpg&#34; alt=&#34;&#34; /&gt;
+
+아빠의 건강이 이렇게 장거리 운전을 할 정도로 회복이 되었으니 정말 감사하고 다행이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-icqCOL4a8hk/VO82qnaH3-I/AAAAAAABCFQ/nQc1qWgDxbE/w429-h762-no/IMG_20150226_184341.jpg&#34; alt=&#34;&#34; /&gt;
+
+추억의 오락기 앞에서 잠시 멈춤. 자다 일어나서 두더쥐잡고 있는 솔이.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-09pY1_yGz84/VO82qg4SJ0I/AAAAAAABCFQ/btPvy82DqxA/w429-h762-no/IMG_20150226_184355.jpg&#34; alt=&#34;&#34; /&gt;
+
+어릴때 돼지 갈비를 먹으러 가면 꼭 했던 이 두더지. 옆에는 항상 펀치 기계도 있었는데.. ㅋㅋ&lt;/p&gt;
+
+&lt;p&gt;지금 사진을 보니 우리 딸기가 옆에서 지켜보는 모습이 짠하다. 늘 솔이에게 쏠린 가족의 시선. 엄청 하고 싶었을텐데 솔이에게 양보하고 옆에서 지켜보는 의젓한 우리 딸기. 막내지만 솔이 때문에 둘째가 되어버린 우리 딸기. 하루하루 저절로 강해지는 둘째다. 딸기 화이팅!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-0IQ-iWtneNQ/VO82qtFSM9I/AAAAAAABCFQ/_N-urMnZ3_o/w429-h762-no/IMG_20150226_185034.jpg&#34; alt=&#34;&#34; /&gt;
+
+화장실 앞에서도 들거운 중2 송겨울.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-kUcygTW9NV4/VO82qnz8-OI/AAAAAAABCFQ/65DX3yD32rg/w718-h404-no/IMG_20150226_202105.jpg&#34; alt=&#34;&#34; /&gt;
+
+해산을 앞두고 죽전 휴게소에서 저녁을 먹는다. 자율배식대. 반찬은 송자매가 알아서 담았다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-v0-bQ5Wl2hc/VO82qtHg59I/AAAAAAABCFQ/tbxq355SKm4/w718-h404-no/IMG_20150226_202750.jpg&#34; alt=&#34;&#34; /&gt;
+
+떠나던 날의 점심도 휴게소였는데 마지막 날의 저녁도 휴게소다. ㅋ 밥을 다 먹고 다시 차를 상계동 팀과 신영동 팀으로 나눠서 타고 빠이빠이.집에 오니 10시. 딱 적당한 시간에 잘 도착했다.&lt;/p&gt;
+
+&lt;p&gt;짧아서 아쉬웠지만 너무나 즐거웠던 우리 가족 경주 여행. 서방들은 없어서 아쉬웠지만 우리 아부지와 현자매, 예자매의 기억에 오래오래 남았음 좋겠다. 다음엔 꼭 다같이 부여로 떠나자.&lt;/p&gt;
+
+&lt;p&gt;별 계획도 없었던 여행인데 그마저 나중에 쓰려니 잘 생각도 안나서 힘들었다. 여행기는 역시 바로바로 써야한다는 교훈.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>경주 가족 여행 #04 불국사</title>
-      <link>http://sookjin.com/2015/02/kyungju-04/</link>
+      <link>http://localhost:1313/2015/02/kyungju-04/</link>
       <pubDate>Wed, 25 Feb 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2015/02/kyungju-04/</guid>
+      <guid>http://localhost:1313/2015/02/kyungju-04/</guid>
       <description>&lt;p&gt;오늘은 경주 관광의 날. 대가족이니만큼 여유있게 움직이기로 했다.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-57-NZt_HA7A/VO8zWerNRVI/AAAAAAABB_c/UOHd8k96ur8/w718-h404-no/IMG_20150225_101449.jpg&#34; alt=&#34;&#34; /&gt;
@@ -648,11 +648,93 @@
     </item>
     
     <item>
-      <title>경주 가족 여행 #07 경주박물관, 첨성대</title>
-      <link>http://sookjin.com/2015/02/kyungju-07/</link>
+      <title>경주 가족 여행 #08 동궁과 월지 야경 놀이</title>
+      <link>http://localhost:1313/2015/02/kyungju-08/</link>
       <pubDate>Wed, 25 Feb 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2015/02/kyungju-07/</guid>
+      <guid>http://localhost:1313/2015/02/kyungju-08/</guid>
+      <description>
+
+&lt;h3 id=&#34;toc_0&#34;&gt;동궁과 월지&lt;/h3&gt;
+
+&lt;p&gt;몸은 피곤했다. 낮에 바닷가에서 갈매기에게 너무 힘을 빼서인지..&lt;/p&gt;
+
+&lt;p&gt;황남빵을 먹고 숙소로 돌아갈 수도 있었다. 해는 이미 떨어졌지만 우리는 짧은 일정이 아쉬울 뿐. 5살부터 70이 다되신 아부지까지 그 누가 봐도 노약자 그룹이지만 오늘의 마지막까지 부지런히 움직여 본다. 오늘의 마지막 코스는 아름답기로 소문난 안압지 야경.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-GaPiSniJkRI/VO80p1OWMHI/AAAAAAABCCI/ZV2LuIfHW20/w718-h404-no/IMG_20150225_184338.jpg&#34; alt=&#34;&#34; /&gt;
+
+지난번에, 그게 벌써 10여년 전인지만, 자전거를 타고 낮에 왔던 기억이 난다. 그땐 안압지였다. 별 볼것도 없이 물가에 새들만 노닌다고 하여 기러기 &amp;lsquo;안&amp;rsquo;자와 오리 &amp;lsquo;압&amp;rsquo;자를 써서 ‘안압지’라고 불리었다고 했는데 어느새 이름을 바꿨다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-DMN7F6HYxUQ/VO80p5MO8WI/AAAAAAABCCI/xJD_7pNrvUU/w718-h404-no/IMG_20150225_184510.jpg&#34; alt=&#34;&#34; /&gt;
+
+동궁과 월지. 달이 비치는 연못이라는 뜻이란다. 여전히 한자이름이지만 지명 이름에 “과”라는 조사가 들어간 것이 특이했다. 잘 외워지지도 않는 이상한 이름.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-JLG3U_DWo94/VO80pwCeFhI/AAAAAAABCCI/VZsvoJxIOEE/w718-h404-no/IMG_20150225_184617.jpg&#34; alt=&#34;&#34; /&gt;
+
+이름을 바꾸고 다시 개장을 한건가? 안압지이던 시절에도 딱히 인상적이었던 기억아 나질 않아서 야경이라고 뭐 다르겠냔 마음으로 별 기대를 하지 않고 들어섰다.&lt;/p&gt;
+
+&lt;p&gt;야경이 유명하긴 한가보다. 사람들이 바글바글. 호수가 나타나기 전에는 뭐 그냥 그런 공원 풍경이었다. 그런데..&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-631UxkcgMkA/VO80p4P1RJI/AAAAAAABCCI/KxJB1FdoBpE/w718-h404-no/IMG_20150225_184643.jpg&#34; alt=&#34;&#34; /&gt;
+
+연못가로 다가가니 거울 같이 잔잔한 물에 반사된 아름다운 그림에 절로 탄성이 나왔다.  오늘이 날이었다. 바람 한 점 없는 날.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-b0msJuHpnd8/VO80pyoqrqI/AAAAAAABCCI/d7uDNobTbd0/w718-h404-no/IMG_20150225_184835.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-il74R3x3Xjs/VO80p7NACQI/AAAAAAABCCI/Z0XraPen6Ec/w718-h404-no/IMG_20150225_184906.jpg&#34; alt=&#34;&#34; /&gt;
+
+건물을 밝게 비춘 조명 탓인지 연못에 비친 그림자가 더욱더 아름다웠다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-7W4MlOKdxdM/VO80p3_tbRI/AAAAAAABCCI/SoqjzzKRplk/w718-h404-no/IMG_20150225_185159.jpg&#34; alt=&#34;&#34; /&gt;
+
+자세히 봐도 정말 뭐가 실물인지 알 수 없을 정도로 거울 같은 리플렉션. 주변에 높은 건물도 없고 가로등도 도시처럼 밝지 않으니 소박한 조명인데도 무척 돋보인다. 예상외의 풍경에 감탄하면서 우리는 연못을 한바퀴 돌기로.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-eCUmXD6mAus/VO80p5czCFI/AAAAAAABCCI/ywYAYlbhvck/w718-h404-no/IMG_20150225_185250.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-lr9-3rUf1zA/VO80p-PXK0I/AAAAAAABCCI/Tlk2hWuE5BU/w718-h404-no/IMG_20150225_185300.jpg&#34; alt=&#34;&#34; /&gt;
+
+가장 아름다운 배경이 펼쳐진 곳에서 가로등을 조명 삼아 단체 사진.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-qLqahbjI1pI/VO80p84HhVI/AAAAAAABCCI/el2tW1qwkXc/w718-h404-no/IMG_20150225_185332.jpg&#34; alt=&#34;&#34; /&gt;
+
+우리 솔이. 꼬맹이가 하루종일 걸어다니느라 피곤할텐데 끝까지 아장아장 잘 걸어주고 잘 따라와 주었다. 기특한 것.&lt;/p&gt;
+
+&lt;p&gt;연못을 한바퀴 돌면 1km 정도 되는데 굴곡이 많아 어느 곳에서 보아도 연못 전체가 한눈에 들어오지 않는다고 한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-mtYK5LKEUR8/VO80p_4P1OI/AAAAAAABCCI/hcXFRGCNRkQ/w718-h404-no/IMG_20150225_185712.jpg&#34; alt=&#34;&#34; /&gt;
+
+이곳에서의 야경이 가장 아름다웠다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-tdJxhkjoiEo/VO80p48ZUMI/AAAAAAABCCI/dKeVavDfyBY/w718-h404-no/IMG_20150225_184437.jpg&#34; alt=&#34;&#34; /&gt;
+
+산책로를 좀 조용히 걸었으면 좋았으련만. 모르는 사람들의 뒤를 쫓아, 또 모르는 사람들에게 뒤를 쫓기며 마치 줄을 서서 걸어가듯이 걸을 수 밖에 없었던 것이 아쉽다.&lt;/p&gt;
+
+&lt;p&gt;연못을 한바퀴 돌고 스탬프를 찾으려고 정문 앞을 두리번거리다 보니 안내소 옆에 주령구 모양의 가판대가 우리의 눈길을 끌었다. 그러고 보니 우리가 박물관에서 인상깊게 봤던 주령구도 바로 이 안압지 발굴현장에서 나온 것이다. 주령구빵이라는 뭔가 수상한(?) 빵을 팔고 있었지만 방금 경주 빵을 사먹고 실패한 우리의 눈길을 끌지는 못했다.&lt;/p&gt;
+
+&lt;p&gt;송자매는 이곳 동궁과 월지에서 오늘의 마지막 스탬프를 찍었다. 아름다운 동궁과 월지의 야경을 마지막으로 오늘의 바뻤던 일정 끝.&lt;/p&gt;
+
+&lt;p&gt;숙소로 돌아와서 이 좋은 분위기를 홀랑 깨는 일이 있었으니 바로 지갑 분실 사건.&lt;/p&gt;
+
+&lt;p&gt;어제밤부터 보이지 않던 지갑. 짐 어딘가 있겠지 하고 신경을 안썼는데 뒤늦게 찾으니 보이지 않는다. 숙소에 도착해서 주차하고 짐내리고 체크인할 때 마지막으로 본건 기억나는데 그 이후가 기억이 나질 않는다. 아무리 머리를 쥐어 뜯어도 내 기억은 딱 거기까지였다. 아니 그 기억조차 믿을 수가 없었다.&lt;/p&gt;
+
+&lt;p&gt;즐거워야 할 저녁시간에 로비와 주차장을 왔다 갔다 하게 하고 모두에게 근심거리를 주었으니 잃어버린 지갑이 문제가 아니라 온가족의 정신적 스트레스와 시간 손해가 크다. 전화로 사고처리를 하고 그냥 빨리 잊자고 결론 내렸다.&lt;/p&gt;
+
+&lt;p&gt;참으로 오랜만에 지갑을 잃어버리고 나서 그 원인을 생각해봤다. 유럽에서도 무사했던 내 지갑을 한국, 그것도 경주에 와서 잃어버리다니.&lt;/p&gt;
+
+&lt;p&gt;답은 간단했다. 오히려 유럽 여행은 길었기 때문에 소지품엔 다 자리가 있었고, 또 소매치기 위험에 늘 조심했기 때문에 안전할 수 있었지만, 경주는 2박3일 짧은 일정에 지갑의 정해진 자리도 없었다. 개인 가방은 있었지만 트렁크에 넣어뒀고,  방심하여 제대로 챙기지 않았던게 원인이었다. 차 문에 꽂힌 지갑을 보고 가져올까 말까를 고민했다는 자체가 실수였다.&lt;/p&gt;
+
+&lt;p&gt;갑자기 어디선가 짠 나타나주면 좋겠지만. 잊자. 수업료다.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>경주 가족 여행 #07 경주박물관, 첨성대</title>
+      <link>http://localhost:1313/2015/02/kyungju-07/</link>
+      <pubDate>Wed, 25 Feb 2015 00:00:00 UTC</pubDate>
+      <author>Sookjin Hyun</author>
+      <guid>http://localhost:1313/2015/02/kyungju-07/</guid>
       <description>
 
 &lt;p&gt;늦은 점심을 먹고 힘을 내서 경주 박물관으로 간다. 박물관에 들어서다보니 10여년 전 이곳에 왔던 기억이 떠올랐다. 밤차로 왔던 그때. 엄청 졸린 상태로 자전거까지 타고 돌아다니며 체력을 소비하다 결국 박물관에서 좀비처럼 걸어다니면서 엄청 졸았던 기억. ㅋㅋ&lt;/p&gt;
@@ -849,93 +931,11 @@
     </item>
     
     <item>
-      <title>경주 가족 여행 #08 동궁과 월지 야경 놀이</title>
-      <link>http://sookjin.com/2015/02/kyungju-08/</link>
-      <pubDate>Wed, 25 Feb 2015 00:00:00 UTC</pubDate>
-      <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2015/02/kyungju-08/</guid>
-      <description>
-
-&lt;h3 id=&#34;toc_0&#34;&gt;동궁과 월지&lt;/h3&gt;
-
-&lt;p&gt;몸은 피곤했다. 낮에 바닷가에서 갈매기에게 너무 힘을 빼서인지..&lt;/p&gt;
-
-&lt;p&gt;황남빵을 먹고 숙소로 돌아갈 수도 있었다. 해는 이미 떨어졌지만 우리는 짧은 일정이 아쉬울 뿐. 5살부터 70이 다되신 아부지까지 그 누가 봐도 노약자 그룹이지만 오늘의 마지막까지 부지런히 움직여 본다. 오늘의 마지막 코스는 아름답기로 소문난 안압지 야경.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-GaPiSniJkRI/VO80p1OWMHI/AAAAAAABCCI/ZV2LuIfHW20/w718-h404-no/IMG_20150225_184338.jpg&#34; alt=&#34;&#34; /&gt;
-
-지난번에, 그게 벌써 10여년 전인지만, 자전거를 타고 낮에 왔던 기억이 난다. 그땐 안압지였다. 별 볼것도 없이 물가에 새들만 노닌다고 하여 기러기 &amp;lsquo;안&amp;rsquo;자와 오리 &amp;lsquo;압&amp;rsquo;자를 써서 ‘안압지’라고 불리었다고 했는데 어느새 이름을 바꿨다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-DMN7F6HYxUQ/VO80p5MO8WI/AAAAAAABCCI/xJD_7pNrvUU/w718-h404-no/IMG_20150225_184510.jpg&#34; alt=&#34;&#34; /&gt;
-
-동궁과 월지. 달이 비치는 연못이라는 뜻이란다. 여전히 한자이름이지만 지명 이름에 “과”라는 조사가 들어간 것이 특이했다. 잘 외워지지도 않는 이상한 이름.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-JLG3U_DWo94/VO80pwCeFhI/AAAAAAABCCI/VZsvoJxIOEE/w718-h404-no/IMG_20150225_184617.jpg&#34; alt=&#34;&#34; /&gt;
-
-이름을 바꾸고 다시 개장을 한건가? 안압지이던 시절에도 딱히 인상적이었던 기억아 나질 않아서 야경이라고 뭐 다르겠냔 마음으로 별 기대를 하지 않고 들어섰다.&lt;/p&gt;
-
-&lt;p&gt;야경이 유명하긴 한가보다. 사람들이 바글바글. 호수가 나타나기 전에는 뭐 그냥 그런 공원 풍경이었다. 그런데..&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-631UxkcgMkA/VO80p4P1RJI/AAAAAAABCCI/KxJB1FdoBpE/w718-h404-no/IMG_20150225_184643.jpg&#34; alt=&#34;&#34; /&gt;
-
-연못가로 다가가니 거울 같이 잔잔한 물에 반사된 아름다운 그림에 절로 탄성이 나왔다.  오늘이 날이었다. 바람 한 점 없는 날.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-b0msJuHpnd8/VO80pyoqrqI/AAAAAAABCCI/d7uDNobTbd0/w718-h404-no/IMG_20150225_184835.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-il74R3x3Xjs/VO80p7NACQI/AAAAAAABCCI/Z0XraPen6Ec/w718-h404-no/IMG_20150225_184906.jpg&#34; alt=&#34;&#34; /&gt;
-
-건물을 밝게 비춘 조명 탓인지 연못에 비친 그림자가 더욱더 아름다웠다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-7W4MlOKdxdM/VO80p3_tbRI/AAAAAAABCCI/SoqjzzKRplk/w718-h404-no/IMG_20150225_185159.jpg&#34; alt=&#34;&#34; /&gt;
-
-자세히 봐도 정말 뭐가 실물인지 알 수 없을 정도로 거울 같은 리플렉션. 주변에 높은 건물도 없고 가로등도 도시처럼 밝지 않으니 소박한 조명인데도 무척 돋보인다. 예상외의 풍경에 감탄하면서 우리는 연못을 한바퀴 돌기로.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-eCUmXD6mAus/VO80p5czCFI/AAAAAAABCCI/ywYAYlbhvck/w718-h404-no/IMG_20150225_185250.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-lr9-3rUf1zA/VO80p-PXK0I/AAAAAAABCCI/Tlk2hWuE5BU/w718-h404-no/IMG_20150225_185300.jpg&#34; alt=&#34;&#34; /&gt;
-
-가장 아름다운 배경이 펼쳐진 곳에서 가로등을 조명 삼아 단체 사진.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-qLqahbjI1pI/VO80p84HhVI/AAAAAAABCCI/el2tW1qwkXc/w718-h404-no/IMG_20150225_185332.jpg&#34; alt=&#34;&#34; /&gt;
-
-우리 솔이. 꼬맹이가 하루종일 걸어다니느라 피곤할텐데 끝까지 아장아장 잘 걸어주고 잘 따라와 주었다. 기특한 것.&lt;/p&gt;
-
-&lt;p&gt;연못을 한바퀴 돌면 1km 정도 되는데 굴곡이 많아 어느 곳에서 보아도 연못 전체가 한눈에 들어오지 않는다고 한다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-mtYK5LKEUR8/VO80p_4P1OI/AAAAAAABCCI/hcXFRGCNRkQ/w718-h404-no/IMG_20150225_185712.jpg&#34; alt=&#34;&#34; /&gt;
-
-이곳에서의 야경이 가장 아름다웠다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-tdJxhkjoiEo/VO80p48ZUMI/AAAAAAABCCI/dKeVavDfyBY/w718-h404-no/IMG_20150225_184437.jpg&#34; alt=&#34;&#34; /&gt;
-
-산책로를 좀 조용히 걸었으면 좋았으련만. 모르는 사람들의 뒤를 쫓아, 또 모르는 사람들에게 뒤를 쫓기며 마치 줄을 서서 걸어가듯이 걸을 수 밖에 없었던 것이 아쉽다.&lt;/p&gt;
-
-&lt;p&gt;연못을 한바퀴 돌고 스탬프를 찾으려고 정문 앞을 두리번거리다 보니 안내소 옆에 주령구 모양의 가판대가 우리의 눈길을 끌었다. 그러고 보니 우리가 박물관에서 인상깊게 봤던 주령구도 바로 이 안압지 발굴현장에서 나온 것이다. 주령구빵이라는 뭔가 수상한(?) 빵을 팔고 있었지만 방금 경주 빵을 사먹고 실패한 우리의 눈길을 끌지는 못했다.&lt;/p&gt;
-
-&lt;p&gt;송자매는 이곳 동궁과 월지에서 오늘의 마지막 스탬프를 찍었다. 아름다운 동궁과 월지의 야경을 마지막으로 오늘의 바뻤던 일정 끝.&lt;/p&gt;
-
-&lt;p&gt;숙소로 돌아와서 이 좋은 분위기를 홀랑 깨는 일이 있었으니 바로 지갑 분실 사건.&lt;/p&gt;
-
-&lt;p&gt;어제밤부터 보이지 않던 지갑. 짐 어딘가 있겠지 하고 신경을 안썼는데 뒤늦게 찾으니 보이지 않는다. 숙소에 도착해서 주차하고 짐내리고 체크인할 때 마지막으로 본건 기억나는데 그 이후가 기억이 나질 않는다. 아무리 머리를 쥐어 뜯어도 내 기억은 딱 거기까지였다. 아니 그 기억조차 믿을 수가 없었다.&lt;/p&gt;
-
-&lt;p&gt;즐거워야 할 저녁시간에 로비와 주차장을 왔다 갔다 하게 하고 모두에게 근심거리를 주었으니 잃어버린 지갑이 문제가 아니라 온가족의 정신적 스트레스와 시간 손해가 크다. 전화로 사고처리를 하고 그냥 빨리 잊자고 결론 내렸다.&lt;/p&gt;
-
-&lt;p&gt;참으로 오랜만에 지갑을 잃어버리고 나서 그 원인을 생각해봤다. 유럽에서도 무사했던 내 지갑을 한국, 그것도 경주에 와서 잃어버리다니.&lt;/p&gt;
-
-&lt;p&gt;답은 간단했다. 오히려 유럽 여행은 길었기 때문에 소지품엔 다 자리가 있었고, 또 소매치기 위험에 늘 조심했기 때문에 안전할 수 있었지만, 경주는 2박3일 짧은 일정에 지갑의 정해진 자리도 없었다. 개인 가방은 있었지만 트렁크에 넣어뒀고,  방심하여 제대로 챙기지 않았던게 원인이었다. 차 문에 꽂힌 지갑을 보고 가져올까 말까를 고민했다는 자체가 실수였다.&lt;/p&gt;
-
-&lt;p&gt;갑자기 어디선가 짠 나타나주면 좋겠지만. 잊자. 수업료다.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>경주 가족 여행 #01 출발에서 마장 휴게소까지</title>
-      <link>http://sookjin.com/2015/02/kyungju-01/</link>
+      <link>http://localhost:1313/2015/02/kyungju-01/</link>
       <pubDate>Tue, 24 Feb 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2015/02/kyungju-01/</guid>
+      <guid>http://localhost:1313/2015/02/kyungju-01/</guid>
       <description>&lt;p&gt;현가네끼리 경주에 가는 날이다. 신영동팀(솔이 호주이모 막둥) 상계동팀(할아버지, 송자매, 언니) 각자 집에서 출발해서 마장 휴게소에서 접선하기로 했다.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-qaowxlZjebs/VO8yJ6GvrbI/AAAAAAABB98/r8UrmgFEdR8/w718-h404-no/IMG_20150224_092833.jpg&#34; alt=&#34;&#34; /&gt;
@@ -1024,10 +1024,10 @@
     
     <item>
       <title>경주 가족 여행 #03 콘도 도착</title>
-      <link>http://sookjin.com/2015/02/kyungju-03/</link>
+      <link>http://localhost:1313/2015/02/kyungju-03/</link>
       <pubDate>Tue, 24 Feb 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2015/02/kyungju-03/</guid>
+      <guid>http://localhost:1313/2015/02/kyungju-03/</guid>
       <description>&lt;p&gt;엄마 산소에 들르려면 어쩔 수 없이 주변에 사시는 일가 친척 분들을 찾아뵈야 하니  일석이조라고 할 수도 있겠다. 이번엔 이렇게 여행 가는 길에 들렀으니 일석삼조라고 해야 하나?&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-whom9_nzRCQ/VO8ycxoXizI/AAAAAAABB-c/ITMt7zHI3cU/w718-h404-no/IMG_20150224_163526.jpg&#34; alt=&#34;&#34; /&gt;
@@ -1107,10 +1107,10 @@
     
     <item>
       <title>경주 가족 여행 #02 시골 엄마 산소</title>
-      <link>http://sookjin.com/2015/02/kyungju-02/</link>
+      <link>http://localhost:1313/2015/02/kyungju-02/</link>
       <pubDate>Tue, 24 Feb 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2015/02/kyungju-02/</guid>
+      <guid>http://localhost:1313/2015/02/kyungju-02/</guid>
       <description>&lt;p&gt;정말로 오래만에 오는 시골. 엄마 산소가 여기에 있지 않았다면 아마 올 일도 없었을 것이다. 이번에도 경주에 가지 않았다만 아마 오기 힘들었을 것이다.&lt;/p&gt;
 
 &lt;p&gt;이런 저런 얘기를 하다보니 어느새 점촌 도착. 늘 그렇듯이 시내에서 꽃을 한다발 샀다. 엄마 산소에 가기 전에 먼저 신기에 들러 큰아버지를 뵙고 인사를 드리려고 했는데 도착하니 큰아버지는 산책을 나가시고 큰엄마만 계셨다. 큰엄마는 팔이 부러져 깁스를 하고 계신 것 빼고는 건강해 보이셨다. 잠시 앉아서 큰아버지를 기다리다가 나중을 기약하고 자리를 떴다.&lt;/p&gt;
@@ -1265,149 +1265,11 @@
     </item>
     
     <item>
-      <title>경주 가족 여행 #05 석굴암</title>
-      <link>http://sookjin.com/2015/02/kyungju-05/</link>
-      <pubDate>Tue, 24 Feb 2015 00:00:00 UTC</pubDate>
-      <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2015/02/kyungju-05/</guid>
-      <description>&lt;p&gt;불국사 관람을 마치고 우리는 불국사의 콤보세트인 석굴암까지 구경하고 가기로 했다. 차로 산길을 꼬불꼬불 달려 주차장에 차를 세우고 또 한참을 걸어서 들어가야 한다. 기억이 나지 않는 것을 보니 난 아마도 지난번엔 석굴암엔 안 와봤나보다.
-&lt;img src=&#34;https://lh4.googleusercontent.com/-BhDmTIv7YWk/VT4O9Gu5QuI/AAAAAAABL48/JnF2Glh77CQ/w640-h480-no/DSCN4273.jpg&#34; alt=&#34;&#34; /&gt;
-
-라고 쓰고 2004년 사진을 찾아보니 왔었다 석굴암. ㅋㅋㅋ 입장료 3천원이던 시절.&lt;/p&gt;
-
-&lt;p&gt;사진을 보니 불국사, 석굴암, 안압지는 물론 김유신묘, 분황사까지 갔었다. 맷돌 순두부도 먹었더라. ㅋㅋ 1박 2일 동안 자전걸 타고 아주 빨빨거리고 잘도 돌아다녔건만 기억이 나질 않는다. 나중에 송자매가 석굴암을 기억하지 못해도 할말이 없을 것 같다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-yQEp9IgVtzE/VO_CReQqUPI/AAAAAAABC9I/abezyhaxSf8/w718-h479-no/IMG_3914.jpg&#34; alt=&#34;&#34; /&gt;
-
-오늘은 아빠 차에 다 구겨 타고 한 대로 움직이는 덕분에 이동은 간단하다. 석굴암 주차장에 차를 세워두고 매표소로 가는 중. 계단 앞에서 할아버지랑 딸기의 가위바위보 놀이.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-HYIk5gbPaTw/VO_CRWVu93I/AAAAAAABC9I/JWFq9JPy1hU/w508-h762-no/IMG_3911.jpg&#34; alt=&#34;&#34; /&gt;
-
-천진난만한 표정으로 삿대질인지 가위인지 알 수 없는 가위를 내신 아부지의 승.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-lduiHnlqE0A/VO_CRdpKpII/AAAAAAABC9I/pe8agSsf7Ak/w718-h479-no/IMG_3910.jpg&#34; alt=&#34;&#34; /&gt;
-
-즐거운 그들 뒤를 솔이가 엉엉 울면서 따르고 있다. 막둥이 엄마의 화난 표정.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-KyiRZ3-farQ/VO_CRYJLZJI/AAAAAAABC9I/-bfIaTtJbCM/w718-h479-no/IMG_3909.jpg&#34; alt=&#34;&#34; /&gt;
-
-이 흔한 싸움의 중재자는 역시나 이모.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-msj9O2-AhPA/VO8zhXrlflI/AAAAAAABCAE/Rs2im3bHgIE/w718-h404-no/IMG_20150225_125914.jpg&#34; alt=&#34;&#34; /&gt;
-
-이모 등에 업혀 언니들의 보호와 위로를 받으며 조금씩 울음이 잦아든다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-Bt5w7JzSOlQ/VO8zhZrEtfI/AAAAAAABCAE/xdL6nfD1PsY/w718-h404-no/IMG_20150225_130019.jpg&#34; alt=&#34;&#34; /&gt;
-
-그제서야 엄마랑 손 꼭잡고 화해의 시간.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-XgC9d3UB0mE/VO8zhQdCq3I/AAAAAAABCAE/ok_l5CiIWnM/w718-h404-no/IMG_20150225_130033.jpg&#34; alt=&#34;&#34; /&gt;
-
-꼭 껴안고 훈훈하게 마무리. 눈물로 젖은 속눈썹. 슬프다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-nCuhFmv0QQI/VO_CRYw2SJI/AAAAAAABC9I/RHqsy6JJ538/w508-h762-no/IMG_3918.jpg&#34; alt=&#34;&#34; /&gt;
-
-엄마랑 사이좋게 손잡고 걸어가는 길.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-j9MsDUOdcz8/VO8zhQ_lA0I/AAAAAAABCAE/5GsznpS5w1s/w718-h404-no/IMG_20150225_130359.jpg&#34; alt=&#34;&#34; /&gt;
-
-새피리를 불며 꼬불꼬불 산길을 걸어간다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-p-Ad_XPQXI8/VO8zhYEpvXI/AAAAAAABCAE/MAx_gNjRWBw/w718-h404-no/IMG_20150225_130343.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-1DGvjEanWZ8/VO_CRbe5NQI/AAAAAAABC9I/cnMGip_JfQc/w508-h762-no/IMG_3919.jpg&#34; alt=&#34;&#34; /&gt;
-
-신난 중딩 송겨울.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-BK_luq-BliE/VO_CRTz0L0I/AAAAAAABC9I/XtlbS5CrcU0/w508-h762-no/IMG_3920.jpg&#34; alt=&#34;&#34; /&gt;
-
-뒤에 있다가 덩달아 뛰어 오고 있는 송딸기. 언니랑 아빤 저 뒤에서 뭐하시나??&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-XEZu3DglG1E/VO_CRQz25NI/AAAAAAABC9I/dXYokHGCt_4/w508-h762-no/IMG_3922.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-faAbxm_gTpo/VO_CRdRuUSI/AAAAAAABC9I/DmKS5uUNeKM/w508-h762-no/IMG_3924.jpg&#34; alt=&#34;&#34; /&gt;
-
-동네 마실 나온분처럼 여유로운 울 아부지.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-1cJAwZYQhZE/VO_CRaowLrI/AAAAAAABC9I/fN64dUaWL9k/w508-h762-no/IMG_3927.jpg&#34; alt=&#34;&#34; /&gt;
-
-솔이는 이모랑 손잡고 걷는 중.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-WmzigK5GaL4/VO_CRYNhDmI/AAAAAAABC9I/ygifzZtg0Kg/w718-h479-no/IMG_3928.jpg&#34; alt=&#34;&#34; /&gt;
-
-색등으로 장식된 예쁜 길.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-xglmvOveqq0/VO_CRZL1sKI/AAAAAAABC9I/a5vB3NPyNFM/w718-h479-no/IMG_3929.jpg&#34; alt=&#34;&#34; /&gt;
-
-끝을 알 수 없는 길이었지만 예자매가 불평없이 잘 걸어주었다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-xlzy0EPgxGY/VO_CRfOKoaI/AAAAAAABC9I/-c264kZAM2Q/w718-h479-no/IMG_3932.jpg&#34; alt=&#34;&#34; /&gt;
-
-한 20여분 걸었나. 석굴암에 도착했다. 저 마지막 계단만 오르면 석굴암.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-bfYnKE05K9c/VO8zhXO8tjI/AAAAAAABCAE/mDSKbXnkszI/w718-h404-no/IMG_20150225_131639.jpg&#34; alt=&#34;&#34; /&gt;
-
-양손에 딸 하나씩 매달고. ㅋㅋ&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-2wzY7C2RczI/VO8zhYkwqEI/AAAAAAABCAE/mK619iXZe5E/w718-h404-no/IMG_20150225_131644.jpg&#34; alt=&#34;&#34; /&gt;
-
-막둥이랑 겨울이는 관광안내소에서 도장 찍는 중.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-O8lu7X51aWs/VO8zhcXqbrI/AAAAAAABCAE/7LKxy7kkzQ0/w718-h404-no/IMG_20150225_131722.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-_Ucdtn6wYZ4/VO8zhZtO7aI/AAAAAAABCAE/Ic3h96-BSws/w718-h404-no/IMG_20150225_131848.jpg&#34; alt=&#34;&#34; /&gt;
-
-예전에 비해 체력이 아주 좋아지신 아부지. 아버지가 가장 먼저 석굴암에 들어서신다.&lt;/p&gt;
-
-&lt;p&gt;석굴암은 보존 과정에서 많은 문제가 있었기에 철저히 외부와 분리되어 있다. 관람은 저 문을 들어가서 유리벽 안쪽에 있는 석상을 보는게 전부다. 사진도 찍지 말란다. 입장료가 아까워지는 순간. 뭬얏! #!$@^#$%@#$%&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-oP7QBbCGNxE/VO_CRXHO9wI/AAAAAAABC9I/IWCdeY80Vxs/w718-h479-no/IMG_3937.jpg&#34; alt=&#34;&#34; /&gt;
-
-밖에 나와서 사진을 몇 장 찍어본다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-YRG2oBmLtBk/VO_CRU0S9bI/AAAAAAABC9I/8k4aAxAiA3s/w718-h479-no/IMG_3945.jpg&#34; alt=&#34;&#34; /&gt;
-
-경주 스탬프 투어중인 송자매.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-caAn2Qfx4GA/VO_CRaNZNCI/AAAAAAABC9I/wJ_Udpwn-QM/w718-h479-no/IMG_3943.jpg&#34; alt=&#34;&#34; /&gt;
-
-딸기 기사님이 찍어준 사진. 현자매 기념 사진에 솔이랑 찬조 출연하신 아버지.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-DI-Ya8olhG4/VO_CRZB71CI/AAAAAAABC9I/acR2kL9wEJo/w508-h762-no/IMG_3948.jpg&#34; alt=&#34;&#34; /&gt;
-
-이 계단에서 아빠가 솔이를 등에 업고 내려오다가 솔이가 뒤에서 내리겠다고 버둥거리는 바람에 바닥으로 떨어질 뻔 했다. 다행히 아빠가 겨우 다리를 붙잡아 거꾸로 대롱대롱 메달린 솔이를 보고 우린 모두 십년 감수했다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-nAQUm64-zAY/VO_CRbQ-KXI/AAAAAAABC9I/ZjakEHuoNU0/w718-h479-no/IMG_3949.jpg&#34; alt=&#34;&#34; /&gt;
-
-휴. 애 잡을 뻔 했네.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-HEBEPX6XEX0/VO8zhVlyFOI/AAAAAAABCAE/sKV_e7aYUvE/w718-h404-no/IMG_20150225_133117.jpg&#34; alt=&#34;&#34; /&gt;
-
-감로수 한잔하면서 식겁한 가슴을 진정시킨다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-kj9BFubXnuo/VO_CRfqDakI/AAAAAAABC9I/2MiDb9DKMGw/w718-h479-no/IMG_3950.jpg&#34; alt=&#34;&#34; /&gt;
-
-자 이제 가자 얘들아.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/-hIsBOXZ2Tqk/VO8zhVw12rI/AAAAAAABCAE/jAfyCRubH3o/w718-h539-no/IMG_20150225_133752.jpg&#34; alt=&#34;&#34; /&gt;
-
-이제 다시 숲길을 걸어 돌아가는 길.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-BawNJp-nqFc/VO8zhSpDTiI/AAAAAAABCAE/UfircbQNnlg/w429-h762-no/IMG_20150225_134754.jpg&#34; alt=&#34;&#34; /&gt;
-
-주차장으로 나오니 이미 오후 두시가 다 되었다. 배가 고팠던 우리는 출발에 앞서 군밤을 한봉지 샀다. 자 이제 점심을 먹으러 출발~&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>경주 가족 여행 #06 수중 왕릉 갈매기, 정수가성</title>
-      <link>http://sookjin.com/2015/02/kyungju-06/</link>
+      <link>http://localhost:1313/2015/02/kyungju-06/</link>
       <pubDate>Tue, 24 Feb 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2015/02/kyungju-06/</guid>
+      <guid>http://localhost:1313/2015/02/kyungju-06/</guid>
       <description>
 
 &lt;p&gt;불국사 석굴암을 구경하느라 점심을 놓쳐버린 우리. 주린 배를 부여잡고 식당을 찾다가 겨우 쌈밥을 먹으러 갔는데 문이 닫혀 있었다. 마침 건너편 식당에서 한 남자가 나타나 같은 집이라고 얼렁 이쪽으로 오라고 손짓을 하길래 자는 솔이를 들쳐 안고 들어갔다.&lt;/p&gt;
@@ -1594,11 +1456,149 @@
     </item>
     
     <item>
+      <title>경주 가족 여행 #05 석굴암</title>
+      <link>http://localhost:1313/2015/02/kyungju-05/</link>
+      <pubDate>Tue, 24 Feb 2015 00:00:00 UTC</pubDate>
+      <author>Sookjin Hyun</author>
+      <guid>http://localhost:1313/2015/02/kyungju-05/</guid>
+      <description>&lt;p&gt;불국사 관람을 마치고 우리는 불국사의 콤보세트인 석굴암까지 구경하고 가기로 했다. 차로 산길을 꼬불꼬불 달려 주차장에 차를 세우고 또 한참을 걸어서 들어가야 한다. 기억이 나지 않는 것을 보니 난 아마도 지난번엔 석굴암엔 안 와봤나보다.
+&lt;img src=&#34;https://lh4.googleusercontent.com/-BhDmTIv7YWk/VT4O9Gu5QuI/AAAAAAABL48/JnF2Glh77CQ/w640-h480-no/DSCN4273.jpg&#34; alt=&#34;&#34; /&gt;
+
+라고 쓰고 2004년 사진을 찾아보니 왔었다 석굴암. ㅋㅋㅋ 입장료 3천원이던 시절.&lt;/p&gt;
+
+&lt;p&gt;사진을 보니 불국사, 석굴암, 안압지는 물론 김유신묘, 분황사까지 갔었다. 맷돌 순두부도 먹었더라. ㅋㅋ 1박 2일 동안 자전걸 타고 아주 빨빨거리고 잘도 돌아다녔건만 기억이 나질 않는다. 나중에 송자매가 석굴암을 기억하지 못해도 할말이 없을 것 같다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-yQEp9IgVtzE/VO_CReQqUPI/AAAAAAABC9I/abezyhaxSf8/w718-h479-no/IMG_3914.jpg&#34; alt=&#34;&#34; /&gt;
+
+오늘은 아빠 차에 다 구겨 타고 한 대로 움직이는 덕분에 이동은 간단하다. 석굴암 주차장에 차를 세워두고 매표소로 가는 중. 계단 앞에서 할아버지랑 딸기의 가위바위보 놀이.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-HYIk5gbPaTw/VO_CRWVu93I/AAAAAAABC9I/JWFq9JPy1hU/w508-h762-no/IMG_3911.jpg&#34; alt=&#34;&#34; /&gt;
+
+천진난만한 표정으로 삿대질인지 가위인지 알 수 없는 가위를 내신 아부지의 승.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-lduiHnlqE0A/VO_CRdpKpII/AAAAAAABC9I/pe8agSsf7Ak/w718-h479-no/IMG_3910.jpg&#34; alt=&#34;&#34; /&gt;
+
+즐거운 그들 뒤를 솔이가 엉엉 울면서 따르고 있다. 막둥이 엄마의 화난 표정.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-KyiRZ3-farQ/VO_CRYJLZJI/AAAAAAABC9I/-bfIaTtJbCM/w718-h479-no/IMG_3909.jpg&#34; alt=&#34;&#34; /&gt;
+
+이 흔한 싸움의 중재자는 역시나 이모.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-msj9O2-AhPA/VO8zhXrlflI/AAAAAAABCAE/Rs2im3bHgIE/w718-h404-no/IMG_20150225_125914.jpg&#34; alt=&#34;&#34; /&gt;
+
+이모 등에 업혀 언니들의 보호와 위로를 받으며 조금씩 울음이 잦아든다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-Bt5w7JzSOlQ/VO8zhZrEtfI/AAAAAAABCAE/xdL6nfD1PsY/w718-h404-no/IMG_20150225_130019.jpg&#34; alt=&#34;&#34; /&gt;
+
+그제서야 엄마랑 손 꼭잡고 화해의 시간.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-XgC9d3UB0mE/VO8zhQdCq3I/AAAAAAABCAE/ok_l5CiIWnM/w718-h404-no/IMG_20150225_130033.jpg&#34; alt=&#34;&#34; /&gt;
+
+꼭 껴안고 훈훈하게 마무리. 눈물로 젖은 속눈썹. 슬프다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-nCuhFmv0QQI/VO_CRYw2SJI/AAAAAAABC9I/RHqsy6JJ538/w508-h762-no/IMG_3918.jpg&#34; alt=&#34;&#34; /&gt;
+
+엄마랑 사이좋게 손잡고 걸어가는 길.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-j9MsDUOdcz8/VO8zhQ_lA0I/AAAAAAABCAE/5GsznpS5w1s/w718-h404-no/IMG_20150225_130359.jpg&#34; alt=&#34;&#34; /&gt;
+
+새피리를 불며 꼬불꼬불 산길을 걸어간다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-p-Ad_XPQXI8/VO8zhYEpvXI/AAAAAAABCAE/MAx_gNjRWBw/w718-h404-no/IMG_20150225_130343.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-1DGvjEanWZ8/VO_CRbe5NQI/AAAAAAABC9I/cnMGip_JfQc/w508-h762-no/IMG_3919.jpg&#34; alt=&#34;&#34; /&gt;
+
+신난 중딩 송겨울.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-BK_luq-BliE/VO_CRTz0L0I/AAAAAAABC9I/XtlbS5CrcU0/w508-h762-no/IMG_3920.jpg&#34; alt=&#34;&#34; /&gt;
+
+뒤에 있다가 덩달아 뛰어 오고 있는 송딸기. 언니랑 아빤 저 뒤에서 뭐하시나??&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-XEZu3DglG1E/VO_CRQz25NI/AAAAAAABC9I/dXYokHGCt_4/w508-h762-no/IMG_3922.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-faAbxm_gTpo/VO_CRdRuUSI/AAAAAAABC9I/DmKS5uUNeKM/w508-h762-no/IMG_3924.jpg&#34; alt=&#34;&#34; /&gt;
+
+동네 마실 나온분처럼 여유로운 울 아부지.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-1cJAwZYQhZE/VO_CRaowLrI/AAAAAAABC9I/fN64dUaWL9k/w508-h762-no/IMG_3927.jpg&#34; alt=&#34;&#34; /&gt;
+
+솔이는 이모랑 손잡고 걷는 중.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-WmzigK5GaL4/VO_CRYNhDmI/AAAAAAABC9I/ygifzZtg0Kg/w718-h479-no/IMG_3928.jpg&#34; alt=&#34;&#34; /&gt;
+
+색등으로 장식된 예쁜 길.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-xglmvOveqq0/VO_CRZL1sKI/AAAAAAABC9I/a5vB3NPyNFM/w718-h479-no/IMG_3929.jpg&#34; alt=&#34;&#34; /&gt;
+
+끝을 알 수 없는 길이었지만 예자매가 불평없이 잘 걸어주었다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-xlzy0EPgxGY/VO_CRfOKoaI/AAAAAAABC9I/-c264kZAM2Q/w718-h479-no/IMG_3932.jpg&#34; alt=&#34;&#34; /&gt;
+
+한 20여분 걸었나. 석굴암에 도착했다. 저 마지막 계단만 오르면 석굴암.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-bfYnKE05K9c/VO8zhXO8tjI/AAAAAAABCAE/mDSKbXnkszI/w718-h404-no/IMG_20150225_131639.jpg&#34; alt=&#34;&#34; /&gt;
+
+양손에 딸 하나씩 매달고. ㅋㅋ&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-2wzY7C2RczI/VO8zhYkwqEI/AAAAAAABCAE/mK619iXZe5E/w718-h404-no/IMG_20150225_131644.jpg&#34; alt=&#34;&#34; /&gt;
+
+막둥이랑 겨울이는 관광안내소에서 도장 찍는 중.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-O8lu7X51aWs/VO8zhcXqbrI/AAAAAAABCAE/7LKxy7kkzQ0/w718-h404-no/IMG_20150225_131722.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-_Ucdtn6wYZ4/VO8zhZtO7aI/AAAAAAABCAE/Ic3h96-BSws/w718-h404-no/IMG_20150225_131848.jpg&#34; alt=&#34;&#34; /&gt;
+
+예전에 비해 체력이 아주 좋아지신 아부지. 아버지가 가장 먼저 석굴암에 들어서신다.&lt;/p&gt;
+
+&lt;p&gt;석굴암은 보존 과정에서 많은 문제가 있었기에 철저히 외부와 분리되어 있다. 관람은 저 문을 들어가서 유리벽 안쪽에 있는 석상을 보는게 전부다. 사진도 찍지 말란다. 입장료가 아까워지는 순간. 뭬얏! #!$@^#$%@#$%&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-oP7QBbCGNxE/VO_CRXHO9wI/AAAAAAABC9I/IWCdeY80Vxs/w718-h479-no/IMG_3937.jpg&#34; alt=&#34;&#34; /&gt;
+
+밖에 나와서 사진을 몇 장 찍어본다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-YRG2oBmLtBk/VO_CRU0S9bI/AAAAAAABC9I/8k4aAxAiA3s/w718-h479-no/IMG_3945.jpg&#34; alt=&#34;&#34; /&gt;
+
+경주 스탬프 투어중인 송자매.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-caAn2Qfx4GA/VO_CRaNZNCI/AAAAAAABC9I/wJ_Udpwn-QM/w718-h479-no/IMG_3943.jpg&#34; alt=&#34;&#34; /&gt;
+
+딸기 기사님이 찍어준 사진. 현자매 기념 사진에 솔이랑 찬조 출연하신 아버지.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-DI-Ya8olhG4/VO_CRZB71CI/AAAAAAABC9I/acR2kL9wEJo/w508-h762-no/IMG_3948.jpg&#34; alt=&#34;&#34; /&gt;
+
+이 계단에서 아빠가 솔이를 등에 업고 내려오다가 솔이가 뒤에서 내리겠다고 버둥거리는 바람에 바닥으로 떨어질 뻔 했다. 다행히 아빠가 겨우 다리를 붙잡아 거꾸로 대롱대롱 메달린 솔이를 보고 우린 모두 십년 감수했다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-nAQUm64-zAY/VO_CRbQ-KXI/AAAAAAABC9I/ZjakEHuoNU0/w718-h479-no/IMG_3949.jpg&#34; alt=&#34;&#34; /&gt;
+
+휴. 애 잡을 뻔 했네.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-HEBEPX6XEX0/VO8zhVlyFOI/AAAAAAABCAE/sKV_e7aYUvE/w718-h404-no/IMG_20150225_133117.jpg&#34; alt=&#34;&#34; /&gt;
+
+감로수 한잔하면서 식겁한 가슴을 진정시킨다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-kj9BFubXnuo/VO_CRfqDakI/AAAAAAABC9I/2MiDb9DKMGw/w718-h479-no/IMG_3950.jpg&#34; alt=&#34;&#34; /&gt;
+
+자 이제 가자 얘들아.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/-hIsBOXZ2Tqk/VO8zhVw12rI/AAAAAAABCAE/jAfyCRubH3o/w718-h539-no/IMG_20150225_133752.jpg&#34; alt=&#34;&#34; /&gt;
+
+이제 다시 숲길을 걸어 돌아가는 길.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-BawNJp-nqFc/VO8zhSpDTiI/AAAAAAABCAE/UfircbQNnlg/w429-h762-no/IMG_20150225_134754.jpg&#34; alt=&#34;&#34; /&gt;
+
+주차장으로 나오니 이미 오후 두시가 다 되었다. 배가 고팠던 우리는 출발에 앞서 군밤을 한봉지 샀다. 자 이제 점심을 먹으러 출발~&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>2015년 한국에 다녀와서. 가족들에게.</title>
-      <link>http://sookjin.com/2015/01/to-my-family-2015/</link>
+      <link>http://localhost:1313/2015/01/to-my-family-2015/</link>
       <pubDate>Thu, 15 Jan 2015 08:19:44 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2015/01/to-my-family-2015/</guid>
+      <guid>http://localhost:1313/2015/01/to-my-family-2015/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;현가족&lt;/h3&gt;
@@ -1636,10 +1636,10 @@
     
     <item>
       <title>For Family</title>
-      <link>http://sookjin.com/family-toc/</link>
+      <link>http://localhost:1313/family-toc/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/family-toc/</guid>
+      <guid>http://localhost:1313/family-toc/</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;Family News Letter&lt;/h2&gt;
@@ -1658,7 +1658,8 @@
 &lt;li&gt;&lt;a href=&#34;/topics/kj-2015/&#34;&gt;2015 경주 가족여행&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/topics/europe-2015&#34;&gt;2015 현자매 송자매 유럽 - 작성중&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/topics/father-2014/&#34;&gt;2014 아빠 호주 방문 - 작성중&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/topics/nz-2013/&#34;&gt;2013 뉴질랜드 - 작성중&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/nz-south-2013&#34;&gt;2013 뉴질랜드 남섬 캠퍼카 여행&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/nz-2013/&#34;&gt;2013 뉴질랜드 북섬&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/topics/guam-2012/&#34;&gt;2012 괌 - 작성중&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/topics/jeju-2012/&#34;&gt;2012 제주도&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/topics/thailand-2011/&#34;&gt;2011 태국&lt;/a&gt;&lt;/li&gt;

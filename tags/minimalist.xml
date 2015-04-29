@@ -3,7 +3,7 @@
   <channel>
       <title>Minimalist on Sookjin.com </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://sookjin.com/tags/minimalist/index.xml</link>
+    <link>http://localhost:1313/tags/minimalist/index.xml</link>
     <language>en-us</language>
     <author>Sookjin Hyun</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>내가 SNS를 하지 않는 이유</title>
-      <link>http://sookjin.com/2015/04/why-i-dont-do-sns/</link>
+      <link>http://localhost:1313/2015/04/why-i-dont-do-sns/</link>
       <pubDate>Mon, 20 Apr 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2015/04/why-i-dont-do-sns/</guid>
+      <guid>http://localhost:1313/2015/04/why-i-dont-do-sns/</guid>
       <description>
 
 &lt;p&gt;SNS의 시대다. 나도 물론 호기심에 때로는 어쩔 수 없이 Facebook, Twitter, Instagram, 카카오 스토리 등을 서비스 초기에 잠깐 사용해 봤지만 지금은 모두 정리하고 아무것도 하지 않는다. &lt;a href=&#34;/2014/07/my-only-sns-google-plus/&#34;&gt;Google+를 사용중&lt;/a&gt;이긴 하나 사진 백업과 공유를 위한 목적일뿐, 난 언제나 그랬듯 블로그 하나면 족하다.&lt;/p&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>내가 생각하는 스마트 라이프</title>
-      <link>http://sookjin.com/2014/08/smart-life/</link>
+      <link>http://localhost:1313/2014/08/smart-life/</link>
       <pubDate>Thu, 07 Aug 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2014/08/smart-life/</guid>
+      <guid>http://localhost:1313/2014/08/smart-life/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;스마트 라이프?&lt;/h3&gt;
@@ -116,10 +116,10 @@
     
     <item>
       <title>요리 안하는 여자</title>
-      <link>http://sookjin.com/2014/06/i-dont-cook/</link>
+      <link>http://localhost:1313/2014/06/i-dont-cook/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2014/06/i-dont-cook/</guid>
+      <guid>http://localhost:1313/2014/06/i-dont-cook/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;내가 요리를 하지 않는 이유&lt;/h3&gt;

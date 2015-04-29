@@ -3,7 +3,7 @@
   <channel>
       <title>Bushwalking on Sookjin.com </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://sookjin.com/tags/bushwalking/index.xml</link>
+    <link>http://localhost:1313/tags/bushwalking/index.xml</link>
     <language>en-us</language>
     <author>Sookjin Hyun</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>백패킹 가서  뭘 먹을까?</title>
-      <link>http://sookjin.com/2014/08/overnight-hiking-meal-plan/</link>
+      <link>http://localhost:1313/2014/08/overnight-hiking-meal-plan/</link>
       <pubDate>Tue, 12 Aug 2014 18:18:59 &#43;1100</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2014/08/overnight-hiking-meal-plan/</guid>
+      <guid>http://localhost:1313/2014/08/overnight-hiking-meal-plan/</guid>
       <description>
 
 &lt;p&gt;Overnight Hiking, 백패킹을 처음 할 때 가장 고민했던 것이 바로 &lt;strong&gt;뭘 먹을까&lt;/strong&gt;였다. 처음 4일짜리 백패킹을 갈 때 무개념이었던 나는 점심으로 영양도 좋고 맛도 좋은 떡을 싸갔다. 맛있지만 참으로 무겁고 날이 더우면 금방 쉬어버리는 떡. 첫째날은 최고였지만 마지막날은 쉬기 일보직전의 떡을 먹어야 했다. 좋지 않은 선택이었다. 평소 도시락으로도 애용하는 삼각김밥도 역시 편하고 맛있지만 보관하기 힘들고 번거롭다는 단점이 있다. 장박 산행에 적합하지 않은 음식들이다.&lt;/p&gt;
@@ -95,10 +95,10 @@
     
     <item>
       <title>Mt. Bogong 그 정상에 서다</title>
-      <link>http://sookjin.com/2014/06/mt-bogong/</link>
+      <link>http://localhost:1313/2014/06/mt-bogong/</link>
       <pubDate>Wed, 11 Jun 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2014/06/mt-bogong/</guid>
+      <guid>http://localhost:1313/2014/06/mt-bogong/</guid>
       <description>&lt;p&gt;Victoria의 가장 높은산, 듣기만 했던 그 이름. 드디어  Mt. Bogong에 갈 기회가 생겼다. 게다가 처음으로 한국말을 하는 사람들과 떠나는 백패킹. 갈길이 멀지만 금요일 퇴근 후 출발하기로 했다. 퇴근 하고 저녁을 먹고 짐을 챙겨 근호님 집으로 가니 이미 대문앞에 나와서 출발 준비를 하고 있는 두분. 근호님은 구면, 준민님은 초면. 간단하게 인사를 나누고 7시에 정확히 출발한다.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2903/14358771896_32415a09b0_z.jpg&#34; alt=&#34;&#34; /&gt;
@@ -278,10 +278,10 @@ Bright으로 넘어가는 도로의 전망대에서 마지막으로 눈도장.&
     
     <item>
       <title>Around the Prom in a Day</title>
-      <link>http://sookjin.com/2014/03/around-the-prom-in-a-day/</link>
+      <link>http://localhost:1313/2014/03/around-the-prom-in-a-day/</link>
       <pubDate>Sat, 08 Mar 2014 04:12:56 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2014/03/around-the-prom-in-a-day/</guid>
+      <guid>http://localhost:1313/2014/03/around-the-prom-in-a-day/</guid>
       <description>&lt;p&gt;도전이었다. 3일 코스인 45km의 산길을 하루에 걷는다는 것. 그저 뭔가 특별한 일을 해보고 싶다는 생각에 덜컥 신청했다. 결론은. 내가 기억하는 가장 힘든 하루였다. Difficult 아니고 Hard도 아닌 Painful을 처음으로 겪어본 날. 마지막 3km는 정말 발가락의 물집 때문에 한발 한발이 고통스러웠다. 빨리 끝나기만을 바랬을 뿐.&lt;/p&gt;
 
 &lt;p&gt;그룹의 페이스에 맞춰 내 상태와 상관없이 걷고 쉬어야 했던 것. 후반부에 물을 많이 못마신 것과 쉬고 싶을 때 못쉬고 안 쉬고 싶을 때 쉬어야 했다는 것이 힘들었던 점. 부쉬워킹 경력 1년 된 풋내기로써 2-30년된 베테랑들의 페이스를 맞추는 것 자체가 나에겐 큰 도전이었다.&lt;/p&gt;
@@ -390,10 +390,10 @@ Telegraph Track junction. 모두가 지친 가운데 잠시 휴식. 서로 간�
     
     <item>
       <title>Overland Track | Overview</title>
-      <link>http://sookjin.com/2014/01/overland-track-summary/</link>
+      <link>http://localhost:1313/2014/01/overland-track-summary/</link>
       <pubDate>Sun, 05 Jan 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2014/01/overland-track-summary/</guid>
+      <guid>http://localhost:1313/2014/01/overland-track-summary/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;기간&lt;/h3&gt;
@@ -430,10 +430,10 @@ Telegraph Track junction. 모두가 지친 가운데 잠시 휴식. 서로 간�
     
     <item>
       <title>Overland Track | Narcissus Hut - Lake St Clair</title>
-      <link>http://sookjin.com/2014/01/overland-day8/</link>
+      <link>http://localhost:1313/2014/01/overland-day8/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2014/01/overland-day8/</guid>
+      <guid>http://localhost:1313/2014/01/overland-day8/</guid>
       <description>&lt;p&gt;&lt;em&gt;Narcissus Hut - Lake St Clair&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2939/14178248806_db32657af4_z.jpg&#34;  /&gt;
@@ -482,10 +482,10 @@ Telegraph Track junction. 모두가 지친 가운데 잠시 휴식. 서로 간�
     
     <item>
       <title>Overland Track | Pine Valley Hut - Narcissus Hut</title>
-      <link>http://sookjin.com/2013/12/overland-day7/</link>
+      <link>http://localhost:1313/2013/12/overland-day7/</link>
       <pubDate>Tue, 31 Dec 2013 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2013/12/overland-day7/</guid>
+      <guid>http://localhost:1313/2013/12/overland-day7/</guid>
       <description>&lt;p&gt;&lt;em&gt;Labyrinth (sidetrip) - Pine Velley Hut - Narcissus Hut&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7344/14011717017_a07c8bf079_z.jpg&#34;  /&gt;
@@ -557,10 +557,10 @@ Narcissus Hut. 겉모양은 멀쩡하지만 정말 오래된 Hut이다. 화장
     
     <item>
       <title>Overland Track | Bert Nichols Hut - Pine Valley Hut</title>
-      <link>http://sookjin.com/2013/12/overland-day6/</link>
+      <link>http://localhost:1313/2013/12/overland-day6/</link>
       <pubDate>Mon, 30 Dec 2013 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2013/12/overland-day6/</guid>
+      <guid>http://localhost:1313/2013/12/overland-day6/</guid>
       <description>&lt;p&gt;&lt;em&gt;Bert Nichols Hut - Pine Valley Hut - Acropolis (side trip)&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7441/14194944781_c7e2bde352_z.jpg&#34;  /&gt;
@@ -624,10 +624,10 @@ Narcissus Hut. 겉모양은 멀쩡하지만 정말 오래된 Hut이다. 화장
     
     <item>
       <title>Overland Track | Kia Ora Hut - Bert Nichols Hut</title>
-      <link>http://sookjin.com/2013/12/overland-day5/</link>
+      <link>http://localhost:1313/2013/12/overland-day5/</link>
       <pubDate>Sun, 29 Dec 2013 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2013/12/overland-day5/</guid>
+      <guid>http://localhost:1313/2013/12/overland-day5/</guid>
       <description>&lt;p&gt;&lt;em&gt;Kia Ora Hut - Falls - Bert Nichols Hut&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7392/14011526378_703b03f02d_z.jpg&#34;  /&gt;
@@ -674,10 +674,10 @@ Narcissus Hut. 겉모양은 멀쩡하지만 정말 오래된 Hut이다. 화장
     
     <item>
       <title>Overland Track | Pelion Hut - Kia Ora Hut</title>
-      <link>http://sookjin.com/2013/12/overland-day4/</link>
+      <link>http://localhost:1313/2013/12/overland-day4/</link>
       <pubDate>Sat, 28 Dec 2013 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2013/12/overland-day4/</guid>
+      <guid>http://localhost:1313/2013/12/overland-day4/</guid>
       <description>&lt;p&gt;&lt;em&gt;New Pelion Hut - Mt. Ossa - Kia Ora Hut&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7429/14011404547_17b74432e3_z.jpg&#34;  /&gt;
@@ -773,10 +773,10 @@ Mt Ossa로 접어들어 그 골짜기를 타고 올라가는데 바람이 너무
     
     <item>
       <title>Overland Track | Windermere - Pelion Hutt</title>
-      <link>http://sookjin.com/2013/12/overland-day3/</link>
+      <link>http://localhost:1313/2013/12/overland-day3/</link>
       <pubDate>Fri, 27 Dec 2013 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2013/12/overland-day3/</guid>
+      <guid>http://localhost:1313/2013/12/overland-day3/</guid>
       <description>&lt;p&gt;&lt;em&gt;Windermere Hut - Pelion Hut&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7455/14010965107_9c709085d4_z.jpg&#34;  /&gt;
@@ -881,10 +881,10 @@ Mt Ossa로 접어들어 그 골짜기를 타고 올라가는데 바람이 너무
     
     <item>
       <title>Overland Track | Waterfall Velly Hut - Windermere Hut</title>
-      <link>http://sookjin.com/2013/12/overland-day2/</link>
+      <link>http://localhost:1313/2013/12/overland-day2/</link>
       <pubDate>Thu, 26 Dec 2013 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2013/12/overland-day2/</guid>
+      <guid>http://localhost:1313/2013/12/overland-day2/</guid>
       <description>&lt;p&gt;&lt;em&gt;Waterfall Velly Hut - Barn Bluff - Lake Will - Wndermere Hut&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7176/13403053745_c264de570f_z.jpg&#34;  /&gt;
@@ -1011,10 +1011,10 @@ Log book과 Journal. Journal은 방명록 같은 것이고 로그북은 의무 �
     
     <item>
       <title>Overland Track | Cradle Mt. - Waterfall Velly Hut</title>
-      <link>http://sookjin.com/2013/12/overland-day1/</link>
+      <link>http://localhost:1313/2013/12/overland-day1/</link>
       <pubDate>Wed, 25 Dec 2013 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2013/12/overland-day1/</guid>
+      <guid>http://localhost:1313/2013/12/overland-day1/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;오버랜드 트랙 Overland Track Day1&lt;/h3&gt;
@@ -1144,10 +1144,10 @@ Log book과 Journal. Journal은 방명록 같은 것이고 로그북은 의무 �
     
     <item>
       <title>자연 생활 예찬</title>
-      <link>http://sookjin.com/2013/06/outdoor-lifestyle/</link>
+      <link>http://localhost:1313/2013/06/outdoor-lifestyle/</link>
       <pubDate>Sun, 02 Jun 2013 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2013/06/outdoor-lifestyle/</guid>
+      <guid>http://localhost:1313/2013/06/outdoor-lifestyle/</guid>
       <description>&lt;p&gt;난 산을 좋아하지도 않고 걷는 걸 그다지 좋아하지도 않는다. 그저 일상을 벗어나 철저히 다른 환경에서 새로운 경험을 하는 것을 좋아할 뿐. 하지만 부쉬워킹이, 그중에서도 백패킹이 매력적인 이유는 있는 그대로의 자연을 가장 온전하게 느낄 수 있기 때문이다. 먹고 걷기만 하는데도 몸은 깃털처럼 가벼워지고 영혼이 풍성해지는 느낌은 그 어떤 곳에서도 쉽게 느낄 수 없는 채워짐이다.&lt;/p&gt;
 
 &lt;p&gt;걸으면서 흠뻑 땀을 흘리면 시원한 바람이 다시 말려준다.
@@ -1164,10 +1164,10 @@ Log book과 Journal. Journal은 방명록 같은 것이고 로그북은 의무 �
     
     <item>
       <title>Snowy River National Park | 3 Gorge Walk</title>
-      <link>http://sookjin.com/2013/05/snowy-river-national-park-day-3/</link>
+      <link>http://localhost:1313/2013/05/snowy-river-national-park-day-3/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2013/05/snowy-river-national-park-day-3/</guid>
+      <guid>http://localhost:1313/2013/05/snowy-river-national-park-day-3/</guid>
       <description>&lt;p&gt;&lt;em&gt;Gorge Walk&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://farm9.staticflickr.com/8242/8612112423_7b918fd64d_z.jpg&#34; /&gt;
@@ -1279,10 +1279,10 @@ Gorge Walk 7.5km. 짧은 거리의 짜릿했던 탐험. 이번 캠핑에서 가
     
     <item>
       <title>Snowy River National Park | 4 Rodger River Track back to car</title>
-      <link>http://sookjin.com/2013/05/snowy-river-national-park-day-4/</link>
+      <link>http://localhost:1313/2013/05/snowy-river-national-park-day-4/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2013/05/snowy-river-national-park-day-4/</guid>
+      <guid>http://localhost:1313/2013/05/snowy-river-national-park-day-4/</guid>
       <description>&lt;p&gt;&lt;em&gt;Rodger River Track back to car&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://farm9.staticflickr.com/8399/8613190380_093839c371_z.jpg&#34; /&gt;
