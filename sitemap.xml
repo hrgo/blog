@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://sookjin.com/</loc>
-    <lastmod>2015-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2015-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sookjin.com/2015/05/housemate/</loc>
+    <lastmod>2015-05-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -43,18 +48,13 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2015/02/kyungju-08/</loc>
-    <lastmod>2015-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://sookjin.com/2015/02/kyungju-07/</loc>
     <lastmod>2015-02-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/2015/02/kyungju-01/</loc>
-    <lastmod>2015-02-24T00:00:00+00:00</lastmod>
+    <loc>http://sookjin.com/2015/02/kyungju-08/</loc>
+    <lastmod>2015-02-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -63,7 +63,7 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2015/02/kyungju-02/</loc>
+    <loc>http://sookjin.com/2015/02/kyungju-01/</loc>
     <lastmod>2015-02-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -74,6 +74,11 @@
   
   <url>
     <loc>http://sookjin.com/2015/02/kyungju-06/</loc>
+    <lastmod>2015-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sookjin.com/2015/02/kyungju-02/</loc>
     <lastmod>2015-02-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,6 +193,11 @@
   </url>
   
   <url>
+    <loc>http://sookjin.com/2014/04/father-australia-6/</loc>
+    <lastmod>2014-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sookjin.com/2014/04/father-australia-5/</loc>
     <lastmod>2014-04-22T00:00:00+00:00</lastmod>
   </url>
@@ -223,12 +233,12 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2014/03/move-to-australia-2/</loc>
+    <loc>http://sookjin.com/2014/03/move-to-australia-3/</loc>
     <lastmod>2014-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/2014/03/move-to-australia-3/</loc>
+    <loc>http://sookjin.com/2014/03/move-to-australia-2/</loc>
     <lastmod>2014-03-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -408,11 +418,6 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2013/01/nz-south-day1-christchurch-apollo-campervan/</loc>
-    <lastmod>2013-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://sookjin.com/2013/01/nz-south-day1-tekapo/</loc>
     <lastmod>2013-01-15T00:00:00+00:00</lastmod>
   </url>
@@ -423,17 +428,22 @@
   </url>
   
   <url>
+    <loc>http://sookjin.com/2013/01/nz-south-day1-christchurch-apollo-campervan/</loc>
+    <lastmod>2013-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sookjin.com/2013/01/nz-north-day5-good-bye-rotorua/</loc>
     <lastmod>2013-01-14T09:54:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/2013/01/nz-north-day5-leaving-aukland/</loc>
+    <loc>http://sookjin.com/2013/01/nz-north-day5-tauranga/</loc>
     <lastmod>2013-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/2013/01/nz-north-day5-tauranga/</loc>
+    <loc>http://sookjin.com/2013/01/nz-north-day5-leaving-aukland/</loc>
     <lastmod>2013-01-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -760,6 +770,11 @@
   <url>
     <loc>http://sookjin.com/2011/04/thailand-overview/</loc>
     <lastmod>2011-04-21T07:48:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sookjin.com/2011/02/my-housemate/</loc>
+    <lastmod>2011-02-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
