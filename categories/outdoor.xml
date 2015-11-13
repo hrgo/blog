@@ -3,7 +3,7 @@
   <channel>
       <title>Outdoor on sookjin.com </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://sookjin.com/categories/outdoor/index.xml</link>
+    <link>http://localhost:1313/categories/outdoor/index.xml</link>
     <language>en-us</language>
     <author>Sookjin Hyun</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Great Victorian Rail Trail Bike Touring </title>
-      <link>http://sookjin.com/outdoors/great-victorian-rail-trail/</link>
+      <link>http://localhost:1313/outdoors/great-victorian-rail-trail/</link>
       <pubDate>Mon, 20 Jul 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/great-victorian-rail-trail/</guid>
+      <guid>http://localhost:1313/outdoors/great-victorian-rail-trail/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;기간 : 18 Jul 2015 – 19 Jul 2015 (1박2일)&lt;/li&gt;
 &lt;li&gt;구간 : Tallarook - Alexandra (약 70km)&lt;/li&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>South Australia Road Trip 비용</title>
-      <link>http://sookjin.com/outdoors/sa-road-trip-cost/</link>
+      <link>http://localhost:1313/outdoors/sa-road-trip-cost/</link>
       <pubDate>Wed, 10 Jun 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/sa-road-trip-cost/</guid>
+      <guid>http://localhost:1313/outdoors/sa-road-trip-cost/</guid>
       <description>
 
 &lt;ul&gt;
@@ -63,10 +63,10 @@
     
     <item>
       <title>Kinglake 자전거 여행 #1 멘붕의 오르막</title>
-      <link>http://sookjin.com/outdoors/kinglake-bike-touring1/</link>
+      <link>http://localhost:1313/outdoors/kinglake-bike-touring1/</link>
       <pubDate>Sun, 23 Nov 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/kinglake-bike-touring1/</guid>
+      <guid>http://localhost:1313/outdoors/kinglake-bike-touring1/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;나의 첫번째 자전거 여행&lt;/h3&gt;
@@ -171,10 +171,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>Kinglake 자전거 여행 #2 이번 여행에서 배운 것</title>
-      <link>http://sookjin.com/outdoors/kinglake-bike-touring2/</link>
+      <link>http://localhost:1313/outdoors/kinglake-bike-touring2/</link>
       <pubDate>Sun, 23 Nov 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/kinglake-bike-touring2/</guid>
+      <guid>http://localhost:1313/outdoors/kinglake-bike-touring2/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;둘째날&lt;/h3&gt;
@@ -236,10 +236,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>2014 Bupa Around the Bay #3 대회 당일</title>
-      <link>http://sookjin.com/outdoors/around-the-bay-02/</link>
+      <link>http://localhost:1313/outdoors/around-the-bay-02/</link>
       <pubDate>Wed, 22 Oct 2014 17:43:38 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/around-the-bay-02/</guid>
+      <guid>http://localhost:1313/outdoors/around-the-bay-02/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;출전의 날&lt;/h3&gt;
@@ -372,10 +372,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>2014 Bupa Around the Bay #2 준비물</title>
-      <link>http://sookjin.com/outdoors/around-the-bay-03/</link>
+      <link>http://localhost:1313/outdoors/around-the-bay-03/</link>
       <pubDate>Wed, 22 Oct 2014 07:43:38 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/around-the-bay-03/</guid>
+      <guid>http://localhost:1313/outdoors/around-the-bay-03/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;대회 당일 착용 의상&lt;/h3&gt;
@@ -427,10 +427,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>2014 Bupa Around the Bay #1 훈련</title>
-      <link>http://sookjin.com/outdoors/around-the-bay-01/</link>
+      <link>http://localhost:1313/outdoors/around-the-bay-01/</link>
       <pubDate>Tue, 21 Oct 2014 07:43:38 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/around-the-bay-01/</guid>
+      <guid>http://localhost:1313/outdoors/around-the-bay-01/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://farm4.staticflickr.com/3950/15514795667_a452e43f25_z.jpg&#34; alt=&#34;&#34; /&gt;
@@ -472,10 +472,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>백패킹 가서  뭘 먹을까?</title>
-      <link>http://sookjin.com/outdoors/overnight-hiking-meal-plan/</link>
+      <link>http://localhost:1313/outdoors/overnight-hiking-meal-plan/</link>
       <pubDate>Tue, 12 Aug 2014 18:18:59 &#43;1100</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/overnight-hiking-meal-plan/</guid>
+      <guid>http://localhost:1313/outdoors/overnight-hiking-meal-plan/</guid>
       <description>
 
 &lt;p&gt;Overnight Hiking, 백패킹을 처음 할 때 가장 고민했던 것이 바로 &lt;strong&gt;뭘 먹을까&lt;/strong&gt;였다. 처음 4일짜리 백패킹을 갈 때 무개념이었던 나는 점심으로 영양도 좋고 맛도 좋은 떡을 싸갔다. 맛있지만 참으로 무겁고 날이 더우면 금방 쉬어버리는 떡. 첫째날은 최고였지만 마지막날은 쉬기 일보직전의 떡을 먹어야 했다. 좋지 않은 선택이었다. 평소 도시락으로도 애용하는 삼각김밥도 역시 편하고 맛있지만 보관하기 힘들고 번거롭다는 단점이 있다. 장박 산행에 적합하지 않은 음식들이다.&lt;/p&gt;
@@ -556,10 +556,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>Around the Bay in 2 days</title>
-      <link>http://sookjin.com/outdoors/around-the-bay-in-2-days-summary/</link>
+      <link>http://localhost:1313/outdoors/around-the-bay-in-2-days-summary/</link>
       <pubDate>Wed, 16 Jul 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/around-the-bay-in-2-days-summary/</guid>
+      <guid>http://localhost:1313/outdoors/around-the-bay-in-2-days-summary/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;1박2일 자전거 여행&lt;/h3&gt;
@@ -671,10 +671,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>그램피언스 나홀로 라이딩</title>
-      <link>http://sookjin.com/outdoors/grampians-bike-riding-halls-gap-stawell/</link>
+      <link>http://localhost:1313/outdoors/grampians-bike-riding-halls-gap-stawell/</link>
       <pubDate>Mon, 26 May 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/grampians-bike-riding-halls-gap-stawell/</guid>
+      <guid>http://localhost:1313/outdoors/grampians-bike-riding-halls-gap-stawell/</guid>
       <description>
 
 &lt;p&gt;그램피언스는 추억이 많은 곳이다. 같은 장소이지만 매번 다른 여행이었다. P와의 알찼던 로드 트립을 시작으로 C와의 게을렀던 주말 여행. L와의 먹자 여행. S에게 야생 캥거루와 호주의 산을 보여주기 위해 왔었고. 배낭을 메고 낯선 사람들과 백패킹도 왔었다. 그리고 이번엔 혼자다. 일행이 있는 여행도 좋지만 오랜만에 혼자하는 여행도 좋을 것 같아서 이번 여행은 혼자 떠나기로 했다. 장소는 Grampians. 새로운 장소였다면 더 좋았겠지만 가야 할 곳은 이미 정해져 있었다.&lt;/p&gt;
@@ -723,10 +723,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>두여자 게으른 부쉬 캠핑</title>
-      <link>http://sookjin.com/outdoors/lake-eildon/</link>
+      <link>http://localhost:1313/outdoors/lake-eildon/</link>
       <pubDate>Tue, 25 Feb 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/lake-eildon/</guid>
+      <guid>http://localhost:1313/outdoors/lake-eildon/</guid>
       <description>
 
 &lt;p&gt;이 캠핑의 제목을 달자면, 지영과 단둘이 가는 &lt;strong&gt;두잉나띵 Doing Nothing 캠핑&lt;/strong&gt;. 체력이 안따라주는 지영과, 하드코어(?)캠핑을 즐기고 싶은 나의 절충선. 부쉬캠핑을 가되 아무것도 하지 않는 걸로 결정했다.&lt;/p&gt;
@@ -781,10 +781,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>Overland Track #0 Overview</title>
-      <link>http://sookjin.com/outdoors/overland-track-summary/</link>
+      <link>http://localhost:1313/outdoors/overland-track-summary/</link>
       <pubDate>Sun, 05 Jan 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/overland-track-summary/</guid>
+      <guid>http://localhost:1313/outdoors/overland-track-summary/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;기간&lt;/h3&gt;
@@ -821,10 +821,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>Overland Track #8 Narcissus Hut - Lake St Clair</title>
-      <link>http://sookjin.com/outdoors/overland-day8/</link>
+      <link>http://localhost:1313/outdoors/overland-day8/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/overland-day8/</guid>
+      <guid>http://localhost:1313/outdoors/overland-day8/</guid>
       <description>&lt;p&gt;&lt;em&gt;Narcissus Hut - Lake St Clair&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2939/14178248806_db32657af4_c.jpg&#34;  /&gt;
@@ -873,10 +873,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>Overland Track #7 Pine Valley Hut - Narcissus Hut</title>
-      <link>http://sookjin.com/outdoors/overland-day7/</link>
+      <link>http://localhost:1313/outdoors/overland-day7/</link>
       <pubDate>Tue, 31 Dec 2013 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/overland-day7/</guid>
+      <guid>http://localhost:1313/outdoors/overland-day7/</guid>
       <description>&lt;p&gt;&lt;em&gt;Labyrinth (sidetrip) - Pine Velley Hut - Narcissus Hut&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7344/14011717017_a07c8bf079_c.jpg&#34;  /&gt;
@@ -948,10 +948,10 @@ Narcissus Hut. 겉모양은 멀쩡하지만 정말 오래된 Hut이다. 화장
     
     <item>
       <title>Overland Track #6 Bert Nichols Hut - Pine Valley Hut</title>
-      <link>http://sookjin.com/outdoors/overland-day6/</link>
+      <link>http://localhost:1313/outdoors/overland-day6/</link>
       <pubDate>Mon, 30 Dec 2013 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/overland-day6/</guid>
+      <guid>http://localhost:1313/outdoors/overland-day6/</guid>
       <description>&lt;p&gt;&lt;em&gt;Bert Nichols Hut - Pine Valley Hut - Acropolis (side trip)&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7441/14194944781_c7e2bde352_c.jpg&#34;  /&gt;

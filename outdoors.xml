@@ -3,7 +3,7 @@
   <channel>
       <title>Outdoors on sookjin.com </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://sookjin.com/outdoors/index.xml</link>
+    <link>http://localhost:1313/outdoors/index.xml</link>
     <language>en-us</language>
     <author>Sookjin Hyun</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Great Victorian Rail Trail Bike Touring </title>
-      <link>http://sookjin.com/outdoors/great-victorian-rail-trail/</link>
+      <link>http://localhost:1313/outdoors/great-victorian-rail-trail/</link>
       <pubDate>Mon, 20 Jul 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/great-victorian-rail-trail/</guid>
+      <guid>http://localhost:1313/outdoors/great-victorian-rail-trail/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;기간 : 18 Jul 2015 – 19 Jul 2015 (1박2일)&lt;/li&gt;
 &lt;li&gt;구간 : Tallarook - Alexandra (약 70km)&lt;/li&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>침낭을 정리하는 가장 좋은 방법</title>
-      <link>http://sookjin.com/outdoors/how-to-pack-sleeping-bag/</link>
+      <link>http://localhost:1313/outdoors/how-to-pack-sleeping-bag/</link>
       <pubDate>Mon, 06 Jul 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/how-to-pack-sleeping-bag/</guid>
+      <guid>http://localhost:1313/outdoors/how-to-pack-sleeping-bag/</guid>
       <description>&lt;p&gt;텐트에서 아침에 일어나자마자 하는 일은 침낭을 정리하는 것. 작은 공간에서 여러가지 짐들과 뒤섞인 침낭을 정리하는일은 초보자에겐 그리 쉬운 일이 아니다. 물론 솜 침낭이나 여름용 침낭은 쉽게 부풀어 오르지 않기 때문에 접어서 돌돌 마는 것이 어렵지 않다. 이불처럼 착착 갠 후 돌돌 말면 침낭 주머니에도 쉽게 쏙 들어간다.&lt;/p&gt;
 
 &lt;p&gt;하지만 겨울철 구스다운 침낭은 이렇게 말아서 보관하는 것이 여간 힘든 일이 아니다. 잘 접히지도 않고 금방 부풀어 오르기 때문에 돌돌 마는 건 더 힘들기 때문이다. 말아서 주머니에 넣으려고 하면 보통 그 부피가 주머니보다 훨씬 커져서 왠만해선 주머니에 쉽게 들어가지 않는다. 침낭을 어떻게 정리해서 깔끔하게 주머니에 넣을까?&lt;/p&gt;
@@ -53,10 +53,10 @@
     
     <item>
       <title>Torquay 자전거 여행 #4 - 장비</title>
-      <link>http://sookjin.com/outdoors/torquay-4/</link>
+      <link>http://localhost:1313/outdoors/torquay-4/</link>
       <pubDate>Tue, 23 Jun 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/torquay-4/</guid>
+      <guid>http://localhost:1313/outdoors/torquay-4/</guid>
       <description>
 
 &lt;p&gt;자전거 여행은 백패킹에 비해 준비할게 훨씬 적다. 백패킹은 산에 한 번 들어가면 산행이 끝날 때까지 가지고 있는 장비와 식량만으로 버텨야 하지만 자전거 여행은 도로를 달리고 타운을 지나기 때문에 음식도 사먹을 수 있고 여의치 않다면 중간에 그만 두기도 쉽다.&lt;/p&gt;
@@ -117,10 +117,10 @@
     
     <item>
       <title>Torquay 자전거 여행 #3 - From Torquay</title>
-      <link>http://sookjin.com/outdoors/torquay-3/</link>
+      <link>http://localhost:1313/outdoors/torquay-3/</link>
       <pubDate>Mon, 22 Jun 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/torquay-3/</guid>
+      <guid>http://localhost:1313/outdoors/torquay-3/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;멜번으로&lt;/h3&gt;
@@ -223,10 +223,10 @@
     
     <item>
       <title>Torquay 자전거 여행 #1 - Federation Trail</title>
-      <link>http://sookjin.com/outdoors/torquay-1/</link>
+      <link>http://localhost:1313/outdoors/torquay-1/</link>
       <pubDate>Sun, 21 Jun 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/torquay-1/</guid>
+      <guid>http://localhost:1313/outdoors/torquay-1/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Federation Trail 떼라이딩&lt;/h3&gt;
@@ -282,10 +282,10 @@
     
     <item>
       <title>Torquay 자전거 여행 #2 - To Torquay</title>
-      <link>http://sookjin.com/outdoors/torquay-2/</link>
+      <link>http://localhost:1313/outdoors/torquay-2/</link>
       <pubDate>Sun, 21 Jun 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/torquay-2/</guid>
+      <guid>http://localhost:1313/outdoors/torquay-2/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;투어링의 시작&lt;/h3&gt;
@@ -394,10 +394,10 @@
     
     <item>
       <title>Torquay 자전거 여행 Overview</title>
-      <link>http://sookjin.com/outdoors/torquay-0/</link>
+      <link>http://localhost:1313/outdoors/torquay-0/</link>
       <pubDate>Sun, 21 Jun 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/torquay-0/</guid>
+      <guid>http://localhost:1313/outdoors/torquay-0/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;기간 : 20 Jun 2015 – 21 Jun 2015 (1박2일)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../torquay-1&#34;&gt;Torquay 자전거 여행 #1 Federation Trail&lt;/a&gt;&lt;/li&gt;
@@ -413,10 +413,10 @@
     
     <item>
       <title>South Australia Road Trip 비용</title>
-      <link>http://sookjin.com/outdoors/sa-road-trip-cost/</link>
+      <link>http://localhost:1313/outdoors/sa-road-trip-cost/</link>
       <pubDate>Wed, 10 Jun 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/sa-road-trip-cost/</guid>
+      <guid>http://localhost:1313/outdoors/sa-road-trip-cost/</guid>
       <description>
 
 &lt;ul&gt;
@@ -443,10 +443,10 @@
     
     <item>
       <title>Kinglake 자전거 여행 #1 멘붕의 오르막</title>
-      <link>http://sookjin.com/outdoors/kinglake-bike-touring1/</link>
+      <link>http://localhost:1313/outdoors/kinglake-bike-touring1/</link>
       <pubDate>Sun, 23 Nov 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/kinglake-bike-touring1/</guid>
+      <guid>http://localhost:1313/outdoors/kinglake-bike-touring1/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;나의 첫번째 자전거 여행&lt;/h3&gt;
@@ -551,10 +551,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>Kinglake 자전거 여행 #2 이번 여행에서 배운 것</title>
-      <link>http://sookjin.com/outdoors/kinglake-bike-touring2/</link>
+      <link>http://localhost:1313/outdoors/kinglake-bike-touring2/</link>
       <pubDate>Sun, 23 Nov 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/kinglake-bike-touring2/</guid>
+      <guid>http://localhost:1313/outdoors/kinglake-bike-touring2/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;둘째날&lt;/h3&gt;
@@ -616,10 +616,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>2014 Bupa Around the Bay #3 대회 당일</title>
-      <link>http://sookjin.com/outdoors/around-the-bay-02/</link>
+      <link>http://localhost:1313/outdoors/around-the-bay-02/</link>
       <pubDate>Wed, 22 Oct 2014 17:43:38 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/around-the-bay-02/</guid>
+      <guid>http://localhost:1313/outdoors/around-the-bay-02/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;출전의 날&lt;/h3&gt;
@@ -752,10 +752,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>2014 Bupa Around the Bay #2 준비물</title>
-      <link>http://sookjin.com/outdoors/around-the-bay-03/</link>
+      <link>http://localhost:1313/outdoors/around-the-bay-03/</link>
       <pubDate>Wed, 22 Oct 2014 07:43:38 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/around-the-bay-03/</guid>
+      <guid>http://localhost:1313/outdoors/around-the-bay-03/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;대회 당일 착용 의상&lt;/h3&gt;
@@ -807,10 +807,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>2014 Bupa Around the Bay #1 훈련</title>
-      <link>http://sookjin.com/outdoors/around-the-bay-01/</link>
+      <link>http://localhost:1313/outdoors/around-the-bay-01/</link>
       <pubDate>Tue, 21 Oct 2014 07:43:38 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/around-the-bay-01/</guid>
+      <guid>http://localhost:1313/outdoors/around-the-bay-01/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://farm4.staticflickr.com/3950/15514795667_a452e43f25_z.jpg&#34; alt=&#34;&#34; /&gt;
@@ -852,10 +852,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>백패킹 가서  뭘 먹을까?</title>
-      <link>http://sookjin.com/outdoors/overnight-hiking-meal-plan/</link>
+      <link>http://localhost:1313/outdoors/overnight-hiking-meal-plan/</link>
       <pubDate>Tue, 12 Aug 2014 18:18:59 &#43;1100</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/overnight-hiking-meal-plan/</guid>
+      <guid>http://localhost:1313/outdoors/overnight-hiking-meal-plan/</guid>
       <description>
 
 &lt;p&gt;Overnight Hiking, 백패킹을 처음 할 때 가장 고민했던 것이 바로 &lt;strong&gt;뭘 먹을까&lt;/strong&gt;였다. 처음 4일짜리 백패킹을 갈 때 무개념이었던 나는 점심으로 영양도 좋고 맛도 좋은 떡을 싸갔다. 맛있지만 참으로 무겁고 날이 더우면 금방 쉬어버리는 떡. 첫째날은 최고였지만 마지막날은 쉬기 일보직전의 떡을 먹어야 했다. 좋지 않은 선택이었다. 평소 도시락으로도 애용하는 삼각김밥도 역시 편하고 맛있지만 보관하기 힘들고 번거롭다는 단점이 있다. 장박 산행에 적합하지 않은 음식들이다.&lt;/p&gt;
@@ -936,10 +936,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>지도계의 이단아 Open Street Map</title>
-      <link>http://sookjin.com/outdoors/google-map-cant-beat-osm/</link>
+      <link>http://localhost:1313/outdoors/google-map-cant-beat-osm/</link>
       <pubDate>Sat, 26 Jul 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoors/google-map-cant-beat-osm/</guid>
+      <guid>http://localhost:1313/outdoors/google-map-cant-beat-osm/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Google Map can&amp;rsquo;t beat OSM!&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;구글맵이 최고인줄 알고 살았는데 최근에 자전거 코스를 연구(?)하면서 OSM이 훨씬 뛰어나다는 것을 알게 되었다. &lt;a href=&#34;http://www.openstreetmap.org/&#34;&gt;OSM&lt;/a&gt;은 Wiki 스타일로 전세계 사용자의 자발적인 참여로 만들어진 지도인데 다른건 모르겠지만 지도가 훨씬 디테일하고 자전거 도로나 하이킹 코스 등은 단연 압권이다. 말 대신 스크린샷으로 비교.&lt;/p&gt;
