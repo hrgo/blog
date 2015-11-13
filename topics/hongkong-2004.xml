@@ -3,7 +3,7 @@
   <channel>
       <title>Hongkong 2004 on sookjin.com </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://sookjin.com/topics/hongkong-2004/index.xml</link>
+    <link>http://localhost:1313/topics/hongkong-2004/index.xml</link>
     <language>en-us</language>
     <author>Sookjin Hyun</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Hongkong Overview</title>
-      <link>http://sookjin.com/outdoor/hongkong-overview/</link>
+      <link>http://localhost:1313/outdoors/hongkong-overview/</link>
       <pubDate>Fri, 17 Dec 2004 05:01:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/hongkong-overview/</guid>
+      <guid>http://localhost:1313/outdoors/hongkong-overview/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Overview&lt;/h3&gt;
@@ -53,10 +53,10 @@ CX 비지트홍콩이 정말 나에겐 딱이었는데 안타깝게도 예약할
     
     <item>
       <title>Hongkong Day1</title>
-      <link>http://sookjin.com/outdoor/hongkong-day1/</link>
+      <link>http://localhost:1313/outdoors/hongkong-day1/</link>
       <pubDate>Fri, 17 Dec 2004 04:03:55 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/hongkong-day1/</guid>
+      <guid>http://localhost:1313/outdoors/hongkong-day1/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;/img/hongkong/images/pict0397.jpg&#34; /&gt;
 &lt;font color=&#34;#8e8e8e&#34;&gt;[AM08:17 @ 달리는 아토스 안]&lt;/font&gt;&lt;/p&gt;
 
@@ -310,10 +310,10 @@ Ladies Market 이 Tung Choi Street 아래쪽에 있기때문에 Tung Choi Street
     
     <item>
       <title>Hongkong Day2</title>
-      <link>http://sookjin.com/outdoor/hongkong-day2/</link>
+      <link>http://localhost:1313/outdoors/hongkong-day2/</link>
       <pubDate>Fri, 17 Dec 2004 03:08:29 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/hongkong-day2/</guid>
+      <guid>http://localhost:1313/outdoors/hongkong-day2/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;/img/hongkong/images/pict0663.jpg&#34; /&gt;
 &lt;font color=&#34;#8e8e8e&#34;&gt;[AM08:13 @ 숙소 입구]&lt;/font&gt;
 7시 반께 일어나서 씻고 일찌감치 나왔다.
@@ -675,10 +675,10 @@ Watson&amp;rsquo;s water. 늘씬하게 생겼다.&lt;/p&gt;
     
     <item>
       <title>Hongkong Day3</title>
-      <link>http://sookjin.com/outdoor/hongkong-day3/</link>
+      <link>http://localhost:1313/outdoors/hongkong-day3/</link>
       <pubDate>Thu, 16 Dec 2004 17:11:29 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/hongkong-day3/</guid>
+      <guid>http://localhost:1313/outdoors/hongkong-day3/</guid>
       <description>&lt;p&gt;오전에 밖에 시간이 없기도 하고 (비행기 시간 15:30) 둘째날 너무 많은 것을 소화했기 때문에
 셋째날은 숙소 주변 가까운곳을 산책하고 늦지 않게 공항에 가는것이 계획이었다.
 우짜까. 9시가 넘어서야 일어났다. 정말 기절한듯이 잤다. 여행가서 아침에 이렇게 힘들어 보긴 첨이네.

@@ -3,18 +3,48 @@
   <channel>
       <title>Camping on sookjin.com </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://sookjin.com/tags/camping/index.xml</link>
+    <link>http://localhost:1313/tags/camping/index.xml</link>
     <language>en-us</language>
     <author>Sookjin Hyun</author>
     
-    <updated>Tue, 25 Feb 2014 00:00:00 UTC</updated>
+    <updated>Wed, 10 Jun 2015 00:00:00 UTC</updated>
+    
+    <item>
+      <title>South Australia Road Trip 비용</title>
+      <link>http://localhost:1313/outdoors/sa-road-trip-cost/</link>
+      <pubDate>Wed, 10 Jun 2015 00:00:00 UTC</pubDate>
+      <author>Sookjin Hyun</author>
+      <guid>http://localhost:1313/outdoors/sa-road-trip-cost/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;기간 : 4 Jun 2015 ~ 8 Jun 2015 (4박5일)&lt;/li&gt;
+&lt;li&gt;경로 : Melbourne - Hahndorf - Kangarro Island - Great Ocean Road - Melbourne (약 2200km)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_0&#34;&gt;비용&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/yrXEPwwi3A713Cu0Bi0m63_kcvTZ5OsnFDHo0O4llXl_=w761-h342-no&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Transportation $374.00&lt;/li&gt;
+&lt;li&gt;Petrol $257.12&lt;/li&gt;
+&lt;li&gt;Food $235.61&lt;/li&gt;
+&lt;li&gt;Drinks $92.55&lt;/li&gt;
+&lt;li&gt;Accomodation $115.00&lt;/li&gt;
+&lt;li&gt;Sightseeing $84.00
+&amp;ndash; &lt;strong&gt;Total $1158.28&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>두여자 게으른 부쉬 캠핑</title>
-      <link>http://sookjin.com/outdoor/lake-eildon/</link>
+      <link>http://localhost:1313/outdoors/lake-eildon/</link>
       <pubDate>Tue, 25 Feb 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/lake-eildon/</guid>
+      <guid>http://localhost:1313/outdoors/lake-eildon/</guid>
       <description>
 
 &lt;p&gt;이 캠핑의 제목을 달자면, 지영과 단둘이 가는 &lt;strong&gt;두잉나띵 Doing Nothing 캠핑&lt;/strong&gt;. 체력이 안따라주는 지영과, 하드코어(?)캠핑을 즐기고 싶은 나의 절충선. 부쉬캠핑을 가되 아무것도 하지 않는 걸로 결정했다.&lt;/p&gt;
@@ -69,10 +99,10 @@
     
     <item>
       <title>Tasmania Road Trip #4 Launceston</title>
-      <link>http://sookjin.com/outdoor/tasmania-road-trip-day3/</link>
+      <link>http://localhost:1313/outdoors/tasmania-road-trip-day3/</link>
       <pubDate>Mon, 27 Jan 2014 08:54:28 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/tasmania-road-trip-day3/</guid>
+      <guid>http://localhost:1313/outdoors/tasmania-road-trip-day3/</guid>
       <description>&lt;p&gt;&lt;img src = http://farm4.staticflickr.com/3781/13347773885_c532b31fba_z.jpg&gt;
 마지막 날 아침. 어딜 가는 길인고 하니. 어제 잤던 그 캠핑장으로 돌아가는 길.&lt;/p&gt;
 
@@ -120,10 +150,10 @@
     
     <item>
       <title>Tasmania Road Trip #2  Wineglass Bay</title>
-      <link>http://sookjin.com/outdoor/tasmania-road-trip-day2-1/</link>
+      <link>http://localhost:1313/outdoors/tasmania-road-trip-day2-1/</link>
       <pubDate>Sun, 26 Jan 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/tasmania-road-trip-day2-1/</guid>
+      <guid>http://localhost:1313/outdoors/tasmania-road-trip-day2-1/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://farm8.staticflickr.com/7031/13287451535_23b78748d2_z.jpg&#34; /&gt;
 아침에 일출을 보겠다고 일어나서 화장실을 가는데 하늘이 벌건 것이 수상하다 했는데 화장실에서 나와서 바다로 가보니 이미 해가 이만큼 떠올랐다. GPS에서 알려준 일출 시간은 현재 위치가 잘못 되어 있었던 것. 어쨋든 아쉽지만 이대로 만족하고. 대충 눈꼽을 떼고 보게 된 일출에 감사하며 하루를 시작.&lt;/p&gt;
 
@@ -194,10 +224,10 @@ Coles Bay가 한눈에 내려다 보인다&lt;/p&gt;
     
     <item>
       <title>Tasmania Road Trip #3 The Gardens</title>
-      <link>http://sookjin.com/outdoor/tasmania-road-trip-day2-2/</link>
+      <link>http://localhost:1313/outdoors/tasmania-road-trip-day2-2/</link>
       <pubDate>Sun, 26 Jan 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/tasmania-road-trip-day2-2/</guid>
+      <guid>http://localhost:1313/outdoors/tasmania-road-trip-day2-2/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://farm8.staticflickr.com/7169/13287525693_40d5190ab3_z.jpg&#34; /&gt;
 점심을 먹기 위해 세개의 산이 보이는 뒷편 으로 왔다.&lt;/p&gt;
 
@@ -265,10 +295,10 @@ Bay of Fire를 배경으로.&lt;/p&gt;
     
     <item>
       <title>Tasmania Road Trip #1 Hobart - Coles Bay</title>
-      <link>http://sookjin.com/outdoor/tasmania-road-trip-day1/</link>
+      <link>http://localhost:1313/outdoors/tasmania-road-trip-day1/</link>
       <pubDate>Sat, 25 Jan 2014 04:11:19 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/tasmania-road-trip-day1/</guid>
+      <guid>http://localhost:1313/outdoors/tasmania-road-trip-day1/</guid>
       <description>&lt;p&gt;지영과 떠나는 두번째 타즈마니아. 이번엔 로드트립이다. 이번엔 호바트 in 론체스톤 out. 타즈마니아의 동쪽 해안을 따라 여행하기로 했다. 평소와는 달리 왕복 항공권과 렌트카 한대가 계획의 전부.  발길 닿는곳으로 가다가 보고싶은 것을 보고, 먹고 싶은 것을 먹고, 아무데서나 텐트를 치고 자기로.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7113/13286767094_0d567bed27_z.jpg&#34; alt=&#34;&#34; /&gt;
@@ -354,10 +384,10 @@ Richmond를 떠나 Sorell로 이동 중 경미한 사고가 있었다. 우리�
     
     <item>
       <title>호주식 캠핑 @ Flatrock 3 - 굿모닝 Good Morning</title>
-      <link>http://sookjin.com/outdoor/flatrock-3-good-morning/</link>
+      <link>http://localhost:1313/outdoors/flatrock-3-good-morning/</link>
       <pubDate>Mon, 13 Jan 2014 11:55:01 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/flatrock-3-good-morning/</guid>
+      <guid>http://localhost:1313/outdoors/flatrock-3-good-morning/</guid>
       <description>&lt;p&gt;내가 숙취에 늦잠을 자는 사이 부지런한 Debbie는 6시에 일어나 hangover로 괴로워하면서도 결국 화장실 청소를 해냈다고 한다. 대단한 부녀.&lt;/p&gt;
 
 &lt;p&gt;&lt;img  src=&#34;http://farm8.staticflickr.com/7390/13377738535_4a4324e3a7_z.jpg&#34; /&gt;
@@ -394,10 +424,10 @@ Debbie가 점심 준비하는 동안 나는 망중한.&lt;/p&gt;
     
     <item>
       <title>호주식 캠핑 @ Flatrock 2 – Beer O&#39;clock</title>
-      <link>http://sookjin.com/outdoor/flatrock-2-beer-oclock/</link>
+      <link>http://localhost:1313/outdoors/flatrock-2-beer-oclock/</link>
       <pubDate>Sun, 12 Jan 2014 11:38:33 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/flatrock-2-beer-oclock/</guid>
+      <guid>http://localhost:1313/outdoors/flatrock-2-beer-oclock/</guid>
       <description>&lt;p&gt;호주식 캠핑 @ Flatrock 2 – Beer o&amp;rsquo;clock&lt;/p&gt;
 
 &lt;p&gt;&lt;img  src=&#34;http://farm3.staticflickr.com/2889/13377953683_219346481f_z.jpg&#34; /&gt;
@@ -455,10 +485,10 @@ Debbie가 점심 준비하는 동안 나는 망중한.&lt;/p&gt;
     
     <item>
       <title>호주식 캠핑 @ Flatrock 1 - 주변 둘러보기</title>
-      <link>http://sookjin.com/outdoor/flatrock-1-chillout/</link>
+      <link>http://localhost:1313/outdoors/flatrock-1-chillout/</link>
       <pubDate>Sat, 11 Jan 2014 04:07:40 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/flatrock-1-chillout/</guid>
+      <guid>http://localhost:1313/outdoors/flatrock-1-chillout/</guid>
       <description>&lt;p&gt;작년에 Wonthaggi에 갔을 때 방문했던 그들만의 비밀스러운 캠핑장소. 올해는 Debbie에게 초대를 받았다. 주말에 방문해서 이들 가족 전통의 캠핑을 즐겨보기로.&lt;/p&gt;
 
 &lt;p&gt;금요일 저녁 퇴근하고 바로 출발. 원따기에 도착한 우리는 주인없는 집 파골라에 앉아 모기에 뜯겨가며 샴페인을 양껏 마시며 고향집에 온 기분을 한껏 냈다. 이런 저런 술병을 꺼내어 맛을 보다가 잠이들었다가 토요일 아침 숙취와 함께 잠에서 깨었다. 마침 장을 보러 잠시 집에 들른 Debbie 아부지 K와 인사를 하고 함께 아침 식사. 데비는 짐에 가고 난 D와 마주 앉아 이런저런 이야기를 하며 시골집에서의 오전시간을 보낸다.&lt;/p&gt;
@@ -503,10 +533,10 @@ Debbie와 K. 이제 걷던 길을 다시 걸어온다. 1부 마무리. 이제 �
     
     <item>
       <title>First-aid Training</title>
-      <link>http://sookjin.com/outdoor/first-aid-training/</link>
+      <link>http://localhost:1313/outdoors/first-aid-training/</link>
       <pubDate>Mon, 05 Aug 2013 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/first-aid-training/</guid>
+      <guid>http://localhost:1313/outdoors/first-aid-training/</guid>
       <description>&lt;p&gt;겨울 주말에 그냥 집에서 보내는 시간이 많아지고 그 시간을 유용하게 보낼수 있는 방법으로 Someday/Maybe 를 Action으로 실현하기로 했다. 그 첫번째로 First Aid Training. 오래전부터 Someday/Maybe 에 있던 응급처지. 이건 하고 싶었다기 보다는 받아두면 언젠간 유용하게 쓰일 때가 있을 것 같아서 버킷리스트에 넣어뒀었는데 이제야 꺼내게 되었다.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7425/9440281889_732537686f_z.jpg&#34; alt=&#34;&#34; /&gt;
@@ -523,66 +553,66 @@ Debbie와 K. 이제 걷던 길을 다시 걸어온다. 1부 마무리. 이제 �
     
     <item>
       <title>세여자 접시깬 캠핑 @ Upper Yarra Reservoir</title>
-      <link>http://sookjin.com/outdoor/upper-yarra-reservoir/</link>
+      <link>http://localhost:1313/outdoors/upper-yarra-reservoir/</link>
       <pubDate>Wed, 24 Apr 2013 10:34:03 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/upper-yarra-reservoir/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://farm9.staticflickr.com/8522/8668674240_0831f7715e_z.jpg&#34; /&gt;
+      <guid>http://localhost:1313/outdoors/upper-yarra-reservoir/</guid>
+      <description>&lt;p&gt;&lt;img  src=&#34;http://farm9.staticflickr.com/8522/8668674240_0831f7715e_c.jpg&#34; /&gt;
 캠핑을 간다. 세여자. 절대 캠핑 따윈 가지 않을 것 같던 재은언니와 요즘 사교계 활동으로 바쁘신 현정 언니. 어쩐일로 언니들이 먼저 캠핑을 가자고 하셨다. 두언니님들을 모시고 어디를 갈까 고민 끝에 멜번에서 그리 멀지 않으며 각종 편의시설이 구비되어있고  캠프파이어가 가능한 Upper Yarra Reservior로 골랐다. 토요일 아침 재은언니네 집에서 모여서 장을 보고 커피를 마시고 매우 여유롭게 캠핑장으로 간다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://farm9.staticflickr.com/8525/8667571099_a37d2467e5_z.jpg&#34; /&gt;
+&lt;p&gt;&lt;img  src=&#34;http://farm9.staticflickr.com/8525/8667571099_a37d2467e5_c.jpg&#34; /&gt;
 우리의 베이스 캠프. 캠핑장은 정해진 구획이 없는 그냥 넓은 잔디밭. 아무데나 맘에 드는데 자리를 잡으면 된다.  단풍나무가 빛나는 이 자리는 파이어핏이 가까이에 있는 평평하기까지. 우리를 딱 기다리고 있네. 재은언니가 6인용 텐트를 빌려왔다. 각잡는데 힘들었지만 약 한시간에 걸려 진땀을 흘리며 텐트를 완성했다. 늘 일인용 텐트에서 자던 나에게 6인용 텐트는 운동장이다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://farm9.staticflickr.com/8543/8668673670_f6f628f6b5_z.jpg&#34; /&gt;
+&lt;p&gt;&lt;img  src=&#34;http://farm9.staticflickr.com/8543/8668673670_f6f628f6b5_c.jpg&#34; /&gt;
 텐트를 친다고 설치고 나니 허기가 밀려온다. 통나무 근처에 라운지를 만들고 우리는 컵라면에 물을 붓는다. 컵라면을 앞에 놓고 좋아하고 계시는 두 언니님들. 캠핑에 급 관심을 보이시는 재은언니에게 나는 내 빨간 가방을 열어놓고 캠핑 장비로 시작해 지오캐싱까지 침을 튀며 브리핑.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://farm9.staticflickr.com/8527/8667570281_ae32a7249f_z.jpg&#34; /&gt;
+&lt;p&gt;&lt;img  src=&#34;http://farm9.staticflickr.com/8527/8667570281_ae32a7249f_c.jpg&#34; /&gt;
 점심을 먹고 배가 부르니 남은 일은 산책이다. 워킹 트랙 주변으로 두어개의 캐쉬도 있어서 야심차게 걷자고 나섰는데 결국 한시간도 안되서 돌아왔다. 캐슁도 공치고 걷는것도 그냥 그렇고 다시 캠핑장으로 돌아와서 근처에 뗄감이 있는지 둘러봤는데 마땅치않다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://farm9.staticflickr.com/8545/8667570123_e6d2152cb8_z.jpg&#34; /&gt;
+&lt;p&gt;&lt;img  src=&#34;http://farm9.staticflickr.com/8545/8667570123_e6d2152cb8_c.jpg&#34; /&gt;
 뗄감 찾아 삼만리. 결국 차를 타고 나섰다. 위쪽으로 올라가다보니 막다른 길엔 Upper Yarra Reservoir를 내려다 볼 수 있는 소박한 룩아웃이 있고 우리는 그 주변에서 아쉬운대로 잔가지를 열심히 주워모은다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://farm9.staticflickr.com/8524/8668673004_bc830c0d12_z.jpg&#34; /&gt;
+&lt;p&gt;&lt;img  src=&#34;http://farm9.staticflickr.com/8524/8668673004_bc830c0d12_c.jpg&#34; /&gt;
 주변에 널린게 나무인데 정작 뗄감으로 쓸만한게 없어서 이렇게 잔가지만 잔뜩 모았다. 그래도 티끌모아 태산. 트렁크를 나뭇가지로 꽉 채우고 뒷자석에 몇개 싣고 나서야 철수.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://farm9.staticflickr.com/8544/8667569345_e638a1aa79_z.jpg&#34; /&gt;
+&lt;p&gt;&lt;img  src=&#34;http://farm9.staticflickr.com/8544/8667569345_e638a1aa79_c.jpg&#34; /&gt;
 멀리서 보면 더 아름다운 우리의 텐트. 단풍과 어우러진 한적한 풍경.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://farm9.staticflickr.com/8528/8668672124_a531bb1a50_z.jpg&#34; /&gt;
+&lt;p&gt;&lt;img  src=&#34;http://farm9.staticflickr.com/8528/8668672124_a531bb1a50_c.jpg&#34; /&gt;
 은은한 단풍잎 빛깔이 예술이셔라. 해가 서산으로 넘어가기 시작하고 우리도 슬슬 저녁을 준비한다. 파이어핏 옆으로 라운지를 옮기고 와인을 홀짝거리다 보니 불현듯 오늘의 알코홀이 부족할것 같은 불길한 느낌. 두 언니가 모자란 알코홀을 공수하러 차를 몰고 나간 사이 나는 차콜에 불을 붙이고 떼온 나무를 파이어핏에 올려 점화 준비. 불타는 오늘밤을 준비한다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://farm9.staticflickr.com/8523/8667568641_aa69d6a3fc_z.jpg&#34; /&gt;
+&lt;p&gt;&lt;img  src=&#34;http://farm9.staticflickr.com/8523/8667568641_aa69d6a3fc_c.jpg&#34; /&gt;
 워버턴까지 갈 줄 알았던 언니들이 생각보다 일찍 돌아왔다. 와인 한병과 함께. 바로 저녁 시작. 저녁 메뉴는 옆텐트 아자씨가 남는다고 주신 생성 한조각과 한국 마트에서 사온 삼겹살.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://farm9.staticflickr.com/8521/8667568685_26de06964d_z.jpg&#34; /&gt;
+&lt;p&gt;&lt;img  src=&#34;http://farm9.staticflickr.com/8521/8667568685_26de06964d_c.jpg&#34; /&gt;
 오손도손 불가에 모여 앉아 고기를 궈먹는다. 바베큐 그릴에 삼겹살은 처음인데 역시나 밖에서 먹는 고기는 더 맛있다. 1kg의 삼겹살을 먹고 나니 딱 적당히 배가 부르다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://farm9.staticflickr.com/8525/8668671254_5fec6c6afa_z.jpg&#34; /&gt;
+&lt;p&gt;&lt;img  src=&#34;http://farm9.staticflickr.com/8525/8668671254_5fec6c6afa_c.jpg&#34; /&gt;
 이제 해도 다 떨어지고 어두워지기 시작. 캠프 파이어에 불을 붙였다. 불을 간신히 붙인 후 뗄감을 찾으러 홀에 다녀오니 훨훨 타오르고 있는 우리의 캠프 파이어. 주변을 돌며 흥에 겨우신 재은언니. 캠핑에 빠지셨군요 훗. 역시나 캠핑의 꽃은 캠프파이어다. 캠핑에 빠진 재은언니, 한달에 한 번 오자신다. ㅋㅋㅋ&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://farm9.staticflickr.com/8534/8668671498_bb38ea810b_z.jpg&#34; /&gt;
+&lt;p&gt;&lt;img  src=&#34;http://farm9.staticflickr.com/8534/8668671498_bb38ea810b_c.jpg&#34; /&gt;
 옥수수와 고구마를 잊어버렸는데 현정 언니가 가져온 밤이 그자리를 대신하고도 남았다. 칼집을 뽕 내고 호일에 잘 싸서 불가에 넣어두면 끝. 밤 궈서 까먹는 재미로 모닥불 놀이가 절정에 이른다. 모닥불 곁에서 와인과 소주와 맥주를 골고루 홀짝 거리며 하하호호깔깔 캠핑장이 떠나가라 웃어대며 즐거운 시간을 보낸다. 일찍 시작한 덕에 일찍 끝났다. 9시도 안되서 텐트로 든다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://farm9.staticflickr.com/8546/8667567935_4232d4a360_z.jpg&#34; /&gt;
+&lt;p&gt;&lt;img  src=&#34;http://farm9.staticflickr.com/8546/8667567935_4232d4a360_c.jpg&#34; /&gt;
 이튿날 아침. 간만에 캠핑와서 늦잠을 자기고 맘을 먹고 10시가 다되도록 잤다. 넓은 텐트에서 편하게 자고 쾌적한 아침을 맞았다. 아침도 라면. 세여자 캠핑와서 세끼 중 두끼가 라면 ㅋ.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;http://farm9.staticflickr.com/8542/8667567781_a1345c31df_z.jpg&#34; /&gt;
+&lt;p&gt;&lt;img  src=&#34;http://farm9.staticflickr.com/8542/8667567781_a1345c31df_c.jpg&#34; /&gt;
 아침을 먹고 철수하기 전 잠시 자유시간. 은은한 단풍. 파란 하늘. 그 아래 앉아 잠시 가을에 퐁당 빠져본다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src = http://farm8.staticflickr.com/7317/8734334486_e76ceae193_z.jpg&gt;
+&lt;p&gt;&lt;img src = http://farm8.staticflickr.com/7317/8734334486_e76ceae193_c.jpg&gt;
 앉아서 그린 그림.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src = http://farm8.staticflickr.com/7304/8733554119_33fc6912ed_z.jpg&gt;
+&lt;p&gt;&lt;img src = http://farm8.staticflickr.com/7304/8733554119_33fc6912ed_c.jpg&gt;
 텐트 접고 떠나기 전 단풍 아래서 기념 촬영하고 멜번으로.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Camping @ Aire River</title>
-      <link>http://sookjin.com/outdoor/camping-aire-river/</link>
+      <link>http://localhost:1313/outdoors/camping-aire-river/</link>
       <pubDate>Sun, 30 Dec 2012 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/camping-aire-river/</guid>
+      <guid>http://localhost:1313/outdoors/camping-aire-river/</guid>
       <description>
 
 &lt;ul&gt;

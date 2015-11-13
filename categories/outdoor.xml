@@ -3,18 +3,70 @@
   <channel>
       <title>Outdoor on sookjin.com </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://sookjin.com/categories/outdoor/index.xml</link>
+    <link>http://localhost:1313/categories/outdoor/index.xml</link>
     <language>en-us</language>
     <author>Sookjin Hyun</author>
     
-    <updated>Sun, 23 Nov 2014 00:00:00 UTC</updated>
+    <updated>Mon, 20 Jul 2015 00:00:00 UTC</updated>
     
     <item>
-      <title>Kinglake 자전거 여행 | #1 멘붕의 오르막</title>
-      <link>http://sookjin.com/outdoor/kinglake-bike-touring1/</link>
+      <title>Great Victorian Rail Trail Bike Touring </title>
+      <link>http://localhost:1313/outdoors/great-victorian-rail-trail/</link>
+      <pubDate>Mon, 20 Jul 2015 00:00:00 UTC</pubDate>
+      <author>Sookjin Hyun</author>
+      <guid>http://localhost:1313/outdoors/great-victorian-rail-trail/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;기간 : 18 Jul 2015 – 19 Jul 2015 (1박2일)&lt;/li&gt;
+&lt;li&gt;구간 : Tallarook - Alexandra (약 70km)&lt;/li&gt;
+&lt;li&gt;Alexandra Tourist Park &lt;a href=&#34;http://www.alexandratouristpark.com/&#34;&gt;http://www.alexandratouristpark.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;추운 날이었다. 가동안 내내 비가 오고 날씨가 험악해 자전거 출근을 멈춘지도 2주가 다되어 갔다.
+간만에 찾아온 햇님이었다. 개인적으로는 여행을 떠날 시기가 아니었지만 떠날 수 밖에 없는 날씨였다.
+하지만 이 날은 멜번에 18년만에 찾아온 가장 추운 날.&lt;/p&gt;
+
+&lt;p&gt;글보다는 사진. 사진보다는 영상.&lt;/p&gt;
+
+&lt;iframe width=&#34;640&#34; height=&#34;360&#34; src=&#34;https://www.youtube.com/embed/aq9C6hdzZ1M?rel=0&amp;amp;showinfo=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>South Australia Road Trip 비용</title>
+      <link>http://localhost:1313/outdoors/sa-road-trip-cost/</link>
+      <pubDate>Wed, 10 Jun 2015 00:00:00 UTC</pubDate>
+      <author>Sookjin Hyun</author>
+      <guid>http://localhost:1313/outdoors/sa-road-trip-cost/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;기간 : 4 Jun 2015 ~ 8 Jun 2015 (4박5일)&lt;/li&gt;
+&lt;li&gt;경로 : Melbourne - Hahndorf - Kangarro Island - Great Ocean Road - Melbourne (약 2200km)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_0&#34;&gt;비용&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/yrXEPwwi3A713Cu0Bi0m63_kcvTZ5OsnFDHo0O4llXl_=w761-h342-no&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Transportation $374.00&lt;/li&gt;
+&lt;li&gt;Petrol $257.12&lt;/li&gt;
+&lt;li&gt;Food $235.61&lt;/li&gt;
+&lt;li&gt;Drinks $92.55&lt;/li&gt;
+&lt;li&gt;Accomodation $115.00&lt;/li&gt;
+&lt;li&gt;Sightseeing $84.00
+&amp;ndash; &lt;strong&gt;Total $1158.28&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kinglake 자전거 여행 #1 멘붕의 오르막</title>
+      <link>http://localhost:1313/outdoors/kinglake-bike-touring1/</link>
       <pubDate>Sun, 23 Nov 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/kinglake-bike-touring1/</guid>
+      <guid>http://localhost:1313/outdoors/kinglake-bike-touring1/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;나의 첫번째 자전거 여행&lt;/h3&gt;
@@ -118,11 +170,11 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     </item>
     
     <item>
-      <title>Kinglake 자전거 여행 | #2 이번 여행에서 배운 것</title>
-      <link>http://sookjin.com/outdoor/kinglake-bike-touring2/</link>
+      <title>Kinglake 자전거 여행 #2 이번 여행에서 배운 것</title>
+      <link>http://localhost:1313/outdoors/kinglake-bike-touring2/</link>
       <pubDate>Sun, 23 Nov 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/kinglake-bike-touring2/</guid>
+      <guid>http://localhost:1313/outdoors/kinglake-bike-touring2/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;둘째날&lt;/h3&gt;
@@ -183,11 +235,11 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     </item>
     
     <item>
-      <title>2014 Bupa Around the Bay | #3 대회 당일</title>
-      <link>http://sookjin.com/outdoor/around-the-bay-02/</link>
+      <title>2014 Bupa Around the Bay #3 대회 당일</title>
+      <link>http://localhost:1313/outdoors/around-the-bay-02/</link>
       <pubDate>Wed, 22 Oct 2014 17:43:38 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/around-the-bay-02/</guid>
+      <guid>http://localhost:1313/outdoors/around-the-bay-02/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;출전의 날&lt;/h3&gt;
@@ -319,11 +371,11 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     </item>
     
     <item>
-      <title>2014 Bupa Around the Bay | #2 준비물</title>
-      <link>http://sookjin.com/outdoor/around-the-bay-03/</link>
+      <title>2014 Bupa Around the Bay #2 준비물</title>
+      <link>http://localhost:1313/outdoors/around-the-bay-03/</link>
       <pubDate>Wed, 22 Oct 2014 07:43:38 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/around-the-bay-03/</guid>
+      <guid>http://localhost:1313/outdoors/around-the-bay-03/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;대회 당일 착용 의상&lt;/h3&gt;
@@ -374,11 +426,11 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     </item>
     
     <item>
-      <title>2014 Bupa Around the Bay | #1 훈련</title>
-      <link>http://sookjin.com/outdoor/around-the-bay-01/</link>
+      <title>2014 Bupa Around the Bay #1 훈련</title>
+      <link>http://localhost:1313/outdoors/around-the-bay-01/</link>
       <pubDate>Tue, 21 Oct 2014 07:43:38 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/around-the-bay-01/</guid>
+      <guid>http://localhost:1313/outdoors/around-the-bay-01/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://farm4.staticflickr.com/3950/15514795667_a452e43f25_z.jpg&#34; alt=&#34;&#34; /&gt;
@@ -420,10 +472,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>백패킹 가서  뭘 먹을까?</title>
-      <link>http://sookjin.com/outdoor/overnight-hiking-meal-plan/</link>
+      <link>http://localhost:1313/outdoors/overnight-hiking-meal-plan/</link>
       <pubDate>Tue, 12 Aug 2014 18:18:59 &#43;1100</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/overnight-hiking-meal-plan/</guid>
+      <guid>http://localhost:1313/outdoors/overnight-hiking-meal-plan/</guid>
       <description>
 
 &lt;p&gt;Overnight Hiking, 백패킹을 처음 할 때 가장 고민했던 것이 바로 &lt;strong&gt;뭘 먹을까&lt;/strong&gt;였다. 처음 4일짜리 백패킹을 갈 때 무개념이었던 나는 점심으로 영양도 좋고 맛도 좋은 떡을 싸갔다. 맛있지만 참으로 무겁고 날이 더우면 금방 쉬어버리는 떡. 첫째날은 최고였지만 마지막날은 쉬기 일보직전의 떡을 먹어야 했다. 좋지 않은 선택이었다. 평소 도시락으로도 애용하는 삼각김밥도 역시 편하고 맛있지만 보관하기 힘들고 번거롭다는 단점이 있다. 장박 산행에 적합하지 않은 음식들이다.&lt;/p&gt;
@@ -504,10 +556,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>Around the Bay in 2 days</title>
-      <link>http://sookjin.com/outdoor/around-the-bay-in-2-days-summary/</link>
+      <link>http://localhost:1313/outdoors/around-the-bay-in-2-days-summary/</link>
       <pubDate>Wed, 16 Jul 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/around-the-bay-in-2-days-summary/</guid>
+      <guid>http://localhost:1313/outdoors/around-the-bay-in-2-days-summary/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;1박2일 자전거 여행&lt;/h3&gt;
@@ -619,10 +671,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>그램피언스 나홀로 라이딩</title>
-      <link>http://sookjin.com/outdoor/grampians-bike-riding-halls-gap-stawell/</link>
+      <link>http://localhost:1313/outdoors/grampians-bike-riding-halls-gap-stawell/</link>
       <pubDate>Mon, 26 May 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/grampians-bike-riding-halls-gap-stawell/</guid>
+      <guid>http://localhost:1313/outdoors/grampians-bike-riding-halls-gap-stawell/</guid>
       <description>
 
 &lt;p&gt;그램피언스는 추억이 많은 곳이다. 같은 장소이지만 매번 다른 여행이었다. P와의 알찼던 로드 트립을 시작으로 C와의 게을렀던 주말 여행. L와의 먹자 여행. S에게 야생 캥거루와 호주의 산을 보여주기 위해 왔었고. 배낭을 메고 낯선 사람들과 백패킹도 왔었다. 그리고 이번엔 혼자다. 일행이 있는 여행도 좋지만 오랜만에 혼자하는 여행도 좋을 것 같아서 이번 여행은 혼자 떠나기로 했다. 장소는 Grampians. 새로운 장소였다면 더 좋았겠지만 가야 할 곳은 이미 정해져 있었다.&lt;/p&gt;
@@ -671,10 +723,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>두여자 게으른 부쉬 캠핑</title>
-      <link>http://sookjin.com/outdoor/lake-eildon/</link>
+      <link>http://localhost:1313/outdoors/lake-eildon/</link>
       <pubDate>Tue, 25 Feb 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/lake-eildon/</guid>
+      <guid>http://localhost:1313/outdoors/lake-eildon/</guid>
       <description>
 
 &lt;p&gt;이 캠핑의 제목을 달자면, 지영과 단둘이 가는 &lt;strong&gt;두잉나띵 Doing Nothing 캠핑&lt;/strong&gt;. 체력이 안따라주는 지영과, 하드코어(?)캠핑을 즐기고 싶은 나의 절충선. 부쉬캠핑을 가되 아무것도 하지 않는 걸로 결정했다.&lt;/p&gt;
@@ -728,11 +780,11 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     </item>
     
     <item>
-      <title>Overland Track | Overview</title>
-      <link>http://sookjin.com/outdoor/overland-track-summary/</link>
+      <title>Overland Track #0 Overview</title>
+      <link>http://localhost:1313/outdoors/overland-track-summary/</link>
       <pubDate>Sun, 05 Jan 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/overland-track-summary/</guid>
+      <guid>http://localhost:1313/outdoors/overland-track-summary/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;기간&lt;/h3&gt;
@@ -768,345 +820,196 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     </item>
     
     <item>
-      <title>Overland Track | Narcissus Hut - Lake St Clair</title>
-      <link>http://sookjin.com/outdoor/overland-day8/</link>
+      <title>Overland Track #8 Narcissus Hut - Lake St Clair</title>
+      <link>http://localhost:1313/outdoors/overland-day8/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/overland-day8/</guid>
+      <guid>http://localhost:1313/outdoors/overland-day8/</guid>
       <description>&lt;p&gt;&lt;em&gt;Narcissus Hut - Lake St Clair&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2939/14178248806_db32657af4_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2939/14178248806_db32657af4_c.jpg&#34;  /&gt;
 &lt;strong&gt;7시 기상.&lt;/strong&gt; Ferry는 0930이므로 일부러 7시까지 늦잠을 잤다. Hut 에서 선착장까지는 걸어서 5분도 안걸리는 가까운 거리.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2913/14221534723_a9dd3abfe1_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2913/14221534723_a9dd3abfe1_c.jpg&#34;  /&gt;
 여유롭게 아침을 먹고 짐을 정리하고 0915쯤 선착장으로. 어제 저녁에 Fabian도 도착을 했고 마침 있던 ranger도 떠난다고 하여 우리 일행은 총 6명이 되어 부담해야 할 금액도 정상요금인 $40가 되었다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2907/14198877442_30092965f2_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2907/14198877442_30092965f2_c.jpg&#34;  /&gt;
 어제의 좋았던 날씨와 달리  오늘은 흐리고 비를 뿌리기 시작했다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5476/14201376425_f29ee04ef2_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5476/14201376425_f29ee04ef2_c.jpg&#34;  /&gt;
 반 거지꼴로 강에 넋놓고 앉아 강물로 떨어지는 빗방울을 세면서 Ferry를 기다린다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5238/14198875672_bdedbe6de5_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5238/14198875672_bdedbe6de5_c.jpg&#34;  /&gt;
 망할 Ferry가 한시간이 지난 1020이 되서야 나타났다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2905/14178244496_03b5fa13ee_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2905/14178244496_03b5fa13ee_c.jpg&#34;  /&gt;
 40여분 후에 드디어 lake st clair 선착장에 도착. 배낭을 내려놓고 무사히 왔음을 신고한다. 사실상의 Overland Track은 여기서 끝이다. 바로 호바트로 가면 좋으련만 오늘은 1월 1일. 공휴일이라 버스가 없다. 여기서 하루 시간을 보내야 한다. 우리는 오늘 날씨를 보고 비가 올 것 같으면 숙소를 잡고 아니면 텐트를 치기로 했다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5573/14198874082_7e52ed050d_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5573/14198874082_7e52ed050d_c.jpg&#34;  /&gt;
 레스토랑을 보고 어찌나 반가운지 당장 뛰어 들어갔다. 숙소부터 알아보려고 카운터에 가니 매우 불친절한 중국인 직원이 시스템이 다운 되었다며 2시에 다시 오란다. 사실인지 아닌지 알 수 없지만 일단 이곳에서 배속에 기름을 좀 넣기로 한다. 난로 곁에서 커피와 따끈한 웨지를 먹으며 시간을 보낸다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2915/14198872322_9e7e4b7c9f_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2915/14198872322_9e7e4b7c9f_c.jpg&#34;  /&gt;
 주변을 둘러보러 나섰는데 때마침 도착한 Michael과 Paul을 만났다. 이분들은 Ferry를 안타고 걸어 오셨단다. Michael 머리에 붕대를 감고 Paul은 다리를 절룩이고 있었다. 안쓰러운 눈으로 바라보니 우리에게 너희 세명은 바로 옷 사입고 나온 사람들 같다면서 웃음을 주었다. 함께 걷지는 않았지만 우리는 모두 같은 날에 시작해서 같은 코스를 걷고 같은 날 끝내 오늘 이곳에 모였다. 이것도 재미난 인연이다. 다같이 모여서 기념 촬영을 하고 행운을 빌며 안녕.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5478/14014719478_d6943c0732_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5478/14014719478_d6943c0732_c.jpg&#34;  /&gt;
 주변을 둘러보는 동안 날씨가 좋아져서 캠핑장으로 텐트를 들고 이동한다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5506/14221519623_a49673aa6b_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5506/14221519623_a49673aa6b_c.jpg&#34;  /&gt;
 바람은 좀 불지만 큰 비는 오지 않기를 기대하며 Lodge에서 약 5분 거리에 있는 무료 캠핑장 Fergys Paddock에 텐트를 쳤다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2934/14014770387_98e4ba4464_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2934/14014770387_98e4ba4464_c.jpg&#34;  /&gt;
 캠프를 정리하고 주변에 난 short walk 산책에 나섰다. 한시간쯤 걸었나. 다시 비가오고 흐려졌다. 참말로 변덕스러운 날씨다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2899/14198094511_d4f7f0f761_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2899/14198094511_d4f7f0f761_c.jpg&#34;  /&gt;
 걸을만큼 걸었다. 텐트로 돌아와 드디어 발가락의 테이핑을 뜯어낸다. 고생했다 발.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2899/14014716048_34e361f35a_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2899/14014716048_34e361f35a_c.jpg&#34;  /&gt;
 그리고 마지막 저녁 식사. 식량이 쌀 한톨 안남고 딱 맞아 떨어졌다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2898/14014768777_625f346b29_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2898/14014768777_625f346b29_c.jpg&#34;  /&gt;
 이제 굿나잇을 하고 텐트로 돌아와 마지막 여행을 정리한다. 8일간 우리가 걸은 거리 총 125.4km. 장하다 숙진. 짝짝짝.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Overland Track | Pine Valley Hut - Narcissus Hut</title>
-      <link>http://sookjin.com/outdoor/overland-day7/</link>
+      <title>Overland Track #7 Pine Valley Hut - Narcissus Hut</title>
+      <link>http://localhost:1313/outdoors/overland-day7/</link>
       <pubDate>Tue, 31 Dec 2013 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/overland-day7/</guid>
+      <guid>http://localhost:1313/outdoors/overland-day7/</guid>
       <description>&lt;p&gt;&lt;em&gt;Labyrinth (sidetrip) - Pine Velley Hut - Narcissus Hut&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7344/14011717017_a07c8bf079_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7344/14011717017_a07c8bf079_c.jpg&#34;  /&gt;
 Overland Track의 마지막 날이다. 아침에 side trip을 갔다가 Narcissus Hut으로 하산하는 일정이다. 0740 아침을 후딱 먹고 짐을 정리한 후 Labyrinth 로 나섰다. 날씨가 썩 좋지는 않았지만 비가 오지 않는 것 만으로도 감사한 마음이 든다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7336/14198229514_bd1077deb3_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7336/14198229514_bd1077deb3_c.jpg&#34;  /&gt;
 어제와 마찬가지로 처음 약 1km 다락경사를 오르니 이런 아름다운 풍경이 펼쳐졌다. 그 미스테리한 이름처럼 아름다운 미로속에 와있는 것 같은 착각이 들었다. 축축한 공기가 &amp;ldquo;촉촉&amp;rdquo;하게 느껴지니 행복이 아니고 무엇이겠는가.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm6.static.flickr.com/5555/14011713757_580c6d0f53_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm6.static.flickr.com/5555/14011713757_580c6d0f53_c.jpg&#34;  /&gt;
 이곳에선 실제로 2000년에 한 젊은 여성이 실종된 곳인데 악천후라면 충분히 그럴 수도 있겠다는 생각이 든다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7379/14198301885_1d3025a56f_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7379/14198301885_1d3025a56f_c.jpg&#34;  /&gt;
 우리는 돌탑 표식을 하나하나 찾아가며 미로같이 이어진 길을 걷는다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm6.static.flickr.com/5515/14175167816_15f052fe96_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm6.static.flickr.com/5515/14175167816_15f052fe96_c.jpg&#34;  /&gt;
 별 기대를 하고 오지 않았는데 예상외의 풍경에 완전 반해 버렸다. 날씨가 궂었음에도 불구하고 이렇게 아름다운 풍경이라면 날씨가 좋을 땐 어떨까? 걸을 수록 풍경은 신비함을 더해갔다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2915/14175166266_ea0fbfb516_z.jpg&#34;  /&gt;
-&lt;img src=&#34;https://farm8.static.flickr.com/7424/14218441063_22c0a140c4_z.jpg&#34;  /&gt;
-&lt;img src=&#34;https://farm6.static.flickr.com/5551/14011673530_3c48a6dc9b_z.jpg&#34;  /&gt;
-&lt;img src=&#34;https://farm3.static.flickr.com/2895/14011652900_4eb717e30e_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2915/14175166266_ea0fbfb516_c.jpg&#34;  /&gt;
+&lt;img src=&#34;https://farm8.static.flickr.com/7424/14218441063_22c0a140c4_c.jpg&#34;  /&gt;
+&lt;img src=&#34;https://farm6.static.flickr.com/5551/14011673530_3c48a6dc9b_c.jpg&#34;  /&gt;
+&lt;img src=&#34;https://farm3.static.flickr.com/2895/14011652900_4eb717e30e_c.jpg&#34;  /&gt;
 lookout에 올라서니 저 멀리 Lake Claire가 보인다.  더 걷고 싶었지만 한편으론 왠지 아껴놓고 싶은 마음. 이곳엔 분명히 다시 오게 될 것이기에 다음에 와서 볼 것들을 남겨 놓기로. 신비로운 풍경속을 걸어 숙소로 돌아온다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7446/14011684197_dacdb44c74_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7446/14011684197_dacdb44c74_c.jpg&#34;  /&gt;
 꿈 같았던 Labyrinth walk을 끝내고 다시 hut에 돌아온 시간 1130. 무사히 돌아왔음을 신고하고 hut에서 점심을 먹고 이제 마지막 걸음을 재촉한다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7392/14011665497_d994f93fb4_z.jpg&#34;  width=&#34;320&#34; height=&#34;568&#34; /&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7420/14175120916_00ba54d3bc_z.jpg&#34;  width=&#34;320&#34; height=&#34;568&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7392/14011665497_d994f93fb4_c.jpg&#34;  width=&#34;320&#34; height=&#34;568&#34; /&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7420/14175120916_00ba54d3bc_c.jpg&#34;  width=&#34;320&#34; height=&#34;568&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2918/14175136056_32f42169ef_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2918/14175136056_32f42169ef_c.jpg&#34;  /&gt;
 스산했던 열대우림을 빠져 나와 내가 좋아하는 버튼그라스 사이로 난 boardwalk으로 접어 들었다. 기분이 좋아졌다. 떠날때가 되니 비도 그치고 해가 나네?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2920/14011602769_2104512c22_z.jpg&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2920/14011602769_2104512c22_c.jpg&#34;  /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7447/14011615988_7feb4f375a_z.jpg&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7447/14011615988_7feb4f375a_c.jpg&#34;  /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm6.static.flickr.com/5527/14011675407_7d4c72d5e7_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm6.static.flickr.com/5527/14011675407_7d4c72d5e7_c.jpg&#34;  /&gt;
 Narcissus River.  세시간쯤 걸었을까. 이 강이 흘러 Lake Clarie로 들어간다. 다 왔단 소리다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://c2.staticflickr.com/8/7040/13402036025_e96cb4f429_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://c2.staticflickr.com/8/7040/13402036025_e96cb4f429_c.jpg&#34;  /&gt;
 1520 우리의 마지막 Hut Narcissus Hut에 도착했다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm6.static.flickr.com/5231/14011673907_af0d8eeb29_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm6.static.flickr.com/5231/14011673907_af0d8eeb29_c.jpg&#34;  /&gt;
 우리는 도착하자 마자 배낭을 내려놓고 Ferry를 알아본다.&lt;/p&gt;
 
 &lt;p&gt;무전으로 알아보니 오늘 마지막 배는 조금 아까 이미 떠났고 내일 아침 9시배는 아직 모른다는 절망적인 답변이 돌아왔다. 내일 또 17km를 걸어가야 하나 고민중인데 마침 한 커플이 hut에 도착했다. 다시 무선을 치고 배를 알아보고 이런 저런 일정 얘기를 하다가 $240면 배를 빌릴 수 있다고 하여 4명이서 $240을 나눠 내기로 하고 배를 예약했다. 해피 뉴이어를 외치고 그들은 텐트를 치러 사라지고 우리도 가뿐한 맘으로 마지막 밤을 준비한다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://c2.staticflickr.com/4/3703/13402157353_5d893abf57_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://c2.staticflickr.com/4/3703/13402157353_5d893abf57_c.jpg&#34;  /&gt;
 Narcissus Hut. 겉모양은 멀쩡하지만 정말 오래된 Hut이다. 화장실은 새로 잘 지어놨더만 hut은 아직 오래된 구식 이다. 사람들은 이미 아침에 다 떠나고 hut에는 아무도 없다. 커플팀은 텐트를 친다고 사라졌고 나도 텐트를 치기로 했다. 선영언니는 몇일 전 Kia Ora 에서의 악몽에서 빠져 나오지 못하고 오늘도 hut에서 자기로 했다. 언니는 팔을 겉어붙이고 더럽고 냄새나는 hut을 청소하기 시작했다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2916/14218406883_11d8af9843_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2916/14218406883_11d8af9843_c.jpg&#34;  /&gt;
 텐트를 쳐놓고 나니 수영을 할 정도로 날씨가 개어서 강으로 뛰어들었다. 차가운 물에 몸을 담그고 목욕도 하고 머리도 감고 빨래도 하고. 얼마만에 감는 머리인지 비누를 쓰지 못해 그냥 물에 행구기만 했건만 그래도 상쾌하다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2929/14011591829_8f51ece327_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2929/14011591829_8f51ece327_c.jpg&#34;  /&gt;
 나무 사이에 빨래줄을 걸고 햇볕에 빨래를 말리고 충전도 한다.  젖은 신발은 햇볕에 놓아 두었더니 몇 시간만에 금새 말랐다. 내일부터는 마른 신발을 신을 수 있게 되었다. 야호.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2920/14175126146_9c764bc47f_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2920/14175126146_9c764bc47f_c.jpg&#34;  /&gt;
 모든것이 다 이루어진 오늘. 게다라 오늘은 2013년의 마지막 날. 뜻깊은 날이다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2904/14011672047_2c40da6c9d_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2904/14011672047_2c40da6c9d_c.jpg&#34;  /&gt;
 5시반 쯤 hut 앞에서 저녁을 먹는다. 이제 식량 가방엔 하루치의 음식만 남았다. 모든 일정이  무사히 끝나고 우리는 내일 배를 타고 이곳을 떠난다. 술이라도 있으면 건배라도 들겠구만.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm6.static.flickr.com/5490/14198186534_8116f8cc7a_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm6.static.flickr.com/5490/14198186534_8116f8cc7a_c.jpg&#34;  /&gt;
 오늘도 해질녘이 되자 어김없이 나타난 왈라비. 맨날 봐도 맨날 반갑다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7390/14198176334_54edc2328e_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7390/14198176334_54edc2328e_c.jpg&#34;  /&gt;
 조용한 강가. 2013년의 마지막 밤이 저문다.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Overland Track | Bert Nichols Hut - Pine Valley Hut</title>
-      <link>http://sookjin.com/outdoor/overland-day6/</link>
+      <title>Overland Track #6 Bert Nichols Hut - Pine Valley Hut</title>
+      <link>http://localhost:1313/outdoors/overland-day6/</link>
       <pubDate>Mon, 30 Dec 2013 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/overland-day6/</guid>
+      <guid>http://localhost:1313/outdoors/overland-day6/</guid>
       <description>&lt;p&gt;&lt;em&gt;Bert Nichols Hut - Pine Valley Hut - Acropolis (side trip)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7441/14194944781_c7e2bde352_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7441/14194944781_c7e2bde352_c.jpg&#34;  /&gt;
 &lt;strong&gt;0630 기상 0730 출발.&lt;/strong&gt; 텐트를 안접어도 되니 시간이 줄기도 했지만 이제 짐을 싸고 푸는데도 요령이 생겼다고나 할까. 대부분의 사람들에게 오늘은 마지막 날이지만 우리는 하루 Pine Valley Hut 로 가서 하루 더 시간을 보낸다. 0905 그 갈림길에 도착했다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2916/14011596120_8a05d623f8_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2916/14011596120_8a05d623f8_c.jpg&#34;  /&gt;
 &lt;strong&gt;외나무 다리suspension bridge.&lt;/strong&gt; Junction 에서 간단히 morning tea를 하고 우리는 Pine Velly 방향으로. 지금까지 한번도 보지 못한 외나무 다리가 나왔다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2921/14198143144_4a1e87f3f8_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2921/14198143144_4a1e87f3f8_c.jpg&#34;  /&gt;
 이 다리는 한 번에 한 명만 건널 수 있다. 언니가 다 건너가고 내가 건너간다.&lt;/p&gt;
 
 &lt;p&gt;Hut으로 가는 길은 축축하고 오래된 나무들이 빽빽하게 늘어서 으스스한 분위기를 냈다. 이런 깊은 숲속에 hut 이 있을까 하는 생각이 들 정도로 음산한 분위기 였고, 비까지 오는데 행여나 길을 잃을까 하는 걱정에 정신을 바짝 차리고 막대 표식을 따라 걷는다. 땅은 온통 얽히고 섥힌 나무 뿌리들로 뒤덮혀 있는데 영화에서처럼 이것들이 갑자기 꿈틀거리며 살아나 내 발목을 확 잡아 삼켜버리는 상상을 하니 발걸음이 빨라진다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7433/14218361533_42f6a4f9b5_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7433/14218361533_42f6a4f9b5_c.jpg&#34;  /&gt;
 &lt;strong&gt;Pine Valley Hut.&lt;/strong&gt; 음산한 나무 숲을 지나고 두시간만인 1100에 Pine Valley Hut 에 도착했다. 뭔가 다른 세상에 온 기분이다.&lt;/p&gt;
 
 &lt;p&gt;Pine Valley Hut에는 Overland track을 걷는 사람 이외에도 여러 코스에서 온 사람들이 머무르고 있었다. 텅 빈 hut을 새생각하고 있었는데 아이들을 동반한 가족 그룹을 비롯해 이곳을 base camp 삼아 몇일동안 묵고 있는 사람도 있었고, 여러 팀이 이미 hut을 꽉 채우고 있었다. 우리는 오늘도 날씨를 감안해 hut에서 자기로 하고 떠나는 사람들의 자리를 넘겨 받았다. 침낭을 펼쳐 자리를 확보해 두고 이른 점심을 먹었다.&lt;/p&gt;
 
 &lt;p&gt;생각해둔 두가지의 side trip이 있었는데 Acropolis와 Labyrinth. 이곳은 Overland Track의 일부가 아니라서 책자에서 얻을 수 있는 side trip에 대한 정보가 부족했지만 우리는 그곳에 있는 사람들과 벽에 걸린 안내문의 도움을 받아 6시간 30분이 걸린다는 &lt;em&gt;Acropolis&lt;/em&gt; 아크로 폴리스에 먼저 도전하기로 했다. 여느 side trip 처럼 별 준비없이 가벼운 마음으로 나섰는데 어제 다녀왔다는 사람들이 매우 추울것이라며 장갑과 모자등을 챙겨가라고 알려주어 방수바지와 장갑 등 여러가지 장비를  추가로 챙겨서 길을 나섰다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm6.static.flickr.com/5523/14195695212_089de1f815_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm6.static.flickr.com/5523/14195695212_089de1f815_c.jpg&#34;  /&gt;
 &lt;strong&gt;Acropolis.&lt;/strong&gt; 1150분쯤 출발. 숲을 걷다가 갑자기 시작된 오르막. 여기까지 오는 1km정도의 오르막은 지금까지 중 정말 최고의 경사를 가진 다락방 오르막이었다.  그리고 잠시 나타난 평지. 헉헉대며 숨을 고르고 있자니 눈앞에 더 큰 것이 나타났다. 그리고 다시 시작된 미친 다락 경사와 암벽 등반.  일단 시작은 했지만 정상은 오늘도 구름속에 가려져 보이지 않고 주변은 온통 아슬아슬한 암벽뿐이다. 길은 무척 험하고 위험해 보였다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm6.static.flickr.com/5036/14195694782_700bb4753e_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm6.static.flickr.com/5036/14195694782_700bb4753e_c.jpg&#34;  /&gt;
 코너를 돌자 펼쳐진 이 장면에 한숨이 절로 나왔다. 키보다 높은 암벽을 가까스로 기어 올라가면서 내려갈 일을 더 걱정 했던건 아마 언니도 마찬가지였을 것이다. 중간에 내려오는 팀을 몇팀 만났는데 그들의 응원이 없었다면 아마 우리는 가다가 돌아왔을 것이다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm6.static.flickr.com/5544/14195694142_b279f40854_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm6.static.flickr.com/5544/14195694142_b279f40854_c.jpg&#34;  /&gt;
 화살표를 따라 걷다가 뒤를 돌아보니 많이 올라왔다. 이제 구름 위로 올라간다. 돌아 올 일이 걱정이 되면서도 계속 걷고 있는걸 보니 첫날 Barn Bluff 때 보다 많이 용감해 졌다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2898/14175080726_c29c43d744_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2898/14175080726_c29c43d744_c.jpg&#34;  /&gt;
 출발한지 2시간 만에 무사히 정상에 도착했다. 거세고도 차가운 바람.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7344/14011623077_db6f26e3be_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7344/14011623077_db6f26e3be_c.jpg&#34;  /&gt;
 힘들게 정상에 올랐다. 뿌듯하다. 다행히 정상에는 우리 말고 한 팀이 더 있어서 마음을 살짝 놓았다.&lt;/p&gt;
 
 &lt;p&gt;아버지와 아들이었는데 아이는 열다섯이나 되었을까. 여기까지 올라온 것을 보니 기특하지만 그 아버지도 대단한 사람이라는 생각이 들었다. 생각해 보면 그것이 부자이기에 가능한 일 아닐까? 아들은 아버지에 대한 무한 신뢰와 아들을 향한 아버지의 사랑. 보기 좋은 풍경이다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm6.static.flickr.com/5568/14198136424_68d7fdbbeb_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm6.static.flickr.com/5568/14198136424_68d7fdbbeb_c.jpg&#34;  /&gt;
 정상은 역시나 짙은 구름에 가려져 있었지만 바람이 불면서 빠른 속도로 움직이는 구름 속에서 희미하게나마 풍경을 드러냈다. 자세히 보니 군데군데 눈도 쌓여 있다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7385/14218357513_e2709980ac_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7385/14218357513_e2709980ac_c.jpg&#34;  /&gt;
 기념 사진 한 장 찍고.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm6.static.flickr.com/5563/14011561478_f2883ed25a_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm6.static.flickr.com/5563/14011561478_f2883ed25a_c.jpg&#34;  /&gt;
 거친 바람에 맛서 눈물 콧물을 닦으며 사진을 몇장 찍고 바람을 피해 잠시 앉아 있다가 추워서 이내 하산하기로 했다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7458/14011588200_102e5e014c_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7458/14011588200_102e5e014c_c.jpg&#34;  /&gt;
 올라온게 아까워서라도 더 있고 싶지만 너무 춥고 빗줄기가 더 굵어지기 전에 내려가기로.  내려오는 길은 비때문에 더 미끄럽고 땅은 진흙탕에다가 다리는 후들후들.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2933/14198135094_20c8b55f71_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm3.static.flickr.com/2933/14198135094_20c8b55f71_c.jpg&#34;  /&gt;
 가파른 암벽을 내려와 잠시 숨을 돌린다. 산신령 처럼 늠름한 자태의 선영 언니. 이제 뭐 거칠것이 없다.&lt;/p&gt;
 
 &lt;p&gt;후들거리는 다리를 끌고 내려오다가 결국엔 다와서 작은 사고를 쳤는데 내리막에서 딛고 내려가던 워킹폴이 땅으로 폭 빠지면서 균형을 잃고 미끄러지는 바람에 휘어서 못쓰게 되버렸다.  온몸은 땀과 비로 쫄닥 젖고 허벅지엔 타박상. 만신창이가 되어서 hut에 도착하니 1630. 긴 하루였다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7404/14198134224_7e77e48cb9_z.jpg&#34;  /&gt;
+&lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7404/14198134224_7e77e48cb9_c.jpg&#34;  /&gt;
 유난히 추위를 타는 언니는 오자마자 난로에 불부터 피우기 시작했다. 조개탄 난로인데 마른 나무도 없고 종이 한장도 귀한 이 곳에서 불 붙이기가 여간 힘든게 아니었다. 하지만 의지의 한국인. 결국 조개탄에 불을 붙이고  hut에 온기를 불어 넣었다.&lt;/p&gt;
 
 &lt;p&gt;난로 옆에서 정성스레 신발을 말리고 짐을 정리하며 저녁 시간을 기다렸다. 작은 hut이 사람들로 무척 붐볐다. 식탁도 붐비는 바람에 우린 조금 늦게 6시쯤 저녁을 먹고 내일을 위한 준비를 마쳤다. 짐 정리를 하다보니 식량 주머니도 이제 다 비어가고 가방도 헐렁하다. 이 여행의 끝이 다가오고 있다. 마지막으로 내일은 제발 마른 신발을 신게 해주세요, 머리를 감게 해주세요라고 기도하며 고된 몸을 눕혀 잠을 청한다.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Overland Track | Kia Ora Hut - Bert Nichols Hut</title>
-      <link>http://sookjin.com/outdoor/overland-day5/</link>
-      <pubDate>Sun, 29 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/overland-day5/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Kia Ora Hut - Falls - Bert Nichols Hut&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7392/14011526378_703b03f02d_z.jpg&#34;  /&gt;
-&lt;strong&gt;0620 기상&lt;/strong&gt;. 밤새 빈지 우박인지를 동반한 거센 바람 때문에 귀마개를 하고 잤는데도 여러번 잠이 깼다. 날씨 참 지랄맞다 했는데 아침에 눈을 떠보니 우박까지 내렸나보다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7408/14195658382_84119a066c_z.jpg&#34;  /&gt;
-&lt;strong&gt;준비.&lt;/strong&gt; 춥고 비도 뿌리길래 텐트에서 아침까지 먹고 나설라고 했는데 텐트에 숫가락도 없네 이런. 아침은 어쩔 수 없이 hut에서 먹는다. 아침 일찍 hut으로 대피한 선영언니는 밤새 추워서 잠을 한잠도 못잤덴다. 나는 미안하게 그것도 모르고 쿨쿨 잤다. 언니의 퉁퉁 붓고 어두운 표정이 밤새 얼마나 괴로웠는지를 말해주었다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7374/14011523178_29e3471c27_z.jpg&#34;  /&gt;
-&lt;strong&gt;출발.&lt;/strong&gt; 비가 계속 오는데 마냥 기다릴 수 없기에 짐을 후딱 챙기고 젖은 텐트를 쑤셔넣고 0815쯤 젖은 신발을  신고 길을 나선다. 날씨도 좋지 않고. 길도 좋지 않다. 오늘 가야할 길은 9.6km. 약간의 side trip을 곁들이면 약 12km. 그리 길지 않은 무난한 코스다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7401/14195644962_da906ff3d7_z.jpg&#34;  /&gt;
-&lt;strong&gt;Du cane Hut.&lt;/strong&gt; 내내 비가 오락가락 해서 우비를 입었다 벗었다 했다. 한시간쯤 걷자 Du cane Hut에 도착. 바람 불면 날아갈 것 같은 아주 오래되고 작은 hut이다. 간식을 간단히 하고 다시 출발.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5040/14218309643_d7b7d57594_z.jpg&#34;  /&gt;
-&lt;strong&gt;Side trip.&lt;/strong&gt;10시쯤 폭포에 도착했다. 오늘은 딱히 땡기는 side trip은 없고 몇개의 폭포를 보는게 전부다. 언니는 간밤의 전쟁으로 힘든 기색이었고 나도 이런 축축한 날에 폭포를 본다는 건 썩 하고 싶은 일은 아니었지만 그렇다고 그냥 가기엔 좀 서운하고. 잠시 배낭을 내려놓고 길을 나선다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7360/14011505939_abca2926b6_z.jpg&#34;  /&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7406/14011519778_44de76256a_z.jpg&#34;  /&gt;
-&lt;strong&gt;Fergusson and D’Anton. &lt;/strong&gt;두 폭포는 불과 약 10여분 거리에 붙어 있는데 더운 여름이었다면 아주 좋았겠지만 우리는 이미 비를 맞으며 축축한 신발을 신고 걸어온 상태라 그냥 멀리서 사진을 찍는 것으로 감상을 마친다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7354/14198094424_64ccc8223e_z.jpg&#34;  /&gt;
-&lt;strong&gt;Hernett Falls.&lt;/strong&gt; 그리고 약 1km떨어진 곳에 또 하나의 side trip이 있었으니 Hernett Falls. 폭포로 가는 숲길이 인상적이었다. 여름에 왔으면 어떻게든 내려가서 수영이라도 했겠지만 오늘은 아니다.&lt;/p&gt;
-
-&lt;p&gt;다시 걸어 나와서 정리를 하고 있으려니 무성한 수풀 사이로 갑자기 한줄기 햇살이 쏟아져 들어왔다. 우리는 이때다 싶어 그곳에 자리를 잡고 점심을 간단히 먹었다. 다음 hut 까지 가려면 산을 하나 넘어야 한다. 출발하자마자 시작되는 오르막. 젖은 신발이 배낭보다 무겁게 느껴진다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5586/14011545970_1e4c8c5fc0_z.jpg&#34;  /&gt;
-&lt;strong&gt;젖은 신발.&lt;/strong&gt; 점심을 먹고 1230분 출발해서 한시간반 만에 오늘의 목적지인 Bert hichols Hut에 도착했다. 오는 동안 신발은 다 젖었다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7407/14175029306_4bb9f06e02_z.jpg&#34;  /&gt;
-&lt;strong&gt;Bert Nichols Hut.&lt;/strong&gt; 오늘 머물 hut은 2008년에 새로 지은 깨끗한 최신식 헛이다. 이 곳의 지명은 Windy Ridge인데 hut의 이름은 Bert Nichols hut 이다. 이름과 지명이 일치 하지 않아 지도마다 다르고 사람마다 다르게 부르지만 알고 보면 같은 hut이다. 넓기만 한게 아니라 여러가지 공간이 아주 딱 막게 설계 되어진 훌륭한 공간이다. 입구에 젖은 옷, 신발이나 텐트 등을 말릴 수 있는 넓은 공간이 있고  8명이 잘 수 있는 방이 3개, 가스 스토브가 있는 넓은 공용 공간이 있다. 공용 공간은 침실과 분리가 되어 있어 더욱더 쾌적하다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5033/14011545320_177b4bc4aa_z.jpg&#34;  /&gt;
-&lt;strong&gt;Atternoon tea.&lt;/strong&gt; 우리도 오늘은 hut에서 자기로 하고 1번방의 2층을 선점했다. 짐을 펼쳐 놓고 차를 한 잔 하고 있으려니 사람들도 하나 둘씩 도착해 난로 곁으로 모여든다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2915/14218312163_9848f5c517_z.jpg&#34;  /&gt;
-&lt;strong&gt;개인정비.&lt;/strong&gt; 저녁시간까지 약 두시간, 조용히 개인 정비의 시간을 보낸다. 텐트 플랫폼에 나가 젖은 신발을 널어 놓고 solar charger를 충전하는 동안 지저분한 손톱 정리 및 스트레칭.&lt;/p&gt;
-
-&lt;p&gt;이럴 때 읽으려고 핸드폰에 ebook을 여러권 담아왔는데 날씨 때문에 에너지 공급에 차질을 빚었다. 해만 나면 solar charger를 꺼내어 충전해 보지만 비가 오락가락 하는 통에 제 구실을 못한다. 모든것이 계획대로 움직여 주지는 않는다는 것을 배웠다. 오늘은 저녁을 먹는데 갑자기 선영언니의 가스가 다 떨어졌다. 헉. 다행히 독일 청년 Stephen에게 여분의 가스가 있어서 위기를 무사히 넘겼지만 앞으로 남은 기간을 어찌해야 하나 식겁했다. 준비한다고 준비했는데 역시 우린 초보라 어설프다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7419/14195645682_b23918d386_z.jpg&#34;  /&gt;
-&lt;strong&gt;Hut에서 자는 첫날 밤.&lt;/strong&gt; 텐트를 펴고 접지 않아도 되니 좋지만 개인 공간이 없으니 불편하기도 하다. 나는 개인적으로 텐트를 더 선호하지만 어제밤 같은 악천후가 계속되면 몸이 힘들어지기에 오늘 밤은 벽과 지붕이 있는 hut을 선택했다. 많은 사람들이 hut 안으로 모여 늦은 시간까지 어수선하다. 나는 일찌감치 일기를 쓰고 내일은 햇님이 떠오르길 간절히 기도해 본다.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Overland Track | Pelion Hut - Kia Ora Hut</title>
-      <link>http://sookjin.com/outdoor/overland-day4/</link>
-      <pubDate>Sat, 28 Dec 2013 00:00:00 UTC</pubDate>
-      <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor/overland-day4/</guid>
-      <description>&lt;p&gt;&lt;em&gt;New Pelion Hut - Mt. Ossa - Kia Ora Hut&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7429/14011404547_17b74432e3_z.jpg&#34;  /&gt;
-&lt;strong&gt;텐트에 거미줄.&lt;/strong&gt; 어라 요놈 봐라. 밤사이 텐트에 거미줄을 쳤다. 미안하지만 이몸은 떠날 몸. 이것이 오늘 거미와의 전쟁이 시작되는 순간이었다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5583/14194719661_608c674187_z.jpg&#34;  /&gt;
-&lt;strong&gt;출발.&lt;/strong&gt; Kia Ora hut까지는 약 8.6km. 중간에 Mt. Ossa side trip이 있다. 오늘 드디어 타즈마니아의 가장 높은 산 Mt. Ossa를 등반한다. 6시도 안되서 일어나서 설치기 시작해 7시쯤 출발한다. 곧 비가 내릴 기세라 배낭에 커버도 씌웠다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7379/14011369980_cc31de2362_z.jpg&#34;  /&gt;
-&lt;strong&gt;숲길.&lt;/strong&gt; 일등으로 눈누난나 출발했는데 숲으로 들어서면서 완전 후회. 숲을 걷는 오르막길인데 세상에 왠 거미줄이 이리 많은지 온몸으로 거미줄을 헤쳐나간다.  자꾸 눈으로 입으로 들어오는 거미줄에 거기 달려있는 애벌레들까지. 거미줄에 대한 분노의 에너지로 오르막을 힘차게 걷는다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5504/14195473852_3c1dbf9ce6_z.jpg&#34;  /&gt;
-&lt;strong&gt;Pelion Gap.&lt;/strong&gt; 거미숲을 지나 0850 Pelion Gap에 도착했는데 구름이 대박이다. Mt. Ossa는 어디 붙어 있는지 보이지도 않는 상황.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7411/14197921284_907ae67de1_z.jpg&#34;  /&gt;
-&lt;strong&gt;출발.&lt;/strong&gt; 아직 비는 오지 않지만 비오는 것처럼 축축하다. 마침 우리 앞으로 독일 청년이 먼저 올라갔고 일행은 아니지만 사람이 있으니 우리도 망설이지 않고 출발한다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7394/14011368280_d418abe421_z.jpg&#34;  /&gt;
-&lt;strong&gt;Mt Doris.&lt;/strong&gt; 아직까지는 괜찮다. 풀도 푸르고 멋지다, 초반부터 급경사. 우리를 추월해서 세명의 젊은피들이 뛰어 올라간다. 우리 앞으로 4명. 안심이 되는 순간.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5523/14194717481_1c5fcb2983_z.jpg&#34;  /&gt;
-&lt;strong&gt;악천후.&lt;/strong&gt; 구름이 짙어지기 시작했다. 이제 풍경은 없어지고 구름속으로 들어간다. 불안해진 마음에 저 앞에 뛰어가는 세명을 쫓아가고 싶지만 그들은 너무 빠르다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7374/14195472212_42d5f3cd84_z.jpg&#34;  /&gt;
-Mt Ossa로 접어들어 그 골짜기를 타고 올라가는데 바람이 너무 심하게 불어와 발 한발짝을 움직이기가 힘들어 졌따. 생명의 위협이 느껴진 순간. 잠시 앉아 포기하고 내려갈까도 했지만 조심스럽게 한발 한발을 걸어 간신히 바람이 잦아든 곳으로 몸까지 피했다. 구름 속에 앉아서 체력 보충. 에너지 소모가 생각보다 크다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7331/14011342948_1136a7427f_z.jpg&#34;  /&gt;
-어디를 걷고 있는지 알 수가 없다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7437/14197995445_fbd86e0c33_z.jpg&#34;  /&gt;
-구름속에서 신선이 된 것처럼 막대표식을 따라 천천히 걷는다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7388/14011401367_81d0859ed2_z.jpg&#34;  /&gt;
-경사가 꽤 있는 암벽이지만 표식이 잘 되어 있어서 루트를 따라 가는 것은 어렵지 않다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5590/14174860526_8ea60e531d_z.jpg&#34;  /&gt;
-드디어 가파른 경사가 끝났다. 어디 거의 다 온것 같기는 한데 몇 발짝 앞도 보이지 않는 상황. 산 정상은 평평한 지대라고 가늠만 해본다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2898/14197919214_5b49408dbc_z.jpg&#34;  /&gt;
-&lt;strong&gt;Cache. &lt;/strong&gt; 언니를 먼저 보내고 나는 캐쉬에 나섰다. Mt. Ossa 정상에 단 하나뿐인 캐쉬. GPS를 의존해 트랙에서 약간 벗어난 곳에 숨겨진 돌무더기에서 어렵지 않게 찾았다. 혼자 구름속에 있다고 생각하니 가슴이 두근거린다. 얼른 GPS의 트랙을 보면 다시 트랙으로 이동. GSP가 없었으면 다시 트랙으로 돌아가기 힘들었을 것이다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5274/14197918764_e772c3c06a_z.jpg&#34;  /&gt;
-&lt;strong&gt;정상.&lt;/strong&gt; 1044 드디어 해발 1618m의 정상에 도착. 정상에 도착하니 가니 바위 사이에 우리보다 먼저 올라간 네명과 선영언니가 바람을 피해 옹기종기 모여 앉아 있다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2900/14011365910_e65a46c480_z.jpg&#34;  /&gt;
-&lt;strong&gt;단체사진.&lt;/strong&gt; 안개로 둘러 싸여 아무것도 보이지 않고 몸은 꽁꽁 얼어 추워 죽겠지만 타즈마니아의 최고봉에 오르니 마냥 뿌듯하다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7359/14011399857_51c4b4eccb_z.jpg&#34;  /&gt;
-&lt;strong&gt;뷰는 어디로.&lt;/strong&gt; 정상에선 바로 앞의 바위만 보일뿐. 360도 파노라마로 멋진 풍경이 보인다고 했는데.. 맘속으로 상상해본다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2927/14197993685_de27decfb3_z.jpg&#34;  /&gt;
-&lt;strong&gt;인증샷.&lt;/strong&gt; 하얀 도화지 같은 부질없는 사진만 몇장 찍는다. 바람에 날아갈까 다리를 쫙 벌리고 ㅋ&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2907/14197993585_11828d3242_z.jpg&#34;  /&gt;
-&lt;strong&gt;내려가자.&lt;/strong&gt; 그 고생을 하고 올라온 정상에는 10분 정도나 앉아 있었을까. 볼 것도 없었지만 앉아 있으려니 체온이 떨어지는 것 같아서 서둘러 몸을 일으킨다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5038/14011365540_61c78a2922_z.jpg&#34;  /&gt;
-&lt;strong&gt;막대 표식. &lt;/strong&gt;왔던길을 차근차근 내려오는데 우리보다 먼저 내려간 독일 청년이 어느순간 저 뒤에서 오고 있길래 어찌된거냐 했더니 내려오다가 길을 잘못들어서 헤매고 왔단다. 잠깐 완전 scared 했다며 우리의 하산길에 일행이 되었다.  내려 오는 길엔 아주 많은 사람들을 만났다. 구름이 더 낮아져서 시야가 더 안좋아 졌는데 사람들은 그것과는 상관없이 Mt Ossa의 정상을 밟기 위해 올라가고 있었다. 제일 마지막으로 ranger를 만나 날씨도 개떡이고 아무것도 못봤지만 그래도 좋았다고 얘기하니 웃으며 고개를 끄덕인다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7387/14197917994_19e47f0959_z.jpg&#34;  /&gt;
-&lt;strong&gt;Pelion Gap. &lt;/strong&gt;Pelion Gap데 도착하니 우리 뒤로 떠난 많은 사람들의 배낭이 놓여져 있다. 안개속에서 앞이 보이지 않아서 표식을 찾는게 힘들었고 바람이 불어 몸이 날아 갈 것 같았던 것 빼면 힘든 코스는 아니다. 우리가 안좋은 날씨에 걸렸을 뿐. 다음에 맑을 때 꼭 다시 와야겠다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2930/14011329419_8424dab323_z.jpg&#34;  /&gt;
-&lt;strong&gt;커피 한잔의 여유.&lt;/strong&gt; 내려오는데 비가 부슬부슬 내리기 시작했다. 앉아서 정리를 하고 있으려니 곧 언니가 내려오고 우리는 따뜻한 커피 한잔을 끓여 마시며 몸을 녹이고 비속에서 간단히 점심도 먹었다. 내리는 비도 아랑곳 하지 않고 이 순간을 즐긴다. 타즈메니아의 최고봉을 정복하고 나니 사기가 하늘을 찌를 듯.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7448/14195469822_b3d9504280_z.jpg&#34;  /&gt;
-&lt;strong&gt;Michael.&lt;/strong&gt; 커피를 한잔 하고 있으려니 힘겹게 올라와 반팔차림으로 돌아다니는 한 남자. 마이클 일행과는 우리랑 같은 날짜에 출발했고 나는 포럼에서 이분들을 알게 되어 몇번 메세지를 주고 받았는데 결국 4일째 되는 날에 만났다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7360/14195469352_8b75a9314e_z.jpg&#34;  /&gt;
-&lt;strong&gt;남은길.&lt;/strong&gt; 나머지 약 4km. 이제 그냥 내려갈 일만 남았다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2914/14197992345_900540c57c_z.jpg&#34;  /&gt;
-&lt;strong&gt;진흙탕길.&lt;/strong&gt; 하지만 그 길이 쉬울리가 없지. 어제에 이어 오늘도 숲으로 난 작은 길은 온통 진흙탕. 음 어디를 밟아야 하나.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7429/14011363950_0da243630f_z.jpg&#34;  /&gt;
-&lt;strong&gt;Kia Ora Hut.&lt;/strong&gt; 진흙탕을 깡총깡총 뛰어 넘어 1415 드디어  Kia Ora hut에 도착했다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://c2.staticflickr.com/4/3774/13402218814_1c8841995f_z.jpg&#34;  /&gt;
-&lt;strong&gt;Hut.&lt;/strong&gt; Hut을 잠시 들여다보니 Ms Ossa를 들르지 않고 일찍온 온 몇 팀이 이미 hut을 점령했다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5562/14174857256_e06d8f409a_z.jpg&#34;  /&gt;
-&lt;strong&gt;오후의 여유.&lt;/strong&gt; 우리는 널찍한 플랫폼에 텐트를 쳤다. 해가 잠시 나서 신발도 말리고 태양열 충전기도 충전. 책도 보고 일기도 쓰며 휴식 시간을 즐긴다. 역시 일찍 시작하면 일찍 끝나니 오후의 여유를 즐길 수 있어 좋다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7398/14194720301_3259f19c3e_z.jpg&#34;  /&gt;
-&lt;strong&gt;Boots lined up.&lt;/strong&gt;  Hut 발코니에는 진흙탕을 헤쳐온 많은 등산화와 게이터들이 놓여져 있다. 조금이라도 말려야 내일 신고 걸을 수 있으니까.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2907/14194712181_225a205aa0_z.jpg&#34;  /&gt;
-&lt;strong&gt;1830 굿나잇.&lt;/strong&gt; Mt. Ossa와 진흙탕에 체력 소모가 컸는지 초저녁에 잠이 온다. 저녁도 일찍 먹고 19시도 안되 해산. 오늘은 정말 굵고 짧았던 하루였다. 굿나잇.&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 </description>
     </item>
     

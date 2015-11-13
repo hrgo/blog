@@ -3,7 +3,7 @@
   <channel>
       <title>Freedom on sookjin.com </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://sookjin.com/tags/freedom/index.xml</link>
+    <link>http://localhost:1313/tags/freedom/index.xml</link>
     <language>en-us</language>
     <author>Sookjin Hyun</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>내가 원하는 자유</title>
-      <link>http://sookjin.com/2015/04/i-want-freedom/</link>
+      <link>http://localhost:1313/2015/04/i-want-freedom/</link>
       <pubDate>Wed, 15 Apr 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2015/04/i-want-freedom/</guid>
+      <guid>http://localhost:1313/2015/04/i-want-freedom/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;내가 원하는 자유&lt;/h3&gt;
@@ -42,10 +42,10 @@
     
     <item>
       <title>두려움으로 부터의 자유인가, 선택의 자유인가.</title>
-      <link>http://sookjin.com/2014/08/free/</link>
+      <link>http://localhost:1313/2014/08/free/</link>
       <pubDate>Tue, 26 Aug 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2014/08/free/</guid>
+      <guid>http://localhost:1313/2014/08/free/</guid>
       <description>&lt;p&gt;내가 가진 가장 근본적인 두려움은 &amp;ldquo;잃는것&amp;rdquo; 에 대한 두려움이다. 나에게 소중한 것들. 건강. 가족. 이 두가지가 내게는 가장 소중한 것이었고 잃고 싶지 않은 것은 이것이 전부라고 생각했다.&lt;/p&gt;
 
 &lt;p&gt;나는 내가 무척 용감한 줄 알았다. 하지만 아주 큰 착각이었다. 정작 결정의 순간에 망설이고 있는 나를 발견했다. 어느새 나는 내가 가진 것을 잃는 것을 두려워하고 있었다. 내가 가진 집. 내가 가진 차. 내가 가진 직장. 내가 가진 돈.&lt;/p&gt;

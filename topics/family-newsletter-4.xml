@@ -3,7 +3,7 @@
   <channel>
       <title>Family Newsletter 4 on sookjin.com </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://sookjin.com/topics/family-newsletter-4/index.xml</link>
+    <link>http://localhost:1313/topics/family-newsletter-4/index.xml</link>
     <language>en-us</language>
     <author>Sookjin Hyun</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>[가족신문] 가족신문 4호 - 2014년 10월 발행</title>
-      <link>http://sookjin.com/2014/09/family-newletter-04/</link>
+      <link>http://localhost:1313/2014/09/family-newletter-04/</link>
       <pubDate>Tue, 30 Sep 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2014/09/family-newletter-04/</guid>
+      <guid>http://localhost:1313/2014/09/family-newletter-04/</guid>
       <description>&lt;p&gt;가족신문 4호
 &lt;a href=&#34;https://drive.google.com/open?id=0B8Nhtohq8bdbU2dxS00wVVdVZE0&amp;amp;authuser=0&#34; title=&#34;View&#34;&gt;원본 보기&lt;/a&gt;&lt;/p&gt;
 
