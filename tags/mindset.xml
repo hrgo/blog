@@ -3,7 +3,7 @@
   <channel>
       <title>Mindset on sookjin.com </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://sookjin.com/tags/mindset/index.xml</link>
+    <link>http://localhost:1313/tags/mindset/index.xml</link>
     <language>en-us</language>
     <author>Sookjin Hyun</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>말조심</title>
-      <link>http://sookjin.com/2014/05/watch-what-you-say/</link>
+      <link>http://localhost:1313/2014/05/watch-what-you-say/</link>
       <pubDate>Thu, 22 May 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2014/05/watch-what-you-say/</guid>
+      <guid>http://localhost:1313/2014/05/watch-what-you-say/</guid>
       <description>
 
 &lt;p&gt;내가 평소에 하는 말조심은 크게 두가지다.&lt;/p&gt;
@@ -69,10 +69,10 @@
     
     <item>
       <title>상처</title>
-      <link>http://sookjin.com/2014/03/how-to-be-strong/</link>
+      <link>http://localhost:1313/2014/03/how-to-be-strong/</link>
       <pubDate>Tue, 18 Mar 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2014/03/how-to-be-strong/</guid>
+      <guid>http://localhost:1313/2014/03/how-to-be-strong/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;왜 남의 말에 상처를 받을까?&lt;/h3&gt;
@@ -104,10 +104,10 @@
     
     <item>
       <title>생각 vs 감정</title>
-      <link>http://sookjin.com/2014/02/think-feel/</link>
+      <link>http://localhost:1313/2014/02/think-feel/</link>
       <pubDate>Sun, 16 Feb 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2014/02/think-feel/</guid>
+      <guid>http://localhost:1313/2014/02/think-feel/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;생각이 감정을 통제할 수 있는가?&lt;/h3&gt;
@@ -128,10 +128,10 @@
     
     <item>
       <title>계란으로 살 것인가 바위로 살 것인가</title>
-      <link>http://sookjin.com/2014/01/choose-to-be-strong/</link>
+      <link>http://localhost:1313/2014/01/choose-to-be-strong/</link>
       <pubDate>Fri, 17 Jan 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/2014/01/choose-to-be-strong/</guid>
+      <guid>http://localhost:1313/2014/01/choose-to-be-strong/</guid>
       <description>&lt;p&gt;오래전 나는 계란같이 약한 감정을 가진 사람이었고 수없이 깨지는 과정에서 생각했다. &lt;em&gt;계란으로 살면서 깨질 것인가. 바위로 살면서 깰 것인가.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;계란과 바위가 부딪히면 계란이 깨지듯 강한 것과 약한 것이 부딪히면 약한 것이 깨진다. 이건 어쩔 수 없는 진리다. 안부딪히면 제일 좋겠지만, 인생이란 어디 그런가. 여기 저기 부딪히면서 사는게 인생이다.&lt;/p&gt;
