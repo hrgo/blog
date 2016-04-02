@@ -3,18 +3,40 @@
   <channel>
       <title>Outdoors on sookjin.com </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/outdoor/index.xml</link>
+    <link>http://sookjin.com/outdoor/index.xml</link>
     <language>en-us</language>
     <author>Sookjin Hyun</author>
     
-    <updated>Mon, 06 Jul 2015 00:00:00 UTC</updated>
+    <updated>Mon, 20 Jul 2015 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Great Victorian Rail Trail Bike Touring </title>
+      <link>http://sookjin.com/2015/07/great-victorian-rail-trail/</link>
+      <pubDate>Mon, 20 Jul 2015 00:00:00 UTC</pubDate>
+      <author>Sookjin Hyun</author>
+      <guid>http://sookjin.com/2015/07/great-victorian-rail-trail/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;기간 : 18 Jul 2015 – 19 Jul 2015 (1박2일)&lt;/li&gt;
+&lt;li&gt;구간 : Tallarook - Alexandra (약 70km)&lt;/li&gt;
+&lt;li&gt;Alexandra Tourist Park &lt;a href=&#34;http://www.alexandratouristpark.com/&#34;&gt;http://www.alexandratouristpark.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;추운 날이었다. 가동안 내내 비가 오고 날씨가 험악해 자전거 출근을 멈춘지도 2주가 다되어 갔다.
+간만에 찾아온 햇님이었다. 개인적으로는 여행을 떠날 시기가 아니었지만 떠날 수 밖에 없는 날씨였다.
+하지만 이 날은 멜번에 18년만에 찾아온 가장 추운 날.&lt;/p&gt;
+
+&lt;p&gt;글보다는 사진. 사진보다는 영상.&lt;/p&gt;
+
+&lt;iframe width=&#34;640&#34; height=&#34;360&#34; src=&#34;https://www.youtube.com/embed/aq9C6hdzZ1M?rel=0&amp;amp;showinfo=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>침낭을 정리하는 가장 좋은 방법</title>
-      <link>http://localhost:1313/outdoor/how-to-pack-sleeping-bag/</link>
+      <link>http://sookjin.com/2015/07/how-to-pack-sleeping-bag/</link>
       <pubDate>Mon, 06 Jul 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://localhost:1313/outdoor/how-to-pack-sleeping-bag/</guid>
+      <guid>http://sookjin.com/2015/07/how-to-pack-sleeping-bag/</guid>
       <description>&lt;p&gt;텐트에서 아침에 일어나자마자 하는 일은 침낭을 정리하는 것. 작은 공간에서 여러가지 짐들과 뒤섞인 침낭을 정리하는일은 초보자에겐 그리 쉬운 일이 아니다. 물론 솜 침낭이나 여름용 침낭은 쉽게 부풀어 오르지 않기 때문에 접어서 돌돌 마는 것이 어렵지 않다. 이불처럼 착착 갠 후 돌돌 말면 침낭 주머니에도 쉽게 쏙 들어간다.&lt;/p&gt;
 
 &lt;p&gt;하지만 겨울철 구스다운 침낭은 이렇게 말아서 보관하는 것이 여간 힘든 일이 아니다. 잘 접히지도 않고 금방 부풀어 오르기 때문에 돌돌 마는 건 더 힘들기 때문이다. 말아서 주머니에 넣으려고 하면 보통 그 부피가 주머니보다 훨씬 커져서 왠만해선 주머니에 쉽게 들어가지 않는다. 침낭을 어떻게 정리해서 깔끔하게 주머니에 넣을까?&lt;/p&gt;
@@ -31,10 +53,10 @@
     
     <item>
       <title>Torquay 자전거 여행 #4 - 장비</title>
-      <link>http://localhost:1313/outdoor/torquay-4/</link>
+      <link>http://sookjin.com/2015/06/torquay-4/</link>
       <pubDate>Tue, 23 Jun 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://localhost:1313/outdoor/torquay-4/</guid>
+      <guid>http://sookjin.com/2015/06/torquay-4/</guid>
       <description>
 
 &lt;p&gt;자전거 여행은 백패킹에 비해 준비할게 훨씬 적다. 백패킹은 산에 한 번 들어가면 산행이 끝날 때까지 가지고 있는 장비와 식량만으로 버텨야 하지만 자전거 여행은 도로를 달리고 타운을 지나기 때문에 음식도 사먹을 수 있고 여의치 않다면 중간에 그만 두기도 쉽다.&lt;/p&gt;
@@ -95,10 +117,10 @@
     
     <item>
       <title>Torquay 자전거 여행 #3 - From Torquay</title>
-      <link>http://localhost:1313/outdoor/torquay-3/</link>
+      <link>http://sookjin.com/2015/06/torquay-3/</link>
       <pubDate>Mon, 22 Jun 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://localhost:1313/outdoor/torquay-3/</guid>
+      <guid>http://sookjin.com/2015/06/torquay-3/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;멜번으로&lt;/h3&gt;
@@ -201,34 +223,29 @@
     
     <item>
       <title>Torquay 자전거 여행 Overview</title>
-      <link>http://localhost:1313/outdoor/torquay-0/</link>
+      <link>http://sookjin.com/2015/06/torquay-0/</link>
       <pubDate>Sun, 21 Jun 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://localhost:1313/outdoor/torquay-0/</guid>
-      <description>
-
-&lt;ul&gt;
+      <guid>http://sookjin.com/2015/06/torquay-0/</guid>
+      <description>&lt;ul&gt;
 &lt;li&gt;기간 : 20 Jun 2015 – 21 Jun 2015 (1박2일)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../torquay-1&#34;&gt;Torquay 자전거 여행 #1 Federation Trail&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../torquay-2&#34;&gt;Torquay 자전거 여행 #2 토퀴로&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../torquay-3&#34;&gt;Torquay 자전거 여행 #3 토퀴에서 멜번으로&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../torquay-4&#34;&gt;Torquay 자전거 여행 #4 준비물&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;h3 id=&#34;toc_0&#34;&gt;숙박&lt;/h3&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;../torquay-4&#34;&gt;Torquay 자전거 여행 #4 준비물&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Torquay Caravan Park &lt;a href=&#34;http://www.torquaycaravanpark.com.au&#34;&gt;http://www.torquaycaravanpark.com.au&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Torquay Caravan Park &lt;a href=&#34;http://www.torquaycaravanpark.com.au&#34;&gt;http://www.torquaycaravanpark.com.au&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Torquay 자전거 여행 #2 - To Torquay</title>
-      <link>http://localhost:1313/outdoor/torquay-2/</link>
+      <link>http://sookjin.com/2015/06/torquay-2/</link>
       <pubDate>Sun, 21 Jun 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://localhost:1313/outdoor/torquay-2/</guid>
+      <guid>http://sookjin.com/2015/06/torquay-2/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;투어링의 시작&lt;/h3&gt;
@@ -337,10 +354,10 @@
     
     <item>
       <title>Torquay 자전거 여행 #1 - Federation Trail</title>
-      <link>http://localhost:1313/outdoor/torquay-1/</link>
+      <link>http://sookjin.com/2015/06/torquay-1/</link>
       <pubDate>Sun, 21 Jun 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://localhost:1313/outdoor/torquay-1/</guid>
+      <guid>http://sookjin.com/2015/06/torquay-1/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Federation Trail 떼라이딩&lt;/h3&gt;
@@ -396,10 +413,10 @@
     
     <item>
       <title>South Australia Road Trip 비용</title>
-      <link>http://localhost:1313/outdoor/sa-road-trip-cost/</link>
+      <link>http://sookjin.com/2015/06/sa-road-trip-cost/</link>
       <pubDate>Wed, 10 Jun 2015 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://localhost:1313/outdoor/sa-road-trip-cost/</guid>
+      <guid>http://sookjin.com/2015/06/sa-road-trip-cost/</guid>
       <description>
 
 &lt;ul&gt;
@@ -426,10 +443,10 @@
     
     <item>
       <title>Kinglake 자전거 여행 #2 이번 여행에서 배운 것</title>
-      <link>http://localhost:1313/outdoor/kinglake-bike-touring2/</link>
+      <link>http://sookjin.com/2014/11/kinglake-bike-touring2/</link>
       <pubDate>Sun, 23 Nov 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://localhost:1313/outdoor/kinglake-bike-touring2/</guid>
+      <guid>http://sookjin.com/2014/11/kinglake-bike-touring2/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;둘째날&lt;/h3&gt;
@@ -491,10 +508,10 @@
     
     <item>
       <title>Kinglake 자전거 여행 #1 멘붕의 오르막</title>
-      <link>http://localhost:1313/outdoor/kinglake-bike-touring1/</link>
+      <link>http://sookjin.com/2014/11/kinglake-bike-touring1/</link>
       <pubDate>Sun, 23 Nov 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://localhost:1313/outdoor/kinglake-bike-touring1/</guid>
+      <guid>http://sookjin.com/2014/11/kinglake-bike-touring1/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;나의 첫번째 자전거 여행&lt;/h3&gt;
@@ -599,10 +616,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>2014 Bupa Around the Bay #3 대회 당일</title>
-      <link>http://localhost:1313/outdoor/around-the-bay-02/</link>
+      <link>http://sookjin.com/2014/10/around-the-bay-02/</link>
       <pubDate>Wed, 22 Oct 2014 17:43:38 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://localhost:1313/outdoor/around-the-bay-02/</guid>
+      <guid>http://sookjin.com/2014/10/around-the-bay-02/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;출전의 날&lt;/h3&gt;
@@ -735,10 +752,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>2014 Bupa Around the Bay #2 준비물</title>
-      <link>http://localhost:1313/outdoor/around-the-bay-03/</link>
+      <link>http://sookjin.com/2014/10/around-the-bay-03/</link>
       <pubDate>Wed, 22 Oct 2014 07:43:38 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://localhost:1313/outdoor/around-the-bay-03/</guid>
+      <guid>http://sookjin.com/2014/10/around-the-bay-03/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;대회 당일 착용 의상&lt;/h3&gt;
@@ -790,10 +807,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>2014 Bupa Around the Bay #1 훈련</title>
-      <link>http://localhost:1313/outdoor/around-the-bay-01/</link>
+      <link>http://sookjin.com/2014/10/around-the-bay-01/</link>
       <pubDate>Tue, 21 Oct 2014 07:43:38 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://localhost:1313/outdoor/around-the-bay-01/</guid>
+      <guid>http://sookjin.com/2014/10/around-the-bay-01/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://farm4.staticflickr.com/3950/15514795667_a452e43f25_z.jpg&#34; alt=&#34;&#34; /&gt;
@@ -835,10 +852,10 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>백패킹 가서  뭘 먹을까?</title>
-      <link>http://localhost:1313/outdoor/overnight-hiking-meal-plan/</link>
+      <link>http://sookjin.com/2014/08/overnight-hiking-meal-plan/</link>
       <pubDate>Tue, 12 Aug 2014 18:18:59 &#43;1100</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://localhost:1313/outdoor/overnight-hiking-meal-plan/</guid>
+      <guid>http://sookjin.com/2014/08/overnight-hiking-meal-plan/</guid>
       <description>
 
 &lt;p&gt;Overnight Hiking, 백패킹을 처음 할 때 가장 고민했던 것이 바로 &lt;strong&gt;뭘 먹을까&lt;/strong&gt;였다. 처음 4일짜리 백패킹을 갈 때 무개념이었던 나는 점심으로 영양도 좋고 맛도 좋은 떡을 싸갔다. 맛있지만 참으로 무겁고 날이 더우면 금방 쉬어버리는 떡. 첫째날은 최고였지만 마지막날은 쉬기 일보직전의 떡을 먹어야 했다. 좋지 않은 선택이었다. 평소 도시락으로도 애용하는 삼각김밥도 역시 편하고 맛있지만 보관하기 힘들고 번거롭다는 단점이 있다. 장박 산행에 적합하지 않은 음식들이다.&lt;/p&gt;
@@ -919,17 +936,17 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
     
     <item>
       <title>지도계의 이단아 Open Street Map</title>
-      <link>http://localhost:1313/outdoor/google-map-cant-beat-osm/</link>
+      <link>http://sookjin.com/2014/07/google-map-cant-beat-osm/</link>
       <pubDate>Sat, 26 Jul 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://localhost:1313/outdoor/google-map-cant-beat-osm/</guid>
+      <guid>http://sookjin.com/2014/07/google-map-cant-beat-osm/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Google Map can&amp;rsquo;t beat OSM!&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;구글맵이 최고인줄 알고 살았는데 최근에 자전거 코스를 연구(?)하면서 OSM이 훨씬 뛰어나다는 것을 알게 되었다. &lt;a href=&#34;http://www.openstreetmap.org/&#34;&gt;OSM&lt;/a&gt;은 Wiki 스타일로 전세계 사용자의 자발적인 참여로 만들어진 지도인데 다른건 모르겠지만 지도가 훨씬 디테일하고 자전거 도로나 하이킹 코스 등은 단연 압권이다. 말 대신 스크린샷으로 비교.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/D5fPCfyuUJMIrLo8-iVZ78eeEOkyBYk7DMHzhw5yh845=w671-h594-no&#34; alt=&#34;&#34; /&gt;
 
-주차장은 물론 놀이터, 공원, 화장실등  저 디테일한 기차길과 바닷가의 walking trail 이 보이는가?산으로 가면 그 차이가 하늘과 땅 차이다.&lt;/p&gt;
+주차장은 물론 놀이터, 공원, 화장실등  저 디테일한 기차길과 바닷가의 walking trail 이 보이는가? 산으로 가면 그 차이가 하늘과 땅 차이다.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/t9TDnmHlEg1Yr9JV-RKI8wL94dfX_MjAwUwipC7PJRiH=w668-h595-no&#34; alt=&#34;&#34; /&gt;
 
@@ -937,121 +954,6 @@ Kinglake West에서 종호군의 물이 다 떨어져 물을 좀 얻으러 근�
 
 &lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-tSawn-g7y1A/U9ZBXboSS8I/AAAAAAAAaAw/ttn9QGFj04U/w362-h440-no/Image.png&#34; alt=&#34;&#34; /&gt;
 CycleMap을 선택하면 등고선까지 나온다.  난 이 등고선 지도를 보고 정말 감격스러웠다. 왠만한 TopoMap 저리가라다. Walking course를 계획하는데 크게 도움이 될 듯.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Around the Bay in 2 days</title>
-      <link>http://localhost:1313/outdoor/around-the-bay-in-2-days-summary/</link>
-      <pubDate>Wed, 16 Jul 2014 00:00:00 UTC</pubDate>
-      <author>Sookjin Hyun</author>
-      <guid>http://localhost:1313/outdoor/around-the-bay-in-2-days-summary/</guid>
-      <description>
-
-&lt;h3 id=&#34;toc_0&#34;&gt;1박2일 자전거 여행&lt;/h3&gt;
-
-&lt;p&gt;얼마 전 자전거 여행에 꽂힌 후 기회를 보고 있었는데 기회가 왔다. 최근에 조인한 자전거 모임에서 캠핑을 간다고 하길래 이왕이면 자전거를 타고 갈 수 있는 곳으로 가자고 건의. 자전거 모임이니 만큼 반응은 나쁘지 않았고 결국 장소는 Sorrento로 결정. 멜번에서 약 100km로 딱 좋은 거리다. 게다가 10월에 있을 Around the Bay의 코스이기도 하니 일석이조.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5482/14588407416_b3bff8036a_z.jpg&#34; width=&#34;640&#34; height=&#34;360&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;하이브리드 바이크를 타고 캠핑모드로 갈 것인지 로드 바이크를 타고 라이딩 모드로 갈 것인지 고민하다가 하이브리드를 타되 짐을 줄여 가볍게 가기로 했다. 당장 짐을 싣고 나섰다가 길에서 퍼진다면 일행들에게 피해를 줄 것이기 때문에 이번은 시험삼아 투어링의 맛만 보기로 하고, 자전거는 짐을 싣기 편하고 컨트롤이 좋은 하이브리드로, 대신 짐을 캠핑의 절반으로 줄여 기동성을 더하기로 했다. 그래도 뒤에 리어랙을 달고 양쪽에 페니어를 다니 자전거 무게는 20kg가 넘어갔다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm4.staticflickr.com/3859/14424816409_5482f48891_z.jpg&#34; width=&#34;640&#34; height=&#34;360&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;총 220km 거리의 코스를 주말 이틀동안 4개의 구간으로 나눠서 달렸고 궂은 날씨에도 불구하고 계획대로 일정을 잘 끝냈다. 7명의 낯선 남자들과 어울려 이틀동안 자전거만 탔다. 아니, 밤엔 백패커 뒷뜰에서 삼겹살을 구으며 건배도 외쳤다. 눈물 콧물 흘리며 220km를 달리고 나니 이제 두려울 게 없다. 비가 와도 눈이 와도 바람이 불어도 어떤 오르막도 어떤 내리막도 다 갈 수 있을 것만 같다. 경험치와 자신감이이 순식간에 급상승했다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5558/14440000030_40619d9349_z.jpg&#34; width=&#34;640&#34; height=&#34;360&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;지금 생각해보면 잠깐 미쳤었던 것 같다. 특히나 Geelong에서 Melbourne으로 돌아오던 그 70km 구간은 같이 갔던 일행들이 만류했던 구간이었다. 하지만 개인적으로는 미룰 이유가 전혀 없었다. 이미 시작했고, 반 이상을 왔고, 오늘이 아니면 언제라는 생각 뿐이었다. 초행길이었고 혼자서 달려야 한다는 것이 좀 걸렸지만 어디까지나 시간문제였다. 그래서 걱정 섞인 화이팅을 뒤로한채 혼자 페달을 밟았다. 미치지 않고서야 그 길을 딱 한번 쉬고 평속 25km 이상으로 끊임없이 달릴 수가 있었을까. 사람이 미치면 자기도 모르는 힘이 솟아나는가 보다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://farm4.staticflickr.com/3899/14440245357_7555bbbbe0_z.jpg&#34; width=&#34;640&#34; height=&#34;360&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;어쨋든 일년 반 자전거 역사에 소박한 마일스톤 하나를 놓았다. 나도 이제 자전거 좀 탄다. :P&lt;/p&gt;
-
-&lt;h3 id=&#34;toc_1&#34;&gt;느낀점&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;여럿이 타면 더 재밌다. 덜 힘들다.&lt;/li&gt;
-&lt;li&gt;구글 자전거 맵은 믿으면 안된다.&lt;/li&gt;
-&lt;li&gt;틈틈히 먹는게 에너지의 원천. 끊임없이 주섬주섬 먹어야 한다.&lt;/li&gt;
-&lt;li&gt;자전거는 역시 도로에서 타야 제맛이다.&lt;/li&gt;
-&lt;li&gt;주행속도 25km ~ 30km으로 쉬지않고 달려야 평균 속도 20km 나올까 말까다.&lt;/li&gt;
-&lt;li&gt;고속도로 갓길로 주행하는 것은 생각보다 안전하다.&lt;/li&gt;
-&lt;li&gt;멜번 서쪽의 특정 트레일을 제외한 주거지역의 자전거 도로는 정말 꽝이다.&lt;/li&gt;
-&lt;li&gt;역시 자전거는 반이상이 체력이다. 체력 70, 장비 20, 날씨 10.&lt;/li&gt;
-&lt;li&gt;자전거 무게는 주행 속도에 거의 영향을 미치지 않는다.&lt;/li&gt;
-&lt;li&gt;자전거는 편하면 장땡이다. 나의 하이브리드 자전거에 박수를.&lt;/li&gt;
-&lt;li&gt;사람이 많다고 빵꾸를 빨리 때우는 건 아니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;toc_2&#34;&gt;코스 리뷰&lt;/h2&gt;
-
-&lt;p&gt;아무도 Sorrento까지 자전거를 타고 가고 싶어하지 않았고, 아무도 Melbourne까지 자전거를 타고 오고 싶어하지 않았기 때문에 결국 우리는 코스를 4구간으로 나누어 자가용과 기차와 자전거를 조합하여 각자 재량껏 참가할 수 있도록 코스를 조절했다.&lt;/p&gt;
-
-&lt;h3 id=&#34;toc_3&#34;&gt;Part1. Home to Frankston (56.56km)&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/3r_yh_YVtZkyYrytMuGEJ9kyadL7b4Uqpsb8V_vMvmlG=w427-h361-no&#34; alt=&#34;&#34; /&gt;
-
-&lt;a href=&#34;http://connect.garmin.com/modern/activity/534609022&#34;&gt;자세히보기&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;0650출발 Dockland에서 0730 일행(Jason, 종민, Daniel) 조인.&lt;/li&gt;
-&lt;li&gt;0810 St. Kilda Pavilion 에서 재민 합류 후 다같이 출발.&lt;/li&gt;
-&lt;li&gt;토요일 오전이라 Beach Rd 라이딩 무리에 껴서 이동.&lt;/li&gt;
-&lt;li&gt;2번 휴식. 각각 30분 10분.&lt;/li&gt;
-&lt;li&gt;언덕 거의 없고 전체적으로 쉬운 코스.&lt;/li&gt;
-&lt;li&gt;바람이 밀어줘서 한결 쉽게 주행.&lt;/li&gt;
-&lt;li&gt;Modialoc 까지는 Beach Road 로 주행.&lt;/li&gt;
-&lt;li&gt;Modialoc에서 Carrum 까지 Station rd에 자전거 도로 잘 되어 있음.&lt;/li&gt;
-&lt;li&gt;그 이후 Frankston 까지는 갓길 주행. 차량 간섭 있음.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;toc_4&#34;&gt;Part 2. Frankston to Sorrento (51.24km)&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-lgDIzVREOJ0/U70aqEq0odI/AAAAAAAARVw/rZ_yQbeJEgI/w427-h361-no/Image.png&#34; alt=&#34;&#34; /&gt;
-
-&lt;a href=&#34;http://connect.garmin.com/modern/activity/534682044&#34;&gt;자세히보기&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;시작하자마자 악명 높은 오르막 있음. (olivers hill)&lt;/li&gt;
-&lt;li&gt;Mt Martha는 Sorrent 지나 Esplanade로 우회.&lt;/li&gt;
-&lt;li&gt;Esplanade 경치 멋지나 크고 작은 언덕이 있음.&lt;/li&gt;
-&lt;li&gt;비 오락가락 하다 그치고 해 남.&lt;/li&gt;
-&lt;li&gt;두번 휴식. Mt. Martha , Rosebud.&lt;/li&gt;
-&lt;li&gt;일부 구간 자전거 도로 없이 왕복 2차선으로 차량 간섭 있음.&lt;/li&gt;
-&lt;li&gt;전체적으로 Traffic이 거의 없고 자전거 도로가 잘 되어 있음.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;toc_5&#34;&gt;Part 3. Queenscliff to Geelong (34km)&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-o1-i9DSXRCI/U70auONev7I/AAAAAAAARV4/MrYSqN-s7ik/w427-h361-no/Image.png&#34; alt=&#34;&#34; /&gt;
-
-&lt;a href=&#34;http://connect.garmin.com/modern/activity/536228009&#34;&gt;자세히 보기&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ferry에서 내려서 B110 타고 이동&lt;/li&gt;
-&lt;li&gt;크고 작은 언덕이 몇개 있음&lt;/li&gt;
-&lt;li&gt;B110 차량 통행 많지 않음. 갓길 있고 노면 상태 나쁘지 않음.&lt;/li&gt;
-&lt;li&gt;Geelong 2.7km앞둔 지점에서 펑크 수리로 30분 소요.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;toc_6&#34;&gt;Part 4. Geelong to Home (71.27Km)&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-MbQxtMswwoM/U70avmC278I/AAAAAAAARWA/uSS-p7eOByM/w427-h361-no/Image.png&#34; alt=&#34;&#34; /&gt;
-
-&lt;a href=&#34;http://connect.garmin.com/modern/activity/536240518&#34;&gt;자세히 보기&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Google 자전거 맵은 가끔 비포장 도로를 알려주기도 함.&lt;/li&gt;
-&lt;li&gt;Old Melbouren Road Traffic 거의 없음.&lt;/li&gt;
-&lt;li&gt;Cocoroc 근처 도로 막혀있어서 M1 타고 이동.&lt;/li&gt;
-&lt;li&gt;M1 갓길이 훌륭해서 Werribie까지 쉽게 감.&lt;/li&gt;
-&lt;li&gt;Werribie에서 C109 도로는 Traffic이 많고 자전거 도로가 없음. 비추.&lt;/li&gt;
-&lt;li&gt;Hoppers Crossing 에서부터 Brooklyn까지 Federation Trail로 이동.&lt;/li&gt;
-&lt;li&gt;Brooklyn 에서 집까지도 자전거 도로 없음. 어두운데 빗길이라 더 위험.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
