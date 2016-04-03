@@ -1,13 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title> on Sookjin.com </title>
+      <title> on sookjin.com </title>
       <generator uri="https://gohugo.io">Hugo</generator>
     <link>http://sookjin.com/index.xml</link>
     <language>en-us</language>
     <author>Sookjin Hyun</author>
     
-    <updated>Wed, 01 Jan 2014 00:00:00 UTC</updated>
+    <updated>Thu, 01 Jan 2015 00:00:00 UTC</updated>
+    
+    <item>
+      <title>For Family</title>
+      <link>http://sookjin.com/family-toc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 UTC</pubDate>
+      <author>Sookjin Hyun</author>
+      <guid>http://sookjin.com/family-toc/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Family News Letter&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/tags/family-news-letter&#34;&gt;All&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/family-newsletter-5/&#34;&gt;Family News letter $5 | 2015년 1월 ~ 4월 &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/family-newsletter-4/&#34;&gt;Family News Letter #4 | 2014년 7월 ~ 9월&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/family-newsletter-3/&#34;&gt;Family News Letter #3 | 2014년 4월 ~ 6월&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/family-newsletter-2/&#34;&gt;Family News Letter #2 | 2014년 1월 ~ 3월&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/family-newsletter-1/&#34;&gt;Family News Letter #1 | 2013년 1월 ~ 12월 &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Family Event&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/kj-2015/&#34;&gt;2015 경주 가족여행&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/europe-2015&#34;&gt;2015 현자매 송자매 유럽 - 작성중&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/father-2014/&#34;&gt;2014 아빠 호주 방문 - 작성중&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/nz-south-2013&#34;&gt;2013 뉴질랜드 남섬 캠퍼카 여행&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/nz-2013/&#34;&gt;2013 뉴질랜드 북섬&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/guam-2012/&#34;&gt;2012 괌&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/jeju-2012/&#34;&gt;2012 제주도&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/thailand-2011/&#34;&gt;2011 태국&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2010 송자매 멜번 - 작성 예정&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Family History&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/2013/05/family-video/&#34;&gt;Family Video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -43,15 +84,16 @@
 &lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-Jbs6hvcXMkI/VTpMyJ0-VRI/AAAAAAABLTU/l4YOHmKq43c/w408-h174-no/4194982452_b7a165a2ba_o.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;About me&lt;/h2&gt;
+&lt;h3 id=&#34;toc_0&#34;&gt;About me&lt;/h3&gt;
 
-&lt;p&gt;I am a &lt;strong&gt;software developer&lt;/strong&gt;, mostly build enterprise solutions for companies to makes their business easier, productive and successful. Specialized in CRM, Data Integration. Sprucing up web skills in my leisure.&lt;/p&gt;
+&lt;!--I am an IT professional with experience in enterprise solution, specialized in CRM, data integration and reporting system. I mostly work for companies to make their work easy and productive, but also have passion for web development, enjoy sprucing up web skills in my leisure.--&gt;
 
-&lt;p&gt;As a &lt;strong&gt;minimalists&lt;/strong&gt;, I am living my &lt;a href=&#34;/tags/minimalist&#34;&gt;simple lifestyle&lt;/a&gt;. I believe in &lt;em&gt;Owning less, Living more&lt;/em&gt;, &lt;em&gt;Clarity&lt;/em&gt; is my key to be mentally strong. I am very introvert, enjoying quiet time to &lt;a href=&#34;/categories/miscellany/&#34;&gt;think and write&lt;/a&gt;, whereas very active, enjoying nature and &lt;a href=&#34;/outdoor-lifestyle&#34;&gt;outdoor lifestyle&lt;/a&gt;; &lt;a href=&#34;/tags/bike&#34;&gt;bike&lt;/a&gt;, &lt;a href=&#34;/tags/bushwalking&#34;&gt;bushwalking&lt;/a&gt;, &lt;a href=&#34;/tags/camping&#34;&gt;camping&lt;/a&gt; etc. I am learner an adventurer, enjoy challenges make me feel alive.&lt;/p&gt;
+&lt;p&gt;A lover of silence, enjoying quiet time to read, think and write, whereas very active and passionate about nature and outdoor lifestyle.&lt;br /&gt;
+As a minimalist, I am living a simple lifestyle. I believe in &lt;em&gt;Owning less, Living more&lt;/em&gt;, and &lt;em&gt;Clarity&lt;/em&gt; is my key to be mentally strong.&lt;/p&gt;
 
 &lt;h3 id=&#34;toc_1&#34;&gt;About site&lt;/h3&gt;
 
-&lt;p&gt;This is my personal web site, there is no menu here, meaning you can&amp;rsquo;t browse the archive by any chance,it can be found only with links provided. And all the contents except this page in this site are in Korean. This site is powered by &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is my personal web site, there is no menu here, meaning you can&amp;rsquo;t browse the archive by any chance, it can be found only with link provided. And all the contents except this page in this site are in Korean. This site is powered by &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;toc_2&#34;&gt;Contact&lt;/h3&gt;
 
@@ -67,24 +109,29 @@
 
  [Immigrant](/topics/immigration)--&gt;
 
-&lt;p&gt;&lt;a href=https://plus.google.com/u/0/+KateSHyun&gt;&lt;i class=&#34;fa fa-google-plus-square fa-3x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=https://plus.google.com/u/0/+KateSHyun target=&#34;_blank&#34;&gt;&lt;i class=&#34;fa fa-google-plus-square fa-3x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Outdoor Lifestyle</title>
-      <link>http://sookjin.com/outdoor-lifestyle/</link>
+      <title>Outdoors Projects</title>
+      <link>http://sookjin.com/outdoor-toc/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 UTC</pubDate>
       <author>Sookjin Hyun</author>
-      <guid>http://sookjin.com/outdoor-lifestyle/</guid>
+      <guid>http://sookjin.com/outdoor-toc/</guid>
       <description>&lt;ul&gt;
+&lt;li&gt;Australia Roadtrip 2015&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/torquay-2015/&#34;&gt;Torquay Bike Touring 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kangaroo Island 2015&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/topics/around-the-bay-2014&#34;&gt;Bupa Around the Bay 2014&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/2014/03/around-the-prom-in-a-day/&#34;&gt;Around the Prom in a Day 2014&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Tasmania Road Trip 2014&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/topics/overland-track&#34;&gt;Overland Track&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/tasmania-roadtrip-2014/&#34;&gt;Tasmania Road Trip 2014&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/overland-track&#34;&gt;Overland Track 2013&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/topics/great-ocean-walk&#34;&gt;Great Ocean Walk 2012&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/topics/snowy-river-np&#34;&gt;Snowy River National Park 2013&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Wilsons Prom Pack Carry 2013&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/topics/grampians-weekend&#34;&gt;Grampians Weekend&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Victoria Great Southern Tour 2011&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
