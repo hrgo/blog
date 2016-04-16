@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://sookjin.com/</loc>
-    <lastmod>2016-04-11T00:00:00+00:00</lastmod>
+    <lastmod>2016-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sookjin.com/2016/04/woraksan/</loc>
+    <lastmod>2016-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,12 +88,12 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2015/06/torquay-2/</loc>
+    <loc>http://sookjin.com/2015/06/torquay-1/</loc>
     <lastmod>2015-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/2015/06/torquay-1/</loc>
+    <loc>http://sookjin.com/2015/06/torquay-2/</loc>
     <lastmod>2015-06-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -178,11 +183,6 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2015/02/kyungju-10/</loc>
-    <lastmod>2015-02-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://sookjin.com/2015/02/kyungju-09/</loc>
     <lastmod>2015-02-26T00:00:00+00:00</lastmod>
   </url>
@@ -193,7 +193,12 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2015/02/kyungju-07/</loc>
+    <loc>http://sookjin.com/2015/02/kyungju-10/</loc>
+    <lastmod>2015-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sookjin.com/2015/02/kyungju-04/</loc>
     <lastmod>2015-02-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -203,7 +208,7 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2015/02/kyungju-04/</loc>
+    <loc>http://sookjin.com/2015/02/kyungju-07/</loc>
     <lastmod>2015-02-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -263,12 +268,12 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2014/11/kinglake-bike-touring1/</loc>
+    <loc>http://sookjin.com/2014/11/kinglake-bike-touring2/</loc>
     <lastmod>2014-11-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/2014/11/kinglake-bike-touring2/</loc>
+    <loc>http://sookjin.com/2014/11/kinglake-bike-touring1/</loc>
     <lastmod>2014-11-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -623,7 +628,7 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2013/09/brisbane-ranges-pack-carry-1/</loc>
+    <loc>http://sookjin.com/2013/09/brisbane-ranges-2/</loc>
     <lastmod>2013-09-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -633,7 +638,7 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2013/09/brisbane-ranges-3/</loc>
+    <loc>http://sookjin.com/2013/09/brisbane-ranges-pack-carry-1/</loc>
     <lastmod>2013-09-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -643,7 +648,7 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2013/09/brisbane-ranges-2/</loc>
+    <loc>http://sookjin.com/2013/09/brisbane-ranges-3/</loc>
     <lastmod>2013-09-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -933,12 +938,12 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2013/01/nz-south-day1-pukaki/</loc>
+    <loc>http://sookjin.com/2013/01/nz-south-day1-christchurch-apollo-campervan/</loc>
     <lastmod>2013-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/2013/01/nz-south-day1-christchurch-apollo-campervan/</loc>
+    <loc>http://sookjin.com/2013/01/nz-south-day1-pukaki/</loc>
     <lastmod>2013-01-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -958,12 +963,12 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2013/01/nz-north-day5-leaving-aukland/</loc>
+    <loc>http://sookjin.com/2013/01/nz-north-day5-tauranga/</loc>
     <lastmod>2013-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/2013/01/nz-north-day5-tauranga/</loc>
+    <loc>http://sookjin.com/2013/01/nz-north-day5-leaving-aukland/</loc>
     <lastmod>2013-01-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -1163,11 +1168,6 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2012/04/guam-day3-2/</loc>
-    <lastmod>2012-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://sookjin.com/2012/04/guam-day3-4/</loc>
     <lastmod>2012-04-25T00:00:00+00:00</lastmod>
   </url>
@@ -1178,12 +1178,17 @@
   </url>
   
   <url>
+    <loc>http://sookjin.com/2012/04/guam-day3-6/</loc>
+    <lastmod>2012-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sookjin.com/2012/04/guam-day3-3/</loc>
     <lastmod>2012-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/2012/04/guam-day3-6/</loc>
+    <loc>http://sookjin.com/2012/04/guam-day3-2/</loc>
     <lastmod>2012-04-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -1193,12 +1198,12 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2012/04/guam-day2-1/</loc>
+    <loc>http://sookjin.com/2012/04/guam-day2-2/</loc>
     <lastmod>2012-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/2012/04/guam-day2-2/</loc>
+    <loc>http://sookjin.com/2012/04/guam-day2-1/</loc>
     <lastmod>2012-04-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -1218,12 +1223,12 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2012/04/guam-day2-7/</loc>
+    <loc>http://sookjin.com/2012/04/guam-day2-5/</loc>
     <lastmod>2012-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/2012/04/guam-day2-5/</loc>
+    <loc>http://sookjin.com/2012/04/guam-day2-7/</loc>
     <lastmod>2012-04-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -1643,12 +1648,12 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2009/09/port-douglas-06/</loc>
+    <loc>http://sookjin.com/2009/09/port-douglas-05/</loc>
     <lastmod>2009-09-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/2009/09/port-douglas-05/</loc>
+    <loc>http://sookjin.com/2009/09/port-douglas-06/</loc>
     <lastmod>2009-09-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -1698,6 +1703,11 @@
   </url>
   
   <url>
+    <loc>http://sookjin.com/2008/02/kuala-lumpur-day3/</loc>
+    <lastmod>2008-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sookjin.com/2008/02/kuala-lumpur-day4/</loc>
     <lastmod>2008-02-04T00:00:00+00:00</lastmod>
   </url>
@@ -1705,16 +1715,6 @@
   <url>
     <loc>http://sookjin.com/2008/02/kuala-lumpur-overview/</loc>
     <lastmod>2008-02-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://sookjin.com/2008/02/kuala-lumpur-day3/</loc>
-    <lastmod>2008-02-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://sookjin.com/2008/02/sgp-day2/</loc>
-    <lastmod>2008-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1728,17 +1728,22 @@
   </url>
   
   <url>
+    <loc>http://sookjin.com/2008/02/sgp-day2/</loc>
+    <lastmod>2008-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sookjin.com/2008/02/sgp-day4/</loc>
     <lastmod>2008-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/2008/02/sgp-overview/</loc>
+    <loc>http://sookjin.com/2008/02/sgp-day5/</loc>
     <lastmod>2008-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/2008/02/sgp-day5/</loc>
+    <loc>http://sookjin.com/2008/02/sgp-overview/</loc>
     <lastmod>2008-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1813,12 +1818,12 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2005/12/2005-sgp-day4/</loc>
+    <loc>http://sookjin.com/2005/12/2005-sgp-overview/</loc>
     <lastmod>2005-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/2005/12/2005-sgp-overview/</loc>
+    <loc>http://sookjin.com/2005/12/2005-sgp-day4/</loc>
     <lastmod>2005-12-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -1868,12 +1873,12 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2004/05/2004-thai-03/</loc>
+    <loc>http://sookjin.com/2004/05/2004-thai-05/</loc>
     <lastmod>2004-05-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/2004/05/2004-thai-05/</loc>
+    <loc>http://sookjin.com/2004/05/2004-thai-03/</loc>
     <lastmod>2004-05-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -1893,12 +1898,12 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2002/09/2002-thai-04/</loc>
+    <loc>http://sookjin.com/2002/09/2002-thai-05/</loc>
     <lastmod>2002-09-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sookjin.com/2002/09/2002-thai-05/</loc>
+    <loc>http://sookjin.com/2002/09/2002-thai-04/</loc>
     <lastmod>2002-09-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -1918,17 +1923,17 @@
   </url>
   
   <url>
-    <loc>http://sookjin.com/2002/02/2002-japan-04-nara/</loc>
-    <lastmod>2002-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://sookjin.com/2002/02/2002-japan-02/</loc>
     <lastmod>2002-02-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://sookjin.com/2002/02/2002-japan-03-kyoto/</loc>
+    <lastmod>2002-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sookjin.com/2002/02/2002-japan-04-nara/</loc>
     <lastmod>2002-02-25T00:00:00+00:00</lastmod>
   </url>
   
