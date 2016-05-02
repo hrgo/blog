@@ -193,17 +193,12 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/temp/sa-road-trip-01/</loc>
-    <lastmod>2015-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://hrgo.github.io/blog/temp/sa-road-trip-03/</loc>
     <lastmod>2015-06-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/temp/sa-road-trip-02/</loc>
+    <loc>http://hrgo.github.io/blog/temp/sa-road-trip-01/</loc>
     <lastmod>2015-06-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -213,12 +208,17 @@
   </url>
   
   <url>
+    <loc>http://hrgo.github.io/blog/temp/sa-road-trip-cost/</loc>
+    <lastmod>2015-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hrgo.github.io/blog/temp/sa-road-trip-05/</loc>
     <lastmod>2015-06-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/temp/sa-road-trip-cost/</loc>
+    <loc>http://hrgo.github.io/blog/temp/sa-road-trip-02/</loc>
     <lastmod>2015-06-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -288,17 +288,17 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2015/02/kyungju-09/</loc>
-    <lastmod>2015-02-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://hrgo.github.io/blog/2015/02/kyungju-11/</loc>
     <lastmod>2015-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2015/02/kyungju-08/</loc>
+    <loc>http://hrgo.github.io/blog/2015/02/kyungju-09/</loc>
+    <lastmod>2015-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/blog/2015/02/kyungju-04/</loc>
     <lastmod>2015-02-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -308,7 +308,7 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2015/02/kyungju-04/</loc>
+    <loc>http://hrgo.github.io/blog/2015/02/kyungju-08/</loc>
     <lastmod>2015-02-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -323,17 +323,17 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2015/02/kyungju-02/</loc>
-    <lastmod>2015-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://hrgo.github.io/blog/2015/02/kyungju-05/</loc>
     <lastmod>2015-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://hrgo.github.io/blog/2015/02/kyungju-06/</loc>
+    <lastmod>2015-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/blog/2015/02/kyungju-02/</loc>
     <lastmod>2015-02-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -368,12 +368,12 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2014/11/kinglake-bike-touring1/</loc>
+    <loc>http://hrgo.github.io/blog/2014/11/kinglake-bike-touring2/</loc>
     <lastmod>2014-11-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2014/11/kinglake-bike-touring2/</loc>
+    <loc>http://hrgo.github.io/blog/2014/11/kinglake-bike-touring1/</loc>
     <lastmod>2014-11-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -618,12 +618,12 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2014/01/tasmania-road-trip-day2-1/</loc>
+    <loc>http://hrgo.github.io/blog/2014/01/tasmania-road-trip-day2-2/</loc>
     <lastmod>2014-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2014/01/tasmania-road-trip-day2-2/</loc>
+    <loc>http://hrgo.github.io/blog/2014/01/tasmania-road-trip-day2-1/</loc>
     <lastmod>2014-01-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -723,12 +723,12 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2013/12/feathertop-02/</loc>
+    <loc>http://hrgo.github.io/blog/2013/12/feathertop-03/</loc>
     <lastmod>2013-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2013/12/feathertop-03/</loc>
+    <loc>http://hrgo.github.io/blog/2013/12/feathertop-02/</loc>
     <lastmod>2013-12-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -738,12 +738,12 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2013/09/brisbane-ranges-3/</loc>
+    <loc>http://hrgo.github.io/blog/2013/09/brisbane-ranges-pack-carry-2/</loc>
     <lastmod>2013-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2013/09/brisbane-ranges-pack-carry-1/</loc>
+    <loc>http://hrgo.github.io/blog/2013/09/brisbane-ranges-3/</loc>
     <lastmod>2013-09-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -753,7 +753,7 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2013/09/brisbane-ranges-pack-carry-2/</loc>
+    <loc>http://hrgo.github.io/blog/2013/09/brisbane-ranges-pack-carry-1/</loc>
     <lastmod>2013-09-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -1333,18 +1333,13 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2012/04/guam-day3-7/</loc>
-    <lastmod>2012-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://hrgo.github.io/blog/2012/04/guam-day3-6/</loc>
     <lastmod>2012-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2012/04/guam-day2-2/</loc>
-    <lastmod>2012-04-24T00:00:00+00:00</lastmod>
+    <loc>http://hrgo.github.io/blog/2012/04/guam-day3-7/</loc>
+    <lastmod>2012-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1353,7 +1348,7 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2012/04/guam-day2-3/</loc>
+    <loc>http://hrgo.github.io/blog/2012/04/guam-day2-2/</loc>
     <lastmod>2012-04-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -1368,7 +1363,7 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2012/04/guam-day2-5/</loc>
+    <loc>http://hrgo.github.io/blog/2012/04/guam-day2-3/</loc>
     <lastmod>2012-04-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -1379,6 +1374,11 @@
   
   <url>
     <loc>http://hrgo.github.io/blog/2012/04/guam-day2-8/</loc>
+    <lastmod>2012-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/blog/2012/04/guam-day2-5/</loc>
     <lastmod>2012-04-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -1443,12 +1443,12 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2012/01/2012-tasmania-03/</loc>
+    <loc>http://hrgo.github.io/blog/2012/01/2012-tasmania-04/</loc>
     <lastmod>2012-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2012/01/2012-tasmania-04/</loc>
+    <loc>http://hrgo.github.io/blog/2012/01/2012-tasmania-03/</loc>
     <lastmod>2012-01-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -1478,12 +1478,12 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2012/01/jeju-day5-2/</loc>
+    <loc>http://hrgo.github.io/blog/2012/01/jeju-day5-3/</loc>
     <lastmod>2012-01-09T08:00:00+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2012/01/jeju-day5-3/</loc>
+    <loc>http://hrgo.github.io/blog/2012/01/jeju-day5-2/</loc>
     <lastmod>2012-01-09T08:00:00+10:00</lastmod>
   </url>
   
@@ -1793,12 +1793,12 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2009/09/port-douglas-05/</loc>
+    <loc>http://hrgo.github.io/blog/2009/09/port-douglas-06/</loc>
     <lastmod>2009-09-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2009/09/port-douglas-06/</loc>
+    <loc>http://hrgo.github.io/blog/2009/09/port-douglas-05/</loc>
     <lastmod>2009-09-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -1848,11 +1848,6 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2008/02/kuala-lumpur-day3/</loc>
-    <lastmod>2008-02-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://hrgo.github.io/blog/2008/02/kuala-lumpur-overview/</loc>
     <lastmod>2008-02-04T00:00:00+00:00</lastmod>
   </url>
@@ -1863,17 +1858,17 @@
   </url>
   
   <url>
+    <loc>http://hrgo.github.io/blog/2008/02/kuala-lumpur-day3/</loc>
+    <lastmod>2008-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hrgo.github.io/blog/2008/02/sgp-day1/</loc>
     <lastmod>2008-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2008/02/sgp-day4/</loc>
-    <lastmod>2008-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hrgo.github.io/blog/2008/02/sgp-overview/</loc>
+    <loc>http://hrgo.github.io/blog/2008/02/sgp-day2/</loc>
     <lastmod>2008-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1883,12 +1878,17 @@
   </url>
   
   <url>
+    <loc>http://hrgo.github.io/blog/2008/02/sgp-day4/</loc>
+    <lastmod>2008-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hrgo.github.io/blog/2008/02/sgp-day5/</loc>
     <lastmod>2008-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2008/02/sgp-day2/</loc>
+    <loc>http://hrgo.github.io/blog/2008/02/sgp-overview/</loc>
     <lastmod>2008-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1963,17 +1963,17 @@
   </url>
   
   <url>
+    <loc>http://hrgo.github.io/blog/2005/12/2005-sgp-day3/</loc>
+    <lastmod>2005-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hrgo.github.io/blog/2005/12/2005-sgp-day2/</loc>
     <lastmod>2005-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://hrgo.github.io/blog/2005/12/2005-sgp-overview/</loc>
-    <lastmod>2005-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hrgo.github.io/blog/2005/12/2005-sgp-day3/</loc>
     <lastmod>2005-12-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -2013,12 +2013,12 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2004/05/2004-thai-04/</loc>
+    <loc>http://hrgo.github.io/blog/2004/05/2004-thai-03/</loc>
     <lastmod>2004-05-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2004/05/2004-thai-03/</loc>
+    <loc>http://hrgo.github.io/blog/2004/05/2004-thai-04/</loc>
     <lastmod>2004-05-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -2038,17 +2038,17 @@
   </url>
   
   <url>
+    <loc>http://hrgo.github.io/blog/2002/09/2002-thai-02/</loc>
+    <lastmod>2002-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hrgo.github.io/blog/2002/09/2002-thai-04/</loc>
     <lastmod>2002-09-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://hrgo.github.io/blog/2002/09/2002-thai-05/</loc>
-    <lastmod>2002-09-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hrgo.github.io/blog/2002/09/2002-thai-02/</loc>
     <lastmod>2002-09-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -2068,7 +2068,7 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2002/02/2002-japan-04-nara/</loc>
+    <loc>http://hrgo.github.io/blog/2002/02/2002-japan-05/</loc>
     <lastmod>2002-02-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -2078,7 +2078,7 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2002/02/2002-japan-05/</loc>
+    <loc>http://hrgo.github.io/blog/2002/02/2002-japan-04-nara/</loc>
     <lastmod>2002-02-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -2088,22 +2088,22 @@
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2001/08/china-day3/</loc>
-    <lastmod>2001-08-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://hrgo.github.io/blog/2001/08/china-day2/</loc>
     <lastmod>2001-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hrgo.github.io/blog/2001/08/china-overview/</loc>
+    <loc>http://hrgo.github.io/blog/2001/08/china-day3/</loc>
     <lastmod>2001-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://hrgo.github.io/blog/2001/08/china-day4/</loc>
+    <lastmod>2001-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrgo.github.io/blog/2001/08/china-overview/</loc>
     <lastmod>2001-08-12T00:00:00+00:00</lastmod>
   </url>
   
