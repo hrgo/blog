@@ -3,7 +3,7 @@
   <channel>
       <title>Geocaching on Simply Me </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://hrgo.github.io/blog/tags/geocaching/index.xml</link>
+    <link>http://localhost:1313/tags/geocaching/index.xml</link>
     <language>en-us</language>
     <author>Sookjin</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Geocaching - Another Great Cache</title>
-      <link>http://hrgo.github.io/blog/2012/01/geocaching-another-greate-cache/</link>
+      <link>http://localhost:1313/2012/01/geocaching-another-greate-cache/</link>
       <pubDate>Fri, 20 Jan 2012 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2012/01/geocaching-another-greate-cache/</guid>
+      <guid>http://localhost:1313/2012/01/geocaching-another-greate-cache/</guid>
       <description>&lt;p&gt;훈장 40개짜리 아래 캐쉬에 뭍혀졌지만 이 캐쉬도 나름 아주 기발한 캐쉬였다. 역시 Premium Only Cache.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7143/6728775921_aabe43d19f.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -42,10 +42,10 @@
     
     <item>
       <title>Geocaching - Best Cache Ever</title>
-      <link>http://hrgo.github.io/blog/2012/01/geocaching-best-cache-ever/</link>
+      <link>http://localhost:1313/2012/01/geocaching-best-cache-ever/</link>
       <pubDate>Thu, 19 Jan 2012 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2012/01/geocaching-best-cache-ever/</guid>
+      <guid>http://localhost:1313/2012/01/geocaching-best-cache-ever/</guid>
       <description>&lt;p&gt;이 Cache로 말할 것 같으면, Favorite를 무려 40여개나 받은 인기 만점의 Premium Member Only Cache.
 &lt;img src=&#34;http://farm8.staticflickr.com/7154/6725147535_8da46d5d00.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
@@ -72,10 +72,10 @@ GZ로 가니 이런 나무. 나무는 땅을 파야할지 가지를 봐야할지
     
     <item>
       <title>Geocaching - Hobson&#39;s Choice</title>
-      <link>http://hrgo.github.io/blog/2011/11/geocaching-hobsons-choice/</link>
+      <link>http://localhost:1313/2011/11/geocaching-hobsons-choice/</link>
       <pubDate>Sat, 05 Nov 2011 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2011/11/geocaching-hobsons-choice/</guid>
+      <guid>http://localhost:1313/2011/11/geocaching-hobsons-choice/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://coord.info/GCB91C&#34;&gt;http://coord.info/GCB91C&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;생각지도 못했던 곳에서 만난 보물같았던 캐쉬.&lt;/p&gt;

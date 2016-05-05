@@ -3,7 +3,7 @@
   <channel>
       <title>Tasmania 2012 on Simply Me </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://hrgo.github.io/blog/topics/tasmania-2012/index.xml</link>
+    <link>http://localhost:1313/topics/tasmania-2012/index.xml</link>
     <language>en-us</language>
     <author>Sookjin</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Tasmania #0 Overview</title>
-      <link>http://hrgo.github.io/blog/2012/01/2012-tasmania-01/</link>
+      <link>http://localhost:1313/2012/01/2012-tasmania-01/</link>
       <pubDate>Wed, 25 Jan 2012 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2012/01/2012-tasmania-01/</guid>
+      <guid>http://localhost:1313/2012/01/2012-tasmania-01/</guid>
       <description>
 
 &lt;h4 id=&#34;toc_0&#34;&gt;0. Overview&lt;/h4&gt;
@@ -61,10 +61,10 @@ Total    $907.34&lt;/li&gt;
     
     <item>
       <title>Tasmania #1 Day 1 Launceston</title>
-      <link>http://hrgo.github.io/blog/2012/01/2012-tasmania-02/</link>
+      <link>http://localhost:1313/2012/01/2012-tasmania-02/</link>
       <pubDate>Wed, 25 Jan 2012 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2012/01/2012-tasmania-02/</guid>
+      <guid>http://localhost:1313/2012/01/2012-tasmania-02/</guid>
       <description>&lt;p&gt;벼르고 벼르던 타즈메니아.
 호주 입국 스탬프가 채 마르기도 전인, 한국 다녀온 그 다음 주말.
 멜번패밀리를 꼬셔 타즈메니아 티켓을 끊는다.&lt;/p&gt;
@@ -90,10 +90,10 @@ Total    $907.34&lt;/li&gt;
     
     <item>
       <title>Tasmania #2 Day 2 Cataract Gorge | Beer Festival </title>
-      <link>http://hrgo.github.io/blog/2012/01/2012-tasmania-03/</link>
+      <link>http://localhost:1313/2012/01/2012-tasmania-03/</link>
       <pubDate>Wed, 25 Jan 2012 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2012/01/2012-tasmania-03/</guid>
+      <guid>http://localhost:1313/2012/01/2012-tasmania-03/</guid>
       <description>
 
 &lt;p&gt;해가 중천에 뜬 공구시 눈을 떠 커튼을 열어재끼며 그림같은 풍경으로 영화처럼 하루를 시작한다.&lt;/p&gt;
@@ -274,10 +274,10 @@ Cataract Gorge를 완전 정복하고 집에 돌아와 간단한 저녁식사. B
     
     <item>
       <title>Tasmania #3 Day 3 Cradle Mt.</title>
-      <link>http://hrgo.github.io/blog/2012/01/2012-tasmania-04/</link>
+      <link>http://localhost:1313/2012/01/2012-tasmania-04/</link>
       <pubDate>Wed, 25 Jan 2012 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2012/01/2012-tasmania-04/</guid>
+      <guid>http://localhost:1313/2012/01/2012-tasmania-04/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Cradle Mt.&lt;/h3&gt;

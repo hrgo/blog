@@ -3,7 +3,7 @@
   <channel>
       <title>Hidden on Simply Me </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://hrgo.github.io/blog/categories/hidden/index.xml</link>
+    <link>http://localhost:1313/categories/hidden/index.xml</link>
     <language>en-us</language>
     <author>Sookjin</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>호주 이민 #1 호주행을 결정하다</title>
-      <link>http://hrgo.github.io/blog/2014/03/move-to-australia-1/</link>
+      <link>http://localhost:1313/2014/03/move-to-australia-1/</link>
       <pubDate>Tue, 25 Mar 2014 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2014/03/move-to-australia-1/</guid>
+      <guid>http://localhost:1313/2014/03/move-to-australia-1/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;호주로의 이주를 결정하다.&lt;/h3&gt;
@@ -35,10 +35,10 @@
     
     <item>
       <title>호주 이민 #2 그 준비 과정</title>
-      <link>http://hrgo.github.io/blog/2014/03/move-to-australia-2/</link>
+      <link>http://localhost:1313/2014/03/move-to-australia-2/</link>
       <pubDate>Tue, 25 Mar 2014 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2014/03/move-to-australia-2/</guid>
+      <guid>http://localhost:1313/2014/03/move-to-australia-2/</guid>
       <description>
 
 &lt;p&gt;한 번 내린 결정은 무척 빠르게 진행하는 것이 내 스타일이다. 호주 영주비자 프로젝트를 하기로 결심하고 당장 그 다음날 IELTS 시험을 등록하고 이민 세미나에 참석, 기술이민에 대한 정보를 모으기 시작했다. 초기에 이민 대행사를 몇군데 알아봤는데 최소 600만원에서 800만원 정도가 필요했다. 그럴만한 돈을 쓸 상황이 아니었던 나는 결국 비자를 혼자 준비하기로 했다.&lt;/p&gt;
@@ -91,10 +91,10 @@
     
     <item>
       <title>호주 이민 #3 아름다운 호주 라이프</title>
-      <link>http://hrgo.github.io/blog/2014/03/move-to-australia-3/</link>
+      <link>http://localhost:1313/2014/03/move-to-australia-3/</link>
       <pubDate>Tue, 25 Mar 2014 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2014/03/move-to-australia-3/</guid>
+      <guid>http://localhost:1313/2014/03/move-to-australia-3/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;호주 도착&lt;/h3&gt;

@@ -3,7 +3,7 @@
   <channel>
       <title>Roadtrip 2015 on Simply Me </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://hrgo.github.io/blog/topics/roadtrip-2015/index.xml</link>
+    <link>http://localhost:1313/topics/roadtrip-2015/index.xml</link>
     <language>en-us</language>
     <author>Sookjin</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Australia Road Trip #1 (Shepparton - Echuca - Port Augusta)</title>
-      <link>http://hrgo.github.io/blog/temp/australia-roadtrip-01/</link>
+      <link>http://localhost:1313/temp/australia-roadtrip-01/</link>
       <pubDate>Fri, 14 Aug 2015 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/temp/australia-roadtrip-01/</guid>
+      <guid>http://localhost:1313/temp/australia-roadtrip-01/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;150808 Shepparton&lt;/h3&gt;
@@ -100,10 +100,10 @@
     
     <item>
       <title>Australia Road Trip #2 (Coober Pedy - Uluru - Kings Canyon - Alice Springs)</title>
-      <link>http://hrgo.github.io/blog/temp/australia-roadtrip-02/</link>
+      <link>http://localhost:1313/temp/australia-roadtrip-02/</link>
       <pubDate>Wed, 19 Aug 2015 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/temp/australia-roadtrip-02/</guid>
+      <guid>http://localhost:1313/temp/australia-roadtrip-02/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;150814 사막으로&lt;/h3&gt;
@@ -203,10 +203,10 @@
     
     <item>
       <title>Australia Road Trip #3 ( Macdonnlle Ranges - Darwin)</title>
-      <link>http://hrgo.github.io/blog/temp/australia-roadtrip-03/</link>
+      <link>http://localhost:1313/temp/australia-roadtrip-03/</link>
       <pubDate>Fri, 28 Aug 2015 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/temp/australia-roadtrip-03/</guid>
+      <guid>http://localhost:1313/temp/australia-roadtrip-03/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;150821 금 맥도낼&lt;/h3&gt;
@@ -307,10 +307,10 @@
     
     <item>
       <title>Australia Road Trip #4 (Kununurra - Broome)</title>
-      <link>http://hrgo.github.io/blog/temp/australia-roadtrip-04/</link>
+      <link>http://localhost:1313/temp/australia-roadtrip-04/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/temp/australia-roadtrip-04/</guid>
+      <guid>http://localhost:1313/temp/australia-roadtrip-04/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;150830 혼자 달리는 길에 만난 우연&lt;/h3&gt;
@@ -409,10 +409,10 @@
     
     <item>
       <title>Australia Road Trip #5 (Exmouth - Coral bay - Kalbarri)</title>
-      <link>http://hrgo.github.io/blog/temp/australia-roadtrip-05/</link>
+      <link>http://localhost:1313/temp/australia-roadtrip-05/</link>
       <pubDate>Sat, 05 Sep 2015 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/temp/australia-roadtrip-05/</guid>
+      <guid>http://localhost:1313/temp/australia-roadtrip-05/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;D150905 토 다시 길위에서&lt;/h3&gt;
@@ -552,10 +552,10 @@ Sydney ll에 가서 구경하고 오늘도 일몰은 글렀음 구름때문에. 
     
     <item>
       <title>Australia Road Trip #6 (Perth)</title>
-      <link>http://hrgo.github.io/blog/temp/australia-roadtrip-06/</link>
+      <link>http://localhost:1313/temp/australia-roadtrip-06/</link>
       <pubDate>Sun, 13 Sep 2015 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/temp/australia-roadtrip-06/</guid>
+      <guid>http://localhost:1313/temp/australia-roadtrip-06/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;150913 일 퍼스 도착&lt;/h3&gt;
@@ -606,10 +606,10 @@ Sydney ll에 가서 구경하고 오늘도 일몰은 글렀음 구름때문에. 
     
     <item>
       <title>Australia Road Trip #7 (Perth - Port Augusta)</title>
-      <link>http://hrgo.github.io/blog/temp/australia-roadtrip-07/</link>
+      <link>http://localhost:1313/temp/australia-roadtrip-07/</link>
       <pubDate>Sat, 19 Sep 2015 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/temp/australia-roadtrip-07/</guid>
+      <guid>http://localhost:1313/temp/australia-roadtrip-07/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;150918&lt;/h3&gt;
@@ -690,10 +690,10 @@ Sydney ll에 가서 구경하고 오늘도 일몰은 글렀음 구름때문에. 
     
     <item>
       <title>Australia Road Trip #8 (Adelaide - Melbourne)</title>
-      <link>http://hrgo.github.io/blog/temp/australia-roadtrip-08/</link>
+      <link>http://localhost:1313/temp/australia-roadtrip-08/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/temp/australia-roadtrip-08/</guid>
+      <guid>http://localhost:1313/temp/australia-roadtrip-08/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;150926 토 아들레이드&lt;/h3&gt;

@@ -3,7 +3,7 @@
   <channel>
       <title>Overview on Simply Me </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://hrgo.github.io/blog/tags/overview/index.xml</link>
+    <link>http://localhost:1313/tags/overview/index.xml</link>
     <language>en-us</language>
     <author>Sookjin</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Torquay 자전거 여행 Overview</title>
-      <link>http://hrgo.github.io/blog/2015/06/torquay-0/</link>
+      <link>http://localhost:1313/2015/06/torquay-0/</link>
       <pubDate>Sat, 20 Jun 2015 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2015/06/torquay-0/</guid>
+      <guid>http://localhost:1313/2015/06/torquay-0/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Summary&lt;/h3&gt;

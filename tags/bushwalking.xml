@@ -3,7 +3,7 @@
   <channel>
       <title>Bushwalking on Simply Me </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://hrgo.github.io/blog/tags/bushwalking/index.xml</link>
+    <link>http://localhost:1313/tags/bushwalking/index.xml</link>
     <language>en-us</language>
     <author>Sookjin</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>월악산</title>
-      <link>http://hrgo.github.io/blog/2016/04/woraksan/</link>
+      <link>http://localhost:1313/2016/04/woraksan/</link>
       <pubDate>Fri, 15 Apr 2016 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2016/04/woraksan/</guid>
+      <guid>http://localhost:1313/2016/04/woraksan/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Overview&lt;/h3&gt;
@@ -227,10 +227,10 @@
     
     <item>
       <title>치악산 종주 </title>
-      <link>http://hrgo.github.io/blog/2016/04/chiaksan/</link>
+      <link>http://localhost:1313/2016/04/chiaksan/</link>
       <pubDate>Mon, 11 Apr 2016 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2016/04/chiaksan/</guid>
+      <guid>http://localhost:1313/2016/04/chiaksan/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Overview&lt;/h3&gt;
@@ -449,10 +449,10 @@
     
     <item>
       <title>지리산 종주 </title>
-      <link>http://hrgo.github.io/blog/2015/10/jirisan/</link>
+      <link>http://localhost:1313/2015/10/jirisan/</link>
       <pubDate>Sun, 18 Oct 2015 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2015/10/jirisan/</guid>
+      <guid>http://localhost:1313/2015/10/jirisan/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Overview&lt;/h3&gt;
@@ -815,10 +815,10 @@
     
     <item>
       <title>침낭을 정리하는 가장 좋은 방법</title>
-      <link>http://hrgo.github.io/blog/2015/07/how-to-pack-sleeping-bag/</link>
+      <link>http://localhost:1313/2015/07/how-to-pack-sleeping-bag/</link>
       <pubDate>Mon, 06 Jul 2015 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2015/07/how-to-pack-sleeping-bag/</guid>
+      <guid>http://localhost:1313/2015/07/how-to-pack-sleeping-bag/</guid>
       <description>&lt;p&gt;텐트에서 아침에 일어나자마자 하는 일은 침낭을 정리하는 것. 작은 공간에서 여러가지 짐들과 뒤섞인 침낭을 정리하는일은 초보자에겐 그리 쉬운 일이 아니다. 물론 솜 침낭이나 여름용 침낭은 쉽게 부풀어 오르지 않기 때문에 접어서 돌돌 마는 것이 어렵지 않다. 이불처럼 착착 갠 후 돌돌 말면 침낭 주머니에도 쉽게 쏙 들어간다.&lt;/p&gt;
 
 &lt;p&gt;하지만 겨울철 구스다운 침낭은 이렇게 말아서 보관하는 것이 여간 힘든 일이 아니다. 잘 접히지도 않고 금방 부풀어 오르기 때문에 돌돌 마는 건 더 힘들기 때문이다. 말아서 주머니에 넣으려고 하면 보통 그 부피가 주머니보다 훨씬 커져서 왠만해선 주머니에 쉽게 들어가지 않는다. 침낭을 어떻게 정리해서 깔끔하게 주머니에 넣을까?&lt;/p&gt;
@@ -835,10 +835,10 @@
     
     <item>
       <title>백패킹 가서  뭘 먹을까?</title>
-      <link>http://hrgo.github.io/blog/2014/08/overnight-hiking-meal-plan/</link>
+      <link>http://localhost:1313/2014/08/overnight-hiking-meal-plan/</link>
       <pubDate>Tue, 12 Aug 2014 18:18:59 &#43;1100</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2014/08/overnight-hiking-meal-plan/</guid>
+      <guid>http://localhost:1313/2014/08/overnight-hiking-meal-plan/</guid>
       <description>
 
 &lt;p&gt;Overnight Hiking, 백패킹을 처음 할 때 가장 고민했던 것이 바로 &lt;strong&gt;뭘 먹을까&lt;/strong&gt;였다. 처음 4일짜리 백패킹을 갈 때 무개념이었던 나는 점심으로 영양도 좋고 맛도 좋은 떡을 싸갔다. 맛있지만 참으로 무겁고 날이 더우면 금방 쉬어버리는 떡. 첫째날은 최고였지만 마지막날은 쉬기 일보직전의 떡을 먹어야 했다. 좋지 않은 선택이었다. 평소 도시락으로도 애용하는 삼각김밥도 역시 편하고 맛있지만 보관하기 힘들고 번거롭다는 단점이 있다. 장박 산행에 적합하지 않은 음식들이다.&lt;/p&gt;
@@ -919,10 +919,10 @@
     
     <item>
       <title>지도계의 이단아 Open Street Map</title>
-      <link>http://hrgo.github.io/blog/2014/07/google-map-cant-beat-osm/</link>
+      <link>http://localhost:1313/2014/07/google-map-cant-beat-osm/</link>
       <pubDate>Sat, 26 Jul 2014 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2014/07/google-map-cant-beat-osm/</guid>
+      <guid>http://localhost:1313/2014/07/google-map-cant-beat-osm/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Google Map can&amp;rsquo;t beat OSM!&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;구글맵이 최고인줄 알고 살았는데 최근에 자전거 코스를 연구(?)하면서 OSM이 훨씬 뛰어나다는 것을 알게 되었다. &lt;a href=&#34;http://www.openstreetmap.org/&#34;&gt;OSM&lt;/a&gt;은 Wiki 스타일로 전세계 사용자의 자발적인 참여로 만들어진 지도인데 다른건 모르겠지만 지도가 훨씬 디테일하고 자전거 도로나 하이킹 코스 등은 단연 압권이다. 말 대신 스크린샷으로 비교.&lt;/p&gt;
@@ -942,10 +942,10 @@ CycleMap을 선택하면 등고선까지 나온다.  난 이 등고선 지도�
     
     <item>
       <title>Mt. Bogong 그 정상에 서다</title>
-      <link>http://hrgo.github.io/blog/2014/06/mt-bogong/</link>
+      <link>http://localhost:1313/2014/06/mt-bogong/</link>
       <pubDate>Wed, 11 Jun 2014 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2014/06/mt-bogong/</guid>
+      <guid>http://localhost:1313/2014/06/mt-bogong/</guid>
       <description>&lt;p&gt;Victoria의 가장 높은산, 듣기만 했던 그 이름. 드디어  Mt. Bogong에 갈 기회가 생겼다. 게다가 처음으로 한국말을 하는 사람들과 떠나는 백패킹. 갈길이 멀지만 금요일 퇴근 후 출발하기로 했다. 퇴근 하고 저녁을 먹고 짐을 챙겨 근호님 집으로 가니 이미 대문앞에 나와서 출발 준비를 하고 있는 두분. 근호님은 구면, 준민님은 초면. 간단하게 인사를 나누고 7시에 정확히 출발한다.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2903/14358771896_32415a09b0_c.jpg&#34;/&gt;
@@ -1125,10 +1125,10 @@ Bright으로 넘어가는 도로의 전망대에서 마지막으로 눈도장.&
     
     <item>
       <title>Around the Prom in a Day</title>
-      <link>http://hrgo.github.io/blog/2014/03/around-the-prom-in-a-day/</link>
+      <link>http://localhost:1313/2014/03/around-the-prom-in-a-day/</link>
       <pubDate>Sat, 08 Mar 2014 04:12:56 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2014/03/around-the-prom-in-a-day/</guid>
+      <guid>http://localhost:1313/2014/03/around-the-prom-in-a-day/</guid>
       <description>&lt;p&gt;도전이었다. 3일 코스인 45km의 산길을 하루에 걷는다는 것. 그저 뭔가 특별한 일을 해보고 싶다는 생각에 덜컥 신청했다. 결론은. 내가 기억하는 가장 힘든 하루였다. Difficult 아니고 Hard도 아닌 Painful을 처음으로 겪어본 날. 마지막 3km는 정말 발가락의 물집 때문에 한발 한발이 고통스러웠다. 빨리 끝나기만을 바랬을 뿐.&lt;/p&gt;
 
 &lt;p&gt;그룹의 페이스에 맞춰 내 상태와 상관없이 걷고 쉬어야 했던 것. 후반부에 물을 많이 못마신 것과 쉬고 싶을 때 못쉬고 안 쉬고 싶을 때 쉬어야 했다는 것이 힘들었던 점. 부쉬워킹 경력 1년 된 풋내기로써 2-30년된 베테랑들의 페이스를 맞추는 것 자체가 나에겐 큰 도전이었다.&lt;/p&gt;
@@ -1237,10 +1237,10 @@ Telegraph Track junction. 모두가 지친 가운데 잠시 휴식. 서로 간�
     
     <item>
       <title>Overland Track #8 Narcissus Hut - Lake St Clair</title>
-      <link>http://hrgo.github.io/blog/2014/01/overland-day8/</link>
+      <link>http://localhost:1313/2014/01/overland-day8/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2014/01/overland-day8/</guid>
+      <guid>http://localhost:1313/2014/01/overland-day8/</guid>
       <description>&lt;p&gt;&lt;em&gt;Narcissus Hut - Lake St Clair&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://farm3.staticflickr.com/2939/14178248806_db32657af4_c.jpg&#34;  /&gt;
@@ -1289,10 +1289,10 @@ Telegraph Track junction. 모두가 지친 가운데 잠시 휴식. 서로 간�
     
     <item>
       <title>Overland Track #7 Pine Valley Hut - Narcissus Hut</title>
-      <link>http://hrgo.github.io/blog/2013/12/overland-day7/</link>
+      <link>http://localhost:1313/2013/12/overland-day7/</link>
       <pubDate>Tue, 31 Dec 2013 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2013/12/overland-day7/</guid>
+      <guid>http://localhost:1313/2013/12/overland-day7/</guid>
       <description>&lt;p&gt;&lt;em&gt;Labyrinth (sidetrip) - Pine Velley Hut - Narcissus Hut&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7344/14011717017_a07c8bf079_c.jpg&#34;  /&gt;
@@ -1364,10 +1364,10 @@ Narcissus Hut. 겉모양은 멀쩡하지만 정말 오래된 Hut이다. 화장
     
     <item>
       <title>Overland Track #6 Bert Nichols Hut - Pine Valley Hut</title>
-      <link>http://hrgo.github.io/blog/2013/12/overland-day6/</link>
+      <link>http://localhost:1313/2013/12/overland-day6/</link>
       <pubDate>Mon, 30 Dec 2013 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2013/12/overland-day6/</guid>
+      <guid>http://localhost:1313/2013/12/overland-day6/</guid>
       <description>&lt;p&gt;&lt;em&gt;Bert Nichols Hut - Pine Valley Hut - Acropolis (side trip)&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7441/14194944781_c7e2bde352_c.jpg&#34;  /&gt;
@@ -1431,10 +1431,10 @@ Narcissus Hut. 겉모양은 멀쩡하지만 정말 오래된 Hut이다. 화장
     
     <item>
       <title>Overland Track #5 Kia Ora Hut - Bert Nichols Hut</title>
-      <link>http://hrgo.github.io/blog/2013/12/overland-day5/</link>
+      <link>http://localhost:1313/2013/12/overland-day5/</link>
       <pubDate>Sun, 29 Dec 2013 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2013/12/overland-day5/</guid>
+      <guid>http://localhost:1313/2013/12/overland-day5/</guid>
       <description>&lt;p&gt;&lt;em&gt;Kia Ora Hut - Falls - Bert Nichols Hut&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7392/14011526378_703b03f02d_c.jpg&#34;  /&gt;
@@ -1481,10 +1481,10 @@ Narcissus Hut. 겉모양은 멀쩡하지만 정말 오래된 Hut이다. 화장
     
     <item>
       <title>Overland Track #4 Pelion Hut - Kia Ora Hut</title>
-      <link>http://hrgo.github.io/blog/2013/12/overland-day4/</link>
+      <link>http://localhost:1313/2013/12/overland-day4/</link>
       <pubDate>Sat, 28 Dec 2013 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2013/12/overland-day4/</guid>
+      <guid>http://localhost:1313/2013/12/overland-day4/</guid>
       <description>&lt;p&gt;&lt;em&gt;New Pelion Hut - Mt. Ossa - Kia Ora Hut&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7429/14011404547_17b74432e3_c.jpg&#34;  /&gt;
@@ -1580,10 +1580,10 @@ Mt Ossa로 접어들어 그 골짜기를 타고 올라가는데 바람이 너무
     
     <item>
       <title>Overland Track #3 Windermere - Pelion Hutt</title>
-      <link>http://hrgo.github.io/blog/2013/12/overland-day3/</link>
+      <link>http://localhost:1313/2013/12/overland-day3/</link>
       <pubDate>Fri, 27 Dec 2013 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2013/12/overland-day3/</guid>
+      <guid>http://localhost:1313/2013/12/overland-day3/</guid>
       <description>&lt;p&gt;&lt;em&gt;Windermere Hut - Pelion Hut&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7455/14010965107_9c709085d4_c.jpg&#34;  /&gt;
@@ -1688,10 +1688,10 @@ Mt Ossa로 접어들어 그 골짜기를 타고 올라가는데 바람이 너무
     
     <item>
       <title>Overland Track #2 Waterfall Velly Hut - Windermere Hut</title>
-      <link>http://hrgo.github.io/blog/2013/12/overland-day2/</link>
+      <link>http://localhost:1313/2013/12/overland-day2/</link>
       <pubDate>Thu, 26 Dec 2013 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://hrgo.github.io/blog/2013/12/overland-day2/</guid>
+      <guid>http://localhost:1313/2013/12/overland-day2/</guid>
       <description>&lt;p&gt;&lt;em&gt;Waterfall Velly Hut - Barn Bluff - Lake Will - Wndermere Hut&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://farm8.static.flickr.com/7176/13403053745_c264de570f_c.jpg&#34;  /&gt;
