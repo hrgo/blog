@@ -3,7 +3,7 @@
   <channel>
       <title>Family Newsletter 3 on Simply Me </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://sookjin.com/topics/family-newsletter-3/index.xml</link>
+    <link>http://localhost:1313/topics/family-newsletter-3/index.xml</link>
     <language>en-us</language>
     <author>Sookjin</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>[가족신문] 가족신문 3호 - 2014년 7월 발행</title>
-      <link>http://sookjin.com/2014/07/family-newletter-03/</link>
+      <link>http://localhost:1313/2014/07/family-newletter-03/</link>
       <pubDate>Tue, 15 Jul 2014 00:00:00 UTC</pubDate>
       <author>Sookjin</author>
-      <guid>http://sookjin.com/2014/07/family-newletter-03/</guid>
+      <guid>http://localhost:1313/2014/07/family-newletter-03/</guid>
       <description>&lt;p&gt;가족신문 3호
 &lt;a href=&#34;https://drive.google.com/open?id=0B8Nhtohq8bdbSm1Lcmc1eG83bWM&amp;amp;authuser=0&#34; title=&#34;View&#34;&gt;원본 보기&lt;/a&gt;&lt;/p&gt;
 
