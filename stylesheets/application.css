@@ -829,7 +829,7 @@ font-size: 1.4em;
 line-height: 1.2em;
 margin-top: .7em;
 margin-bottom: .7em;
-	color:#444;
+	#color:#444;
 }
 
 .ios.standalone .article h2 {
@@ -838,8 +838,7 @@ margin-bottom: .7em;
 }
 
 .article h3,.article h4 {
- 
-	font-size: 1.2em;
+	font-size: 1.1em;
 	line-height: 1.2em;
 	margin-top: .7em;
 	margin-bottom: .7em;
