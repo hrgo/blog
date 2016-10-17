@@ -67,7 +67,7 @@ h3 > .taglist a {
     text-transform: uppercase;
 }
 
-h3 .postdate, .taglist {
+h3 .postdate, p.postdate, .taglist {
     font-weight: 400;
     font-style: normal;
     color: #CCC;
@@ -87,6 +87,12 @@ article blockquote {
 .card .card-content .card-title {
     line-height:35px; 
 
+}
+
+.card-image img {
+    object-fit: cover;
+    width:400px;
+    height:225px;
 }
 
 article   {
