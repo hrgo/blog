@@ -10,7 +10,7 @@
     <atom:link href="http://sookjin.com/topics/nz-2011/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>NZ 나홀로 배낭여행 #1 Overview</title>
+      <title>NZ 나홀로 배낭여행 Overview</title>
       <link>http://sookjin.com/2011/09/nz-overview/</link>
       <pubDate>Thu, 22 Sep 2011 00:00:00 +0000</pubDate>
       
@@ -20,24 +20,19 @@
 &lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;제목 : 무늬만 배낭여행 - 해잡으러 고고.&lt;/li&gt;
+&lt;li&gt;제목 : 무늬만 배낭여행 (해잡으러 고고)&lt;/li&gt;
 &lt;li&gt;기간 : 23 Sep 2011 – 29 Sep 2011 (6박7일)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;flight&#34;&gt;Flight&lt;/h3&gt;
+&lt;h3 id=&#34;교통&#34;&gt;교통&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;MEL-ACK JQ218 (Melbourne_2340 to Auckland_0500)&lt;/li&gt;
 &lt;li&gt;AUK-MEL JQ212 (Auckland_1455 to Melbourne_1550)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;transport&#34;&gt;Transport&lt;/h3&gt;
-
-&lt;ul&gt;
 &lt;li&gt;렌트카 자가 운전 약 1800km&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;accomodation&#34;&gt;Accomodation&lt;/h3&gt;
+&lt;h3 id=&#34;숙소&#34;&gt;숙소&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;The Mousetrap Backpackers (&lt;a href=&#34;http://www.mousetrap.co.nz&#34;&gt;http://www.mousetrap.co.nz&lt;/a&gt;)&lt;/li&gt;
@@ -45,11 +40,23 @@
 &lt;li&gt;Taupo Urban Retreat (&lt;a href=&#34;http://www.tur.co.nz&#34;&gt;http://www.tur.co.nz&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Bamber House (&lt;a href=&#34;http://www.hostelbackpacker.com&#34;&gt;http://www.hostelbackpacker.com&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&#34;일정&#34;&gt;일정&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;110923 밤비행기로 멜번에서 오클랜드로 이동&lt;/li&gt;
+&lt;li&gt;110924 Auckland to Paihia&lt;/li&gt;
+&lt;li&gt;110925 Cape Reinga&lt;/li&gt;
+&lt;li&gt;110926 Rotorua로 이동&lt;/li&gt;
+&lt;li&gt;110927 Taupo로 이동&lt;/li&gt;
+&lt;li&gt;110928 Taupo to Auckland&lt;/li&gt;
+&lt;li&gt;110929 Auckland&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>NZ 나홀로 배낭여행 #2 Flight to Auckland</title>
+      <title>NZ 나홀로 배낭여행 #1 Flight to Auckland</title>
       <link>http://sookjin.com/2011/09/nz-day1/</link>
       <pubDate>Fri, 23 Sep 2011 00:00:00 +0000</pubDate>
       
@@ -70,7 +77,7 @@
     </item>
     
     <item>
-      <title>NZ 나홀로 배낭여행 #3 Auckland to Paihia</title>
+      <title>NZ 나홀로 배낭여행 #2 Auckland to Paihia</title>
       <link>http://sookjin.com/2011/09/nz-day2/</link>
       <pubDate>Sat, 24 Sep 2011 21:40:00 +0000</pubDate>
       
@@ -92,7 +99,7 @@
     </item>
     
     <item>
-      <title>NZ 나홀로 배낭여행 #4 Cape Reinga</title>
+      <title>NZ 나홀로 배낭여행 #3 Cape Reinga</title>
       <link>http://sookjin.com/2011/09/nz-day3/</link>
       <pubDate>Sun, 25 Sep 2011 21:39:36 +0000</pubDate>
       
@@ -114,7 +121,7 @@
     </item>
     
     <item>
-      <title>NZ 나홀로 배낭여행 #5 Rotorua</title>
+      <title>NZ 나홀로 배낭여행 #4 Rotorua</title>
       <link>http://sookjin.com/2011/09/nz-day4/</link>
       <pubDate>Mon, 26 Sep 2011 21:39:13 +0000</pubDate>
       
@@ -136,7 +143,7 @@
     </item>
     
     <item>
-      <title>NZ 나홀로 배낭여행 #6 Rotorua to Taupo</title>
+      <title>NZ 나홀로 배낭여행 #5 Rotorua to Taupo</title>
       <link>http://sookjin.com/2011/09/nz-day5/</link>
       <pubDate>Tue, 27 Sep 2011 21:38:55 +0000</pubDate>
       
@@ -162,7 +169,7 @@
     </item>
     
     <item>
-      <title>NZ 나홀로 배낭여행 #7  Taupo to Auckland</title>
+      <title>NZ 나홀로 배낭여행 #6  Taupo to Auckland</title>
       <link>http://sookjin.com/2011/09/nz-day6/</link>
       <pubDate>Wed, 28 Sep 2011 21:38:37 +0000</pubDate>
       
